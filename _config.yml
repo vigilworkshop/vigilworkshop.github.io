@@ -1,0 +1,10 @@
+title: Visually Grounded Interaction and Language (ViGIL) 2.0
+email: samyak@gatech.edu
+description: Website for the workshop on Visually Grounded Interaction and Language (ViGIL) 2.0 at NIPS 2018
+  ---
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+ga_id: UA-110470966-1
