@@ -136,6 +136,9 @@ This workshop thus aims to gather people from various backgrounds - machine lear
   Please submit your paper to the following address: vigilworkshop2018@gmail.com
   </p>
 
+    <p><b>At least, the first twenty accepted authors will be able to registerto NIPS workshops even if the registration for public is currently closed!</b>
+  </p>
+
   </div>
 
 </div><br>
