@@ -435,7 +435,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
 
 <div class="row">
   <div class="col-xs-12">
-    <h2>Pe</h2>
+    <h2>Previous sessions</h2>
   </div>
 </div>
 <a name="/prev_session"></a>
