@@ -435,6 +435,20 @@ This workshop thus aims to gather people from various backgrounds - machine lear
 
 <div class="row">
   <div class="col-xs-12">
+    <h2>Pe</h2>
+  </div>
+</div>
+<a name="/prev_session"></a>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      <a href="https://nips2017vigil.github.io/">2017</a>
+    </p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
     <h2>References</h2>
   </div>
 </div>
