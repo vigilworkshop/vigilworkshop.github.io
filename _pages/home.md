@@ -217,6 +217,15 @@ This workshop thus aims to gather people from various backgrounds - machine lear
 
 <div class="row">
   <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/antoniotorralba.jpg" | prepend:site.baseurl }}">
+    <p><b>Antonio Torralba</b>
+    is a Professor at Massachusetts Institute of Technology. He is  interested in building systems that can perceive the world like humans do. Although his work focuses on computer vision, he is also interested in other modalities such as audition and touch.
+    <span style="color:#1a1aff;font-weight:400;">[<a href="https://nlp.stanford.edu/manning/">Webpage</a>]</span></p>
+  </div>
+</div><br>
+
+<div class="row">
+  <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ali2.jpg" | prepend:site.baseurl }}">
     <p><b>Ali Farhadi</b>
     is an Associate Professor in the Department of Computer Science and Engineering at the University of Washington. He also leads the project Plato at the Allen Institute for Artificial Intelligence. He is mainly interested in computer vision, machine learning, the intersection of natural language and vision, analysis of the role of semantics in visual understanding, and visual reasoning.
@@ -242,8 +251,6 @@ This workshop thus aims to gather people from various backgrounds - machine lear
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://angelikilazaridou.github.io/research/">Webpage</a>]</span></p>
   </div>
 </div><br>
-
-
 
 <div class="row" id="organizers">
   <div class="col-xs-12">
