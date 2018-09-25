@@ -429,6 +429,12 @@ This workshop thus aims to gather people from various backgrounds - machine lear
     <a href="https://merl.com/">
       <img src="{{ "/static/img/ico/merl-logo-big.jpg" | prepend:site.baseurl }}">
     </a>
+    <a href="https://deepmind.com/">
+      <img src="{{ "/static/img/ico/deepmind_logo.png" | prepend:site.baseurl }}">
+    </a>
+        <a href="https://iglu-chistera.github.io/">
+      <img src="{{ "/static/img/ico/logoIGLU-300.png.jpg" | prepend:site.baseurl }}">
+    </a>
   </div>
 </div>
 <br>
