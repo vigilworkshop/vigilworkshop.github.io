@@ -133,7 +133,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
   </p>
 
   <p>
-  Please submit your paper to the following address: https://cmt3.research.microsoft.com/VIGIL2018
+  Please submit your paper to the following address: <a href="https://cmt3.research.microsoft.com/VIGIL2018">https://cmt3.research.microsoft.com/VIGIL2018</a>
   If you have any question, send an email to: vigilworkshop2018@gmail.com
   </p>
 
