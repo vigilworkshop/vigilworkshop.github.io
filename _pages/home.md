@@ -133,7 +133,8 @@ This workshop thus aims to gather people from various backgrounds - machine lear
   </p>
 
   <p>
-  Please submit your paper to the following address: vigilworkshop2018@gmail.com
+  Please submit your paper to the following address: https://cmt3.research.microsoft.com/VIGIL2018
+  If you have any question, send an email to: vigilworkshop2018@gmail.com
   </p>
 
   <p><b>At least, the first twenty accepted authors will be able to registerto NIPS workshops even if the registration for public is currently closed!</b>
