@@ -114,6 +114,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
   <li> lip reading</li>
   <li> audio-visual scene understanding - Sound localization </li>
   <li> audio-visual speech processing </li>
+  <li> audio-visual fusion </li> 
 </ul>
     </p>
 
