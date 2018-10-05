@@ -129,7 +129,10 @@ This workshop thus aims to gather people from various backgrounds - machine lear
 
   <p>
   Submissions should be up to 4 pages excluding references, acknowledgements, and supplementary material, and should be
-      <span style="color:#1a1aff;font-weight:400;"><a href="https://nips.cc/Conferences/2018/PaperInformation/StyleFiles">NIPS format</a></span>.  We also welcome published papers that are within the scope of the workshop (without re-formatting).
+      <span style="color:#1a1aff;font-weight:400;"><a href="https://nips.cc/Conferences/2018/PaperInformation/StyleFiles">NIPS format</a></span> and anonymous. The review process is double-blind.
+  </p>
+  <p>
+  We also welcome published papers that are within the scope of the workshop (without re-formatting). This specific papers do not have to be anonymous. They are not eligible for oral session and will only have a very light review process.  
   </p>
 
   <p>
@@ -137,7 +140,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
   If you have any question, send an email to: vigilworkshop2018@gmail.com
   </p>
 
-  <p><b>At least, the first twenty accepted authors will be able to registerto NIPS workshops even if the registration for public is currently closed!</b>
+  <p><b>The first 20 first accepted workshop papers are eligible to the pool of reserved conference tickets (one ticket per accepted papers).</b>
   </p>
 
   </div>
