@@ -199,3 +199,7 @@ pre {
   width: 100%;
   height: 100%;
 }
+
+.col-xs-12.sponsor a {
+    border-bottom: 0px;
+}
