@@ -437,7 +437,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
     <a href="https://deepmind.com/">
       <img src="{{ "/static/img/ico/deepmind_logo.png" | prepend:site.baseurl }}">
     </a>
-        <a href="https://https://ai.google/">
+        <a href="https://ai.google/">
       <img src="{{ "/static/img/ico/GoogleAI.png" | prepend:site.baseurl }}">
     </a>
         <a href="https://iglu-chistera.github.io/">
