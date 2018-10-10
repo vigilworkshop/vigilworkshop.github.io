@@ -160,21 +160,23 @@ This workshop thus aims to gather people from various backgrounds - machine lear
 <div class="row">
   <div class="col-xs-12">
     <ul>
-      <li>08:30 AM : Opening Remarks</li>
-      <li>08:45 AM : Invited Talk 1</li>
-      <li>09:30 AM : Invited Talk 2</li>
-      <li>10:15 AM : Coffee Break (15 min) </li>
-      <li>10:30 AM : Invited Talk 3</li>
-      <li>11:15 AM : Invited Talk 4</li>
-      <li>12:00 PM : Poster Session</li>
-      <li>12:45 PM : LUNCH</li>
-      <li>01:45 PM : Invited Talk 5</li>
-      <li>02:30 PM : Paper Spotlights</li>
-      <li>02:45 PM : Coffee Break & Poster Session (55 min)</li>
-      <li>03:40 PM : Invited Talk 6</li>
-      <li>04:25 PM : Invited Talk 7</li>
-      <li>05:10 PM : Panel Discussion</li>
-      <li>06:00 PM : Closing Remarks</li>
+      <li>:08:30 AM : Opening Remarks                        </li>
+      <li>:08:40 AM : Invited Speaker 1: Steven Harnad       </li>
+      <li>:09:20 AM : Invited Speaker 2: Antonio Torralba    </li>
+      <li>:10:00 AM : Audio challenge                        </li>
+      <li>:10:15 AM : Spotlights (2*7min)                    </li>
+      <li>:10:30 AM : Coffee Break (20min)                   </li>
+      <li>:10:50 AM : Invited Speaker 3: Douwe Kiela         </li>
+      <li>:11:30 AM : Invited Speaker 4: Ali Farhabi         </li>
+      <li>:12:10 PM : Poster Session                         </li>
+      <li>:01:10 PM : Break                                  </li>
+      <li>:01:40 PM : Invited Speaker 5: Angeliki Lazaridou  </li>
+      <li>:02:20 PM : Invited Speaker 6: Barbara Landau      </li>
+      <li>:03:00 PM : Coffee Break & Poster Session (50 mins)</li>
+      <li>:03:50 PM : Invited Speaker 7: Joyce Y. Chai       </li>
+      <li>:04:30 PM : Invited Speaker 8: Christopher Manning </li>
+      <li>:05:10 PM : Panel Discussion                       </li>
+      <li>:06:00 PM : Closing Remarks                        </li>
     </ul>
   </div>
 </div>
