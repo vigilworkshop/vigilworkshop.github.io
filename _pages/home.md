@@ -230,7 +230,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/antoniotorralba.jpg" | prepend:site.baseurl }}">
     <p><b>Antonio Torralba</b>
     is a Professor at Massachusetts Institute of Technology. He is  interested in building systems that can perceive the world like humans do. Although his work focuses on computer vision, he is also interested in other modalities such as audition and touch.
-    <span style="color:#1a1aff;font-weight:400;">[<a href="https://nlp.stanford.edu/manning/">Webpage</a>]</span></p>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="http://web.mit.edu/torralba/www/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
