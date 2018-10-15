@@ -445,6 +445,9 @@ This workshop thus aims to gather people from various backgrounds - machine lear
         <a href="https://iglu-chistera.github.io/">
       <img src="{{ "/static/img/ico/logoIGLU-300.png" | prepend:site.baseurl }}">
     </a>
+    <a href="http://uber.ai/">
+      <img src="{{ "/static/img/ico/logo_uber.jpg" | prepend:site.baseurl }}">
+    </a>
   </div>
 </div>
 <br>
