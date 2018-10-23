@@ -163,7 +163,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
       <li>08:30 AM : Opening Remarks                        </li>
       <li>08:40 AM : Invited Speaker 1: Steven Harnad       </li>
       <li>09:20 AM : Invited Speaker 2: Antonio Torralba    </li>
-      <li>10:00 AM : Audio challenge                        </li>
+      <li>10:00 AM : Audio Visual Semantic Understanding Challenge </li>
       <li>10:15 AM : Spotlights (2*7min)                    </li>
       <li>10:30 AM : Coffee Break (20min)                   </li>
       <li>10:50 AM : Invited Speaker 3: Douwe Kiela         </li>
