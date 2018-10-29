@@ -71,7 +71,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>November 1st, 2018</td>
+          <td>November 1st, 2018 - Midnight Pacific Time</td>
         </tr>
         <tr>
           <td>Final Decisions</td>
