@@ -171,9 +171,9 @@ This workshop thus aims to gather people from various backgrounds - machine lear
       <li>12:10 PM : Poster Session                         </li>
       <li>01:10 PM : Break                                  </li>
       <li>01:40 PM : Invited Speaker 5: Angeliki Lazaridou  </li>
-      <li>02:20 PM : Invited Speaker 6: Barbara Landau      </li>
+      <li>02:20 PM : Invited Speaker 6: Barbara Landau - Learning simple spatial terms: Core and more     </li>
       <li>03:00 PM : Coffee Break & Poster Session (50 mins)</li>
-      <li>03:50 PM : Invited Speaker 7: Joyce Y. Chai       </li>
+      <li>03:50 PM : Invited Speaker 7: Joyce Y. Chai - Language Communication with Robots </li>
       <li>04:30 PM : Invited Speaker 8: Christopher Manning </li>
       <li>05:10 PM : Panel Discussion                       </li>
       <li>06:00 PM : Closing Remarks                        </li>
