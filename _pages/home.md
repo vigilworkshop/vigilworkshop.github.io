@@ -2,7 +2,7 @@
 layout: project
 urltitle:  "Visually Grounded Interaction and Language"
 title: "Visually Grounded Interaction and Language"
-categories: nips, montreal, canada, workshop, computer vision, natural language, grounding, interaction, machine learning
+categories: nips, montreal, canada, workshop, computer vision, natural language, grounding, interaction, machine learning, vigil, 2018
 permalink: /
 <!-- favicon: /static/img/embodiedqa/favicon.png -->
 bibtex: true
@@ -114,7 +114,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
   <li> lip reading</li>
   <li> audio-visual scene understanding - Sound localization </li>
   <li> audio-visual speech processing </li>
-  <li> audio-visual fusion </li> 
+  <li> audio-visual fusion </li>
 </ul>
     </p>
 
