@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle:  "Visually Grounded Interaction and Language"
-title: "Visually Grounded Interaction and Language"
+urltitle:  "Visually Grounded Interaction and Language (ViGIL)"
+title: "Visually Grounded Interaction and Language (ViGIL)"
 categories: nips, montreal, canada, workshop, computer vision, natural language, grounding, interaction, machine learning, vigil, 2018, nips18
 permalink: /
 <!-- favicon: /static/img/embodiedqa/favicon.png -->
@@ -13,7 +13,7 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Visually Grounded Interaction and Language</h1></center>
+    <center><h1>Visually Grounded Interaction and Language (ViGIL)</h1></center>
     <center><h2>NIPS 2018 Workshop, Montreal, Canada</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
       Friday, 7th December, 08:00 AM to 06:30 PM,
