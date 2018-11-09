@@ -75,7 +75,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
         </tr>
         <tr>
           <td>Final Decisions</td>
-          <td>November <strike>8</strike>9th, 2018 </td>
+          <td>November <strike>8</strike> 9th, 2018 </td>
         </tr>
         <tr>
           <td>Workshop Date</td>
