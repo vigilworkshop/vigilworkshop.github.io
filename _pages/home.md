@@ -164,11 +164,11 @@ This workshop thus aims to gather people from various backgrounds - machine lear
       <li>08:40 AM : Invited Speaker 1: Steven Harnad       </li>
       <li>09:20 AM : Invited Speaker 2: Antonio Torralba    </li>
       <li>10:00 AM : Audio Visual Semantic Understanding Challenge </li>
-      <li>10:15 AM : Spotlights (2*7min)                    </li>
+      <li>10:15 AM : Spotlights (7*2min)                    </li>
       <li>10:30 AM : Coffee Break (20min)                   </li>
       <li>10:50 AM : Invited Speaker 3: Douwe Kiela         </li>
       <li>11:30 AM : Invited Speaker 4: Ali Farhabi         </li>
-      <li>12:10 PM : Poster Session                         </li>
+      <li>12:10 PM : Poster Session *Lunch provided!*       </li>
       <li>01:10 PM : Break                                  </li>
       <li>01:40 PM : Invited Speaker 5: Angeliki Lazaridou - Emergence of (linguistic communication) through multi-agent interactions </li>
       <li>02:20 PM : Invited Speaker 6: Barbara Landau - Learning simple spatial terms: Core and more     </li>
