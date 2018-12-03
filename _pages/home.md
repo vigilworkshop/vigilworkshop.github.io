@@ -345,7 +345,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
 
     <li>Efficient Visual Dialog Policy Learning via Positive Memory Retention- <i>Rui Zhao, Volker Tresp</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/37.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
 
-    <li>Efficient Choose Your Neuron: Incorporating Domain Knowledge through Neuron-Importance - <i>Ramprasaath R. Selvaraju, Prithvijit Chattopadhyay, Mohamed Elhoseiny, Tilak Sharma, Dhruv Batra, Devi Parikh, Stefan Lee</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/38.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+    <li>Choose Your Neuron: Incorporating Domain Knowledge through Neuron-Importance - <i>Ramprasaath R. Selvaraju, Prithvijit Chattopadhyay, Mohamed Elhoseiny, Tilak Sharma, Dhruv Batra, Devi Parikh, Stefan Lee</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/38.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
   </ul>
 </div>
 </div>
