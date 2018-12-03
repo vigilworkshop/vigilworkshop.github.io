@@ -14,7 +14,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Visually Grounded Interaction and Language (ViGIL)</h1></center>
-    <center><h2>NIPS 2018 Workshop, Montreal, Canada</h2></center>
+    <center><h2>NeurIPS 2018 Workshop, Montreal, Canada</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
       Friday, 7th December, 08:00 AM to 06:30 PM,
       Room: TBA
@@ -261,6 +261,92 @@ This workshop thus aims to gather people from various backgrounds - machine lear
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://angelikilazaridou.github.io/research/">Webpage</a>]</span></p>
   </div>
 </div><br>
+
+<div class="row" id="accepted-papers">
+  <div class="col-xs-12">
+    <h2>Accepted Papers</h2>
+  </div>
+</div>
+
+<div class="row">
+<div class="col-xs-12">
+  <ul>
+    <li>Modelling Visual Properties and Visual Context in Multimodal Semantics - <i>Christopher Davis, Luana Bulat, Anita Vero, Ekaterina Shutova</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/1.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Guiding Policies with Language via Meta-Learning - <i>John D. Co-Reyes, Abhishek Gupta, Suvansh Sanjeev, Nick Altieri, John DeNero, Pieter Abbeel, Sergey Levine</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/2.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Language coverage and generalization in RNN-based continuous sentence embeddings for interacting agents - <i>Luca Celotti, Simon Brodeur, Jean Rouat</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/3.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Scene Graph Parsing by Attention Graph - <i>Martin Andrews, Yew Ken Chia, Sam Witteveen</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/4.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Visual Entailment Task for Visually-Grounded Language Learning - <i>Ning Xie, Farley Lai, Derek Doran, Asim Kadav</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/5.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>On transfer learning using a MAC model variant - <i>Vincent Marois, T.S. Jayram, Vincent Albouy, Tomasz Kornuta, Younes Bouhadjar, Ahmet S. Ozcan</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/6.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Learning Capsule Networks with Images and Text - <i>Yufei Feng, Xiaodan Zhu, Yifeng Li, Yuping Ruan, Michael Greenspan</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/7.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Multimodal Abstractive Summarization for Open-Domain Videos - <i>Jindrich Libovicky, Shruti Palaskar, Spandana Gella, Florian Metze</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/8.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Generating Animated Videos of Human Activities from Natural Language Descriptions - <i>Angela S. Lin, Lemeng Wu, Rodolfo Corona, Kevin Tai, Qixing Huang, Raymond J. Mooney</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/9.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Mixture of Regression Experts in fMRI Encoding - <i>Subba Reddy Oota, Adithya Avvaru, Naresh Mawani, Raju S. Bapi</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/10.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments - <i>Howard Chen, Alane Suhr, Dipendra Misra, Yoav Artzi</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/11.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Following Formulaic Map Instructions in a Street Simulation Environment - <i>Volkan Cirik, Yuan Zhang, Jason Baldridge</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/12.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Keep Drawing It: Iterative language-based image generation and editing- <i>Alaaeldin El-Nouby, Shikhar Sharma, Hannes Schulz, Devon Hjelm, Layla El Asri, Samira Ebrahimi Kahou, Yoshua Bengio, Graham W. Taylor</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/13.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Blindfold Baselines for Embodied QA - <i>Ankesh Anand, Eugene Belilovsky, Kyle Kastner, Hugo Larochelle, Aaron Courville</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/14.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Object-oriented Targets for Visual Navigation using Rich Semantic Representations- <i>Jean-Benoit Delbrouck, Stéphane Dupont</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/15.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>CLEAR: A Dataset for Compositional Language and Elementary Acoustic Reasoning- <i>Jerome Abdelnour, Giampiero Salvi, Jean Rouat</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/16.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Incremental Object Model Learning from Multimodal Human-Robot Interactions- <i></i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/17.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Learning to Caption Images by Asking Natural Language Questions- <i>Kevin Shen, Amlan Kar, Sanja Fidler</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/18.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Audio-Visual Fusion for Sentiment Classification using Cross-Modal Autoencoder- <i>Sri Harsha Dumpala, Imran Sheikh, Rupayan Chakraborty, Sunil Kumar Kopparapu</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/19.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Compositional Hard Negatives for Visual Semantic Embeddings via an Adversary- <i>Avishek Joey Bose, Huan Ling, Yanshuai Cao</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/20.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>SARN: Relational Reasoning through Sequential Attention- <i>Jinwon An, Sungwon Lyu, Sungzoon Cho</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/21.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Generating Diverse Programs with Instruction Conditioned Reinforced Adversarial Learning- <i>Aishwarya Agrawal, Mateusz Malinowski, Felix Hill, Ali Eslami, Oriol Vinyals, Tejas Kulkarni</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/22.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Large-Scale Answerer in Questioner’s Mind for Visual Dialog Question Generation- <i>Sang-Woo Lee, Tong Gao, Sohee Yang, Jaejun Yoo, Jung-Woo Ha</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/23.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Variational learning across domains with triplet information- <i>Rita Kuznetsova, Oleg Bakhteev, Alexandr Ogaltsov</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/24.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Product Title Refinement via Multi-Modal Generative Adversarial Learning- <i>Jian-Guo Zhang, Pengcheng Zou, Zhao Li, Yao Wan, Ye Liu, Xiuming Pan, Yu Gong, Philip S. Yu</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/25.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>How2: A Large-scale Dataset for Multimodal Language Understanding- <i>Ramon Sanabria, Ozan Caglayan, Shruti Palaskar, Desmond Elliott, Loic Barrault, Lucia Specia, Florian Metze</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/26.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Generating Diverse and Accurate Visual Captions by Comparative Adversarial Learning- <i>Dianqi Li, Qiuyuan Huang, Xiaodong He, Lei Zhang, Ming-Ting Sun</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/27.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Zero-Shot Image Classification Guided by Natural Language Descriptions of Classes: A Meta-Learning Approach- <i>R. Lily Hu, Caiming Xiong, Richard Socher</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/28.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Visual Reasoning by Progressive Module Network- <i>SeungWook Kim, Makarand Tapaswi, Sanja Fidler</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/29.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Scene Graphs for Interpretable Video Anomaly Classification- <i>Nicholas F. Y. Chen, Zhiyuan Du, Khin Hua Ng</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/30.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Learning Unsupervised Visual Grounding Through Semantic Self-Supervision- <i>Syed Ashar Javed, Shreyas Saxena, Vineet Gandhi</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/31.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Towards Audio to Scene Image Synthesis using Generative Adversarial Network- <i>Chia-Hung, Wan, Shun-Po, Chuang, Hung-Yi, Lee</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/32.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Attend and Attack: Attention Guided Adversarial Attacks on Visual Question Answering Models- <i>Vasu Sharma, Ankita Kalra, Vaibhav , Simral Chaudhary, Labhesh Patel, LP Morency</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/33.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>An Interpretable Model for Scene Graph Generation- <i>Ji Zhang, Kevin Shih, Andrew Tao, Bryan Catanzaro, Ahmed Elgammal</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/34.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>A Corpus for Reasoning About Natural Language Grounded in Photographs- <i>Alane Suhrz, Stephanie Zhouy, Iris Zhangz, Huajun Baiz, Yoav Artziz</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/35.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>A Distributional Semantic Model of Visually Indirect Grounding for Abstract Words- <i>Akira Utsumi</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/36.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Efficient Visual Dialog Policy Learning via Positive Memory Retention- <i>Rui Zhao, Volker Tresp</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/37.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+  </ul>
+</div>
+</div>
 
 <div class="row" id="organizers">
   <div class="col-xs-12">
