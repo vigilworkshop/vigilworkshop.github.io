@@ -164,7 +164,17 @@ This workshop thus aims to gather people from various backgrounds - machine lear
       <li>08:40 AM : Invited Speaker 1: Steven Harnad       </li>
       <li>09:20 AM : Invited Speaker 2: Antonio Torralba    </li>
       <li>10:00 AM : Audio Visual Semantic Understanding Challenge </li>
-      <li>10:15 AM : Spotlights (7*2min)                    </li>
+      <li>10:15 AM : Spotlights (7*2min)
+      <ul>
+        <li>A Distributional Semantic Model of Visually Indirect Grounding for Abstract Words- <i>Akira Utsumi</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/36.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+        <li>Visual Reasoning by Progressive Module Network- <i>SeungWook Kim, Makarand Tapaswi, Sanja Fidler</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/29.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+        <li>Generating Diverse Programs with Instruction Conditioned Reinforced Adversarial Learning- <i>Aishwarya Agrawal, Mateusz Malinowski, Felix Hill, Ali Eslami, Oriol Vinyals, Tejas Kulkarni</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/22.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+        <li>Learning to Caption Images by Asking Natural Language Questions- <i>Kevin Shen, Amlan Kar, Sanja Fidler</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/18.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+        <li>Generating Animated Videos of Human Activities from Natural Language Descriptions - <i>Angela S. Lin, Lemeng Wu, Rodolfo Corona, Kevin Tai, Qixing Huang, Raymond J. Mooney</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/9.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+        <li>Multimodal Abstractive Summarization for Open-Domain Videos - <i>Jindrich Libovicky, Shruti Palaskar, Spandana Gella, Florian Metze</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/8.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+        <!-- <li></li> -->
+      </ul>
+      </li>
       <li>10:30 AM : Coffee Break (20min)                   </li>
       <li>10:50 AM : Invited Speaker 3: Douwe Kiela         </li>
       <li>11:30 AM : Invited Speaker 4: Ali Farhabi         </li>
