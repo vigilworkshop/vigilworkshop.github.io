@@ -17,7 +17,7 @@ acknowledgements: ""
     <center><h2>NeurIPS 2018 Workshop, Montreal, Canada</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
       Friday, 7th December, 08:00 AM to 06:30 PM,
-      Room: TBA
+      Room: 512 CDGH
     </span></center>
   </div>
 </div>
