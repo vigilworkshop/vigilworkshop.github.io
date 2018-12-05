@@ -164,7 +164,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
       <li>08:40 AM : Invited Speaker 1: Steven Harnad       </li>
       <li>09:20 AM : Invited Speaker 2: Antonio Torralba    </li>
       <li>10:00 AM : Audio Visual Semantic Understanding Challenge </li>
-      <li>10:15 AM : Spotlights (7*2min)
+      <li>10:15 AM : Spotlights (6*2min)
       <ul>
         <li>A Distributional Semantic Model of Visually Indirect Grounding for Abstract Words- <i>Akira Utsumi</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/36.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
         <li>Visual Reasoning by Progressive Module Network- <i>SeungWook Kim, Makarand Tapaswi, Sanja Fidler</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/29.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
