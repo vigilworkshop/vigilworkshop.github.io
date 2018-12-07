@@ -161,8 +161,8 @@ This workshop thus aims to gather people from various backgrounds - machine lear
   <div class="col-xs-12">
     <ul>
       <li>08:30 AM : Opening Remarks                        </li>
-      <li>08:40 AM : Invited Speaker 1: Steven Harnad       </li>
-      <li>09:20 AM : Invited Speaker 2: Antonio Torralba    </li>
+      <li>08:40 AM : Invited Speaker 1: Steven Harnad - The symbol grounding problem </li>
+      <li>09:20 AM : Invited Speaker 2: Antonio Torralba - Learning to See and Hear    </li>
       <li>10:00 AM : Audio Visual Semantic Understanding Challenge </li>
       <li>10:15 AM : Spotlights (6*2min)
       <ul>
@@ -176,15 +176,15 @@ This workshop thus aims to gather people from various backgrounds - machine lear
       </ul>
       </li>
       <li>10:30 AM : Coffee Break (20min)                   </li>
-      <li>10:50 AM : Invited Speaker 3: Douwe Kiela         </li>
-      <li>11:30 AM : Invited Speaker 4: Roozbeh Mottaghi         </li>
+      <li>10:50 AM : Invited Speaker 3: Douwe Kiela - Learning Multimodal Embeddings   </li>
+      <li>11:30 AM : Invited Speaker 4: Roozbeh Mottaghi - Interactive Scene Understanding </li>
       <li>12:10 PM : Poster Session <b>Lunch provided!</b> </li>
       <li>01:10 PM : Break                                  </li>
       <li>01:40 PM : Invited Speaker 5: Angeliki Lazaridou - Emergence of (linguistic communication) through multi-agent interactions </li>
       <li>02:20 PM : Invited Speaker 6: Barbara Landau - Learning simple spatial terms: Core and more     </li>
       <li>03:00 PM : Coffee Break & Poster Session (50 mins)</li>
       <li>03:50 PM : Invited Speaker 7: Joyce Y. Chai - Language Communication with Robots </li>
-      <li>04:30 PM : Invited Speaker 8: Christopher Manning </li>
+      <li>04:30 PM : Invited Speaker 8: Christopher Manning - Towards real-world visual reasoning </li>
       <li>05:10 PM : Panel Discussion                       </li>
       <li>06:00 PM : Closing Remarks                        </li>
     </ul>
