@@ -161,8 +161,8 @@ This workshop thus aims to gather people from various backgrounds - machine lear
   <div class="col-xs-12">
     <ul>
       <li>08:30 AM : Opening Remarks                        </li>
-      <li>08:40 AM : Invited Speaker 1: Steven Harnad       </li>
-      <li>09:20 AM : Invited Speaker 2: Antonio Torralba    </li>
+      <li>08:40 AM : Invited Speaker 1: Steven Harnad - The symbol grounding problem </li>
+      <li>09:20 AM : Invited Speaker 2: Antonio Torralba - Learning to See and Hear    </li>
       <li>10:00 AM : Audio Visual Semantic Understanding Challenge </li>
       <li>10:15 AM : Spotlights (6*2min)
       <ul>
@@ -176,15 +176,15 @@ This workshop thus aims to gather people from various backgrounds - machine lear
       </ul>
       </li>
       <li>10:30 AM : Coffee Break (20min)                   </li>
-      <li>10:50 AM : Invited Speaker 3: Douwe Kiela         </li>
-      <li>11:30 AM : Invited Speaker 4: Ali Farhabi         </li>
+      <li>10:50 AM : Invited Speaker 3: Douwe Kiela - Learning Multimodal Embeddings   </li>
+      <li>11:30 AM : Invited Speaker 4: Roozbeh Mottaghi - Interactive Scene Understanding </li>
       <li>12:10 PM : Poster Session <b>Lunch provided!</b> </li>
       <li>01:10 PM : Break                                  </li>
       <li>01:40 PM : Invited Speaker 5: Angeliki Lazaridou - Emergence of (linguistic communication) through multi-agent interactions </li>
       <li>02:20 PM : Invited Speaker 6: Barbara Landau - Learning simple spatial terms: Core and more     </li>
       <li>03:00 PM : Coffee Break & Poster Session (50 mins)</li>
       <li>03:50 PM : Invited Speaker 7: Joyce Y. Chai - Language Communication with Robots </li>
-      <li>04:30 PM : Invited Speaker 8: Christopher Manning </li>
+      <li>04:30 PM : Invited Speaker 8: Christopher Manning - Towards real-world visual reasoning </li>
       <li>05:10 PM : Panel Discussion                       </li>
       <li>06:00 PM : Closing Remarks                        </li>
     </ul>
@@ -246,10 +246,11 @@ This workshop thus aims to gather people from various backgrounds - machine lear
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ali2.jpg" | prepend:site.baseurl }}">
-    <p><b>Ali Farhadi</b>
-    is an Associate Professor in the Department of Computer Science and Engineering at the University of Washington. He also leads the project Plato at the Allen Institute for Artificial Intelligence. He is mainly interested in computer vision, machine learning, the intersection of natural language and vision, analysis of the role of semantics in visual understanding, and visual reasoning.
-    <span style="color:#1a1aff;font-weight:400;">[<a href="https://homes.cs.washington.edu/~ali/">Webpage</a>]</span></p>
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/roozbeh_mottaghi.jpg" | prepend:site.baseurl }}">
+    <p><b>Roozbeh Mottaghi</b>
+    is a Research Scientist at the Allen Institute for Artificial Intelligence.  His research interests include
+    computer vision, reasoning, natural language, and action.
+    <span style="color:#1a1aff;font-weight:400;">[<a href="https://cs.stanford.edu/~roozbeh/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
@@ -356,6 +357,10 @@ This workshop thus aims to gather people from various backgrounds - machine lear
     <li>Efficient Visual Dialog Policy Learning via Positive Memory Retention- <i>Rui Zhao, Volker Tresp</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/37.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
 
     <li>Choose Your Neuron: Incorporating Domain Knowledge through Neuron-Importance - <i>Ramprasaath R. Selvaraju, Prithvijit Chattopadhyay, Mohamed Elhoseiny, Tilak Sharma, Dhruv Batra, Devi Parikh, Stefan Lee</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/38.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>A Bayesian Approach to Phrase Understanding through Cross-Situational Learning - <i>Amir Aly, Tadahiro Taniguchi, Tilak Sharma, Daichi Mochihashi</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/39.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Embodied Question Answering in Photorealistic Environments with Point Cloud Perception - <i>Erik Wijmans*, Samyak Datta*, Oleksandr Maksymets*, Abhishek Das, Georgia Gkioxari, Stefan Lee, Irfan Essa, Devi Parikh, Dhruv Batra</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/eqa_mp3d_vigil18.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
   </ul>
 </div>
 </div>
