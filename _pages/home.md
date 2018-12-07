@@ -361,6 +361,35 @@ This workshop thus aims to gather people from various backgrounds - machine lear
     <li>A Bayesian Approach to Phrase Understanding through Cross-Situational Learning - <i>Amir Aly, Tadahiro Taniguchi, Tilak Sharma, Daichi Mochihashi</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/39.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
 
     <li>Embodied Question Answering in Photorealistic Environments with Point Cloud Perception - <i>Erik Wijmans*, Samyak Datta*, Oleksandr Maksymets*, Abhishek Das, Georgia Gkioxari, Stefan Lee, Irfan Essa, Devi Parikh, Dhruv Batra</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/eqa_mp3d_vigil18.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering - <i>Medhini Narasimhan, Svetlana Lazebnik, Alexander Schwing </i>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-1.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+    </li>
+
+    <li>DVQA: Understanding Data Visualizations via Question Answering - <i>Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan</i>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-2.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+    </li>
+
+    <li>Dialog-based Interactive Image Retrieval - <i>Hui Wu, Xiaoxiao Guo, Rogerio Feris, Yu Cheng, Steven Rennie, Gerald Tesauro</i>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-3.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+    </li>
+
+    <li>TallyQA: Answering Complex Counting Questions - <i>Manoj Acharya, Kushal Kafle, Christopher Kanan</i>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-4.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+    </li>
+
+    <li>Efficient Gradient Computation for Structured Output Learning with Rational and Tropical Losses - <i>Corinna Cortes, Vitaly Kuznetsov,Mehryar Mohri, Dmitry Storcheus, Scott Yang </i>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-5.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+    </li>
+
+    <li>Systematic Generalization: What Is Required and Can It Be Learned? - <i>Shikhar Murty, Dzmitry Bahdanau, Michael Noukhovitch, Thien Nguyen, Aaron Courville, Harm De Vries</i>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-6.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+    </li>
+
+    <li>Towards Understanding Syntactic Structure of Language in Human-Robot Interaction - <i>Amir Aly</i>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-7.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+    </li>
+
   </ul>
 </div>
 </div>
