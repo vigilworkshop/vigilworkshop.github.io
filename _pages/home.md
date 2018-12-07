@@ -177,7 +177,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
       </li>
       <li>10:30 AM : Coffee Break (20min)                   </li>
       <li>10:50 AM : Invited Speaker 3: Douwe Kiela         </li>
-      <li>11:30 AM : Invited Speaker 4: Ali Farhabi         </li>
+      <li>11:30 AM : Invited Speaker 4: Roozbeh Mottaghi         </li>
       <li>12:10 PM : Poster Session <b>Lunch provided!</b> </li>
       <li>01:10 PM : Break                                  </li>
       <li>01:40 PM : Invited Speaker 5: Angeliki Lazaridou - Emergence of (linguistic communication) through multi-agent interactions </li>
