@@ -358,7 +358,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
 
     <li>Choose Your Neuron: Incorporating Domain Knowledge through Neuron-Importance - <i>Ramprasaath R. Selvaraju, Prithvijit Chattopadhyay, Mohamed Elhoseiny, Tilak Sharma, Dhruv Batra, Devi Parikh, Stefan Lee</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/38.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
 
-    <li>A Bayesian Approach to Phrase Understanding through Cross-Situational Learning - <i>Amir Aly, Tadahiro Taniguchi, Tilak Sharma, Daichi Mochihashi</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/39.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+    <li>A Bayesian Approach to Phrase Understanding through Cross-Situational Learning - <i>Amir Aly, Tadahiro Taniguchi, Daichi Mochihashi</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/39.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
 
     <li>Embodied Question Answering in Photorealistic Environments with Point Cloud Perception - <i>Erik Wijmans*, Samyak Datta*, Oleksandr Maksymets*, Abhishek Das, Georgia Gkioxari, Stefan Lee, Irfan Essa, Devi Parikh, Dhruv Batra</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/eqa_mp3d_vigil18.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
 
@@ -382,14 +382,9 @@ This workshop thus aims to gather people from various backgrounds - machine lear
     <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-5.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
     </li>
 
-    <li>Systematic Generalization: What Is Required and Can It Be Learned? - <i>Shikhar Murty, Dzmitry Bahdanau, Michael Noukhovitch, Thien Nguyen, Aaron Courville, Harm De Vries</i>
+    <li>Systematic Generalization: What Is Required and Can It Be Learned? - <i>Shikhar Murty, Dzmitry Bahdanau, Michael Noukhovitch, Thien Nguyen, Harm De Vries, Aaron Courville</i>
     <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-6.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
     </li>
-
-    <li>Towards Understanding Syntactic Structure of Language in Human-Robot Interaction - <i>Amir Aly</i>
-    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-7.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
-    </li>
-
   </ul>
 </div>
 </div>
