@@ -273,6 +273,19 @@ This workshop thus aims to gather people from various backgrounds - machine lear
   </div>
 </div><br>
 
+<div class="row" id="recordings">
+    <div class="col-xs-12">
+    <h2>Recordings</h2>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    The workshop was streamed via BlueJeans. You can find the recordings below. 
+    <a href="https://bluejeans.com/s/KAsSh">Morning Session</a> | <a href="https://bluejeans.com/s/hEo5B">Afternoon Session</a>
+  </div>
+</div>
+
 <div class="row" id="accepted-papers">
   <div class="col-xs-12">
     <h2>Accepted Papers</h2>
