@@ -399,6 +399,10 @@ This workshop thus aims to gather people from various backgrounds - machine lear
     <li>Systematic Generalization: What Is Required and Can It Be Learned? - <i>Shikhar Murty, Dzmitry Bahdanau, Michael Noukhovitch, Thien Nguyen, Harm De Vries, Aaron Courville</i>
     <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-6.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
     </li>
+    
+        <li>Systematic Generalization: What Is Required and Can It Be Learned? - <i>Pablo Azagra, Ana Cristina Murillo, Manuel Lopes, Javier Civera </i>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/45.pdf" | prepend:site.baseurl }}">pdf</a>] - <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/45_supp.pdf" | prepend:site.baseurl }}">supp</a>]</span>
+    </li>
   </ul>
 </div>
 </div>
