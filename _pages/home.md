@@ -184,7 +184,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
       <li>02:20 PM : Invited Speaker 6: Barbara Landau - Learning simple spatial terms: Core and more     </li>
       <li>03:00 PM : Coffee Break & Poster Session (50 mins)</li>
       <li>03:50 PM : Invited Speaker 7: Joyce Y. Chai - Language Communication with Robots </li>
-      <li>04:30 PM : Invited Speaker 8: Christopher Manning - Towards real-world visual reasoning </li>
+      <li>04:30 PM : Invited Speaker 8: Christopher Manning - Towards real-world visual reasoning | <a href="https://stanford.app.box.com/s/5ce8qqylqj41ytnyxzme4mq9vx587mm6">Slides</a></li>
       <li>05:10 PM : Panel Discussion                       </li>
       <li>06:00 PM : Closing Remarks                        </li>
     </ul>
@@ -281,8 +281,9 @@ This workshop thus aims to gather people from various backgrounds - machine lear
 
 <div class="row">
   <div class="col-xs-12">
-    The workshop was streamed via BlueJeans. You can find the recordings below. 
-    <a href="https://bluejeans.com/s/KAsSh">Morning Session</a> | <a href="https://bluejeans.com/s/hEo5B">Afternoon Session</a>
+    <p>
+    The workshop was broadcasted via BlueJeans. You can find the recordings here: 
+    <a href="https://bluejeans.com/s/KAsSh">Morning Session</a> | <a href="https://bluejeans.com/s/hEo5B">Afternoon Session</a></p>
   </div>
 </div>
 
