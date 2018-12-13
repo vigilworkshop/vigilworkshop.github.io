@@ -161,7 +161,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
   <div class="col-xs-12">
     <ul>
       <li>08:30 AM : Opening Remarks                        </li>
-      <li>08:40 AM : Invited Speaker 1: Steven Harnad - The symbol grounding problem </li>
+      <li>08:40 AM : Invited Speaker 1: Steven Harnad - The symbol grounding problem  | <a href="https://github.com/nips2018vigil/nips2018vigil.github.io/blob/master/static/slides/harnad.pptx?raw=true">Slides</a> </li>
       <li>09:20 AM : Invited Speaker 2: Antonio Torralba - Learning to See and Hear    </li>
       <li>10:00 AM : Audio Visual Semantic Understanding Challenge </li>
       <li>10:15 AM : Spotlights (6*2min)
