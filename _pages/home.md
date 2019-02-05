@@ -176,7 +176,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
       </ul>
       </li>
       <li>10:30 AM : Coffee Break (20min)                   </li>
-      <li>10:50 AM : Invited Speaker 3: Douwe Kiela - Learning Multimodal Embeddings   </li>
+      <li>10:50 AM : Invited Speaker 3: Douwe Kiela - Learning Multimodal Embeddings  | <a href="https://github.com/nips2018vigil/nips2018vigil.github.io/raw/master/static/slides/Misinterpreting%20Wittgenstein%20Presentation.pdf">Slides</a>  </li>
       <li>11:30 AM : Invited Speaker 4: Roozbeh Mottaghi - Interactive Scene Understanding </li>
       <li>12:10 PM : Poster Session <b>Lunch provided!</b> </li>
       <li>01:10 PM : Break                                  </li>
