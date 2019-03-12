@@ -16,7 +16,7 @@ acknowledgements: ""
     <center><h1>Visually Grounded Interaction and Language (ViGIL)</h1></center>
     <center><h2>NeurIPS 2018 Workshop, Montreal, Canada</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
-      Friday, 7th December, 08:00 AM to 06:30 PM,
+      Friday, 7th December, 08:30 AM to 06:30 PM,
       Room: 512 CDGH
     </span></center>
   </div>
@@ -161,8 +161,8 @@ This workshop thus aims to gather people from various backgrounds - machine lear
   <div class="col-xs-12">
     <ul>
       <li>08:30 AM : Opening Remarks                        </li>
-      <li>08:40 AM : Invited Speaker 1: Steven Harnad       </li>
-      <li>09:20 AM : Invited Speaker 2: Antonio Torralba    </li>
+      <li>08:40 AM : Invited Speaker 1: Steven Harnad - The symbol grounding problem  | <a href="https://github.com/nips2018vigil/nips2018vigil.github.io/blob/master/static/slides/harnad.pptx?raw=true">Slides</a> </li>
+      <li>09:20 AM : Invited Speaker 2: Antonio Torralba - Learning to See and Hear    </li>
       <li>10:00 AM : Audio Visual Semantic Understanding Challenge </li>
       <li>10:15 AM : Spotlights (6*2min)
       <ul>
@@ -176,15 +176,15 @@ This workshop thus aims to gather people from various backgrounds - machine lear
       </ul>
       </li>
       <li>10:30 AM : Coffee Break (20min)                   </li>
-      <li>10:50 AM : Invited Speaker 3: Douwe Kiela         </li>
-      <li>11:30 AM : Invited Speaker 4: Roozbeh Mottaghi         </li>
+      <li>10:50 AM : Invited Speaker 3: Douwe Kiela - Learning Multimodal Embeddings  | <a href="https://github.com/nips2018vigil/nips2018vigil.github.io/raw/master/static/slides/Misinterpreting%20Wittgenstein%20Presentation.pdf">Slides</a>  </li>
+      <li>11:30 AM : Invited Speaker 4: Roozbeh Mottaghi - Interactive Scene Understanding </li>
       <li>12:10 PM : Poster Session <b>Lunch provided!</b> </li>
       <li>01:10 PM : Break                                  </li>
       <li>01:40 PM : Invited Speaker 5: Angeliki Lazaridou - Emergence of (linguistic communication) through multi-agent interactions </li>
       <li>02:20 PM : Invited Speaker 6: Barbara Landau - Learning simple spatial terms: Core and more     </li>
       <li>03:00 PM : Coffee Break & Poster Session (50 mins)</li>
       <li>03:50 PM : Invited Speaker 7: Joyce Y. Chai - Language Communication with Robots </li>
-      <li>04:30 PM : Invited Speaker 8: Christopher Manning </li>
+      <li>04:30 PM : Invited Speaker 8: Christopher Manning - Towards real-world visual reasoning | <a href="https://stanford.app.box.com/s/5ce8qqylqj41ytnyxzme4mq9vx587mm6">Slides</a></li>
       <li>05:10 PM : Panel Discussion                       </li>
       <li>06:00 PM : Closing Remarks                        </li>
     </ul>
@@ -273,6 +273,20 @@ This workshop thus aims to gather people from various backgrounds - machine lear
   </div>
 </div><br>
 
+<div class="row" id="recordings">
+    <div class="col-xs-12">
+    <h2>Recordings</h2>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+    The workshop was broadcasted via BlueJeans. You can find the recordings here: 
+    <a href="https://bluejeans.com/s/KAsSh">Morning Session</a> | <a href="https://bluejeans.com/s/hEo5B">Afternoon Session</a></p>
+  </div>
+</div>
+
 <div class="row" id="accepted-papers">
   <div class="col-xs-12">
     <h2>Accepted Papers</h2>
@@ -358,9 +372,38 @@ This workshop thus aims to gather people from various backgrounds - machine lear
 
     <li>Choose Your Neuron: Incorporating Domain Knowledge through Neuron-Importance - <i>Ramprasaath R. Selvaraju, Prithvijit Chattopadhyay, Mohamed Elhoseiny, Tilak Sharma, Dhruv Batra, Devi Parikh, Stefan Lee</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/38.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
 
-    <li>A Bayesian Approach to Phrase Understanding through Cross-Situational Learning - <i>Amir Aly, Tadahiro Taniguchi, Tilak Sharma, Daichi Mochihashi</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/39.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+    <li>A Bayesian Approach to Phrase Understanding through Cross-Situational Learning - <i>Amir Aly, Tadahiro Taniguchi, Daichi Mochihashi</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/39.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
 
     <li>Embodied Question Answering in Photorealistic Environments with Point Cloud Perception - <i>Erik Wijmans*, Samyak Datta*, Oleksandr Maksymets*, Abhishek Das, Georgia Gkioxari, Stefan Lee, Irfan Essa, Devi Parikh, Dhruv Batra</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/eqa_mp3d_vigil18.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+
+    <li>Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering - <i>Medhini Narasimhan, Svetlana Lazebnik, Alexander Schwing </i>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-1.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+    </li>
+
+    <li>DVQA: Understanding Data Visualizations via Question Answering - <i>Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan</i>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-2.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+    </li>
+
+    <li>Dialog-based Interactive Image Retrieval - <i>Hui Wu, Xiaoxiao Guo, Rogerio Feris, Yu Cheng, Steven Rennie, Gerald Tesauro</i>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-3.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+    </li>
+
+    <li>TallyQA: Answering Complex Counting Questions - <i>Manoj Acharya, Kushal Kafle, Christopher Kanan</i>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-4.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+    </li>
+
+    <li>Efficient Gradient Computation for Structured Output Learning with Rational and Tropical Losses - <i>Corinna Cortes, Vitaly Kuznetsov,Mehryar Mohri, Dmitry Storcheus, Scott Yang </i>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-5.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+    </li>
+
+    <li>Systematic Generalization: What Is Required and Can It Be Learned? - <i>Shikhar Murty, Dzmitry Bahdanau, Michael Noukhovitch, Thien Nguyen, Harm De Vries, Aaron Courville</i>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/extra-6.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+    </li>
+    
+    <li>Incremental Object Model Learning from Multimodal Human-Robot Interactions - <i>Pablo Azagra, Ana Cristina Murillo, Manuel Lopes, Javier Civera </i>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/45.pdf" | prepend:site.baseurl }}">pdf</a>] </span>
+    - <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/45_supp.pdf" | prepend:site.baseurl }}">supp</a>]</span>
+    </li>
   </ul>
 </div>
 </div>
