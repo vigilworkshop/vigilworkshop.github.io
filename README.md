@@ -1,4 +1,4 @@
-# nips2018vigil.github.io
-Webpage source files for ViGIL 2.0 workshop at NIPS 2018
+# vigilworkshop.github.io
+Webpage source files for ViGIL 3.0 workshop at NeurIPS 2019
 
-https://nips2018vigil.github.io/
+https://vigilworkshop.github.io/
