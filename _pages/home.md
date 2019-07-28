@@ -40,7 +40,7 @@ acknowledgements: ""
 </p>
 
 <p>
-On the other hand, humans acquire language by communicating about and interacting within a rich, perceptual environment. This behavior provides the necessary grounding for symbols, i.e. to concrete objects or concepts (i.e. physical or psychological). Thus, recent work has aimed to bridge vision, interactive learning, and natural language understanding through language learning tasks based on natural images (ReferIt [1], GuessWhat?! [2], Visual Question Answering [3,4,5,6], Visual Dialog [7], Captioning [8]) or through embodied agents performing interactive tasks [13,14,17,22,23,24,26] in physically simulated environments (DeepMind Lab [9], Baidu XWorld [10], OpenAI Universe [11], House3D [20], Matterport3D [21], GIBSON [24], MINOS [35], AI2-THOR [19], StreetLearn [17]), often drawing on the recent successes of deep learning and reinforcement learning. We believe this line of research poses a promising, long-term solution to the grounding problem faced by current, popular language understanding models.
+On the other hand, humans acquire language by communicating about and interacting within a rich, perceptual environment. This behavior provides the necessary grounding for symbols, i.e. to concrete objects or concepts (i.e. physical or psychological). Thus, recent work has aimed to bridge vision, interactive learning, and natural language understanding through language learning tasks based on natural images (ReferIt [1], GuessWhat?! [2], Visual Question Answering [3,4,5,6], Visual Dialog [7,8], Captioning [9], Visual-Audio Correspondence [30]) or through embodied agents performing interactive tasks [14,15,18,19,24,25,26,27,29] in physically simulated environments (DeepMind Lab [10], Baidu XWorld [11], OpenAI Universe [12], House3D [22], Matterport3D [23], GIBSON [27], MINOS [28], AI2-THOR [21], StreetLearn [18]), often drawing on the recent successes of deep learning and reinforcement learning. We believe this line of research poses a promising, long-term solution to the grounding problem faced by current, popular language understanding models.
 </p>
 
 
@@ -339,6 +339,9 @@ TBA
  Abhishek Das et al. "Visual dialog." CVPR, 2017.
  </li>
  <li>
+ Harm de Vries et al. "GuessWhat?! Visual object discovery through multi-modal dialogue." CVPR, 2017.
+ </li>
+ <li>
  Anna Rohrbach et al. "Generating Descriptions with Grounded and Co-Referenced People." CVPR, 2017.
  </li>
  <li>
@@ -363,16 +366,19 @@ TBA
  Alexander G. Huth et al. "Natural speech reveals the semantic maps that tile human cerebral cortex." Nature, 2016.
  </li>
  <li>
- Alexander G. Huth, et al. "Decoding the semantic content of natural movies from human brain activity." Frontiers in systems neuroscience, 2016.
+ Alexander G. Huth et al. "Decoding the semantic content of natural movies from human brain activity." Frontiers in systems neuroscience, 2016.
  </li>
  <li>
- Piotr Mirowski et al. "Learning to Navigate in Cities Without a Map." arXiv, 2018.
+ Piotr Mirowski et al. "Learning to Navigate in Cities Without a Map." NeurIPS, 2018.
  </li>
+ <li>
+  Karl Moritz Hermann et al. "Learning to Follow Directions in StreetView." arXiv, 2019. 
+  </li>
  <li>
  Stevan Harnad. "The symbol grounding problem." CNLS, 1989.
  </li>
  <li>
- E Kolve, R Mottaghi, D Gordon, Y Zhu, A Gupta, A Farhadi. "AI2-THOR: An Interactive 3D Environment for Visual AI." arXiv, 2017.
+ E Kolve et al. "AI2-THOR: An Interactive 3D Environment for Visual AI." arXiv, 2017.
  </li>
  <li>
  Yi Wu et al. "House3D: A Rich and Realistic 3D Environment." arXiv, 2017.
@@ -387,13 +393,19 @@ TBA
  Peter Anderson et al. "Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments." CVPR, 2018.
  </li>
  <li>
+ Xin Wang et al. "Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation." CVPR, 2019.
+  </li>
+ <li>
  Fei Xia et al. "Gibson Env: Real-World Perception for Embodied Agents." CVPR, 2018.
  </li>
  <li>
  Manolis Savva et al. "MINOS: Multimodal indoor simulator for navigation in complex environments." arXiv, 2017.
  </li>
  <li>
- Daniel Gordon, Aniruddha Kembhavi, Mohammad Rastegari, Joseph Redmon, Dieter Fox, Ali Farhadi. "IQA: Visual Question Answering in Interactive Environments." CVPR, 2018.
+ Daniel Gordon et al. "IQA: Visual Question Answering in Interactive Environments." CVPR, 2018.
+ </li>
+ <li>
+ Relja Arandjelovic et al. "Look, Listen and Learn." ICCV, 2017.
  </li>
     </ol>
   </div>
