@@ -18,7 +18,7 @@ acknowledgements: ""
   </div>
 </div>
 
-<hr>
+<!-- <hr> -->
 
 <!-- <div class="row" id="intro"> -->
   <!-- <div class="col-md-12"> -->
@@ -27,51 +27,47 @@ acknowledgements: ""
   <!-- </div> -->
 <!-- </div> -->
 
-<br>
 <div class="row" id="intro">
-  <div class="col-xs-12">
-    <h2>Introduction</h2>
-  </div>
+    <div class="col-xs-12">
+        <h2>Introduction</h2>
+        <p>
+        The dominant paradigm in modern natural language understanding is learning statistical language models from text-only corpora. This approach is founded on a distributional notion of semantics, i.e. that the "meaning" of a word is based only on its relationship to other words. While effective for many applications, methods in this family suffer from limited semantic understanding, as they miss learning from the multimodal and interactive environment in which communication often takes place - the symbols of language thus are not grounded in anything concrete. The symbol grounding problem first highlighted this limitation, that "meaningless symbols (i.e.) words cannot be grounded in anything but other meaningless symbols" [18].
+        </p>
+
+        <p>
+        On the other hand, humans acquire language by communicating about and interacting within a rich, perceptual environment. This behavior provides the necessary grounding for symbols, i.e. to concrete objects or concepts (i.e. physical or psychological). Thus, recent work has aimed to bridge vision, interactive learning, and natural language understanding through language learning tasks based on natural images (ReferIt [1], GuessWhat?! [2], Visual Question Answering [3,4,5,6], Visual Dialog [7,8], Captioning [9], Visual-Audio Correspondence [30]) or through embodied agents performing interactive tasks [14,15,18,19,24,25,26,27,29] in physically simulated environments (DeepMind Lab [10], Baidu XWorld [11], OpenAI Universe [12], House3D [22], Matterport3D [23], GIBSON [27], MINOS [28], AI2-THOR [21], StreetLearn [18]), often drawing on the recent successes of deep learning and reinforcement learning. We believe this line of research poses a promising, long-term solution to the grounding problem faced by current, popular language understanding models.
+        </p>
+
+
+        <p>
+        While machine learning research exploring visually-grounded language learning may be in its earlier stages, it may be possible to draw insights from the rich research literature on human language acquisition. In neuroscience, recent progress in fMRI technology has enabled to better understand the interleave between language, vision and other modalities [15,16] suggesting that the brains shares neural representation of concepts across vision and language. Differently, developmental cognitive scientists have also argued that children acquiring various words is closely linked to them learning the underlying concept in the real world [12].
+        </p>
+
+        <p>
+        This workshop thus aims to gather people from various backgrounds - machine learning, computer vision, natural language processing, neuroscience, cognitive science, psychology, and philosophy - to share and debate their perspectives on why grounding may (or may not) be important in building machines that truly understand natural language.
+        </p>
+    </div>
 </div>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-    The dominant paradigm in modern natural language understanding is learning statistical language models from text-only corpora. This approach is founded on a distributional notion of semantics, i.e. that the "meaning" of a word is based only on its relationship to other words. While effective for many applications, methods in this family suffer from limited semantic understanding, as they miss learning from the multimodal and interactive environment in which communication often takes place - the symbols of language thus are not grounded in anything concrete. The symbol grounding problem first highlighted this limitation, that "meaningless symbols (i.e.) words cannot be grounded in anything but other meaningless symbols" [18].
-</p>
 
-<p>
-On the other hand, humans acquire language by communicating about and interacting within a rich, perceptual environment. This behavior provides the necessary grounding for symbols, i.e. to concrete objects or concepts (i.e. physical or psychological). Thus, recent work has aimed to bridge vision, interactive learning, and natural language understanding through language learning tasks based on natural images (ReferIt [1], GuessWhat?! [2], Visual Question Answering [3,4,5,6], Visual Dialog [7,8], Captioning [9], Visual-Audio Correspondence [30]) or through embodied agents performing interactive tasks [14,15,18,19,24,25,26,27,29] in physically simulated environments (DeepMind Lab [10], Baidu XWorld [11], OpenAI Universe [12], House3D [22], Matterport3D [23], GIBSON [27], MINOS [28], AI2-THOR [21], StreetLearn [18]), often drawing on the recent successes of deep learning and reinforcement learning. We believe this line of research poses a promising, long-term solution to the grounding problem faced by current, popular language understanding models.
-</p>
-
-
-<p>
-While machine learning research exploring visually-grounded language learning may be in its earlier stages, it may be possible to draw insights from the rich research literature on human language acquisition. In neuroscience, recent progress in fMRI technology has enabled to better understand the interleave between language, vision and other modalities [15,16] suggesting that the brains shares neural representation of concepts across vision and language. Differently, developmental cognitive scientists have also argued that children acquiring various words is closely linked to them learning the underlying concept in the real world [12].
-</p>
-
-<p>
-This workshop thus aims to gather people from various backgrounds - machine learning, computer vision, natural language processing, neuroscience, cognitive science, psychology, and philosophy - to share and debate their perspectives on why grounding may (or may not) be important in building machines that truly understand natural language.
-
-</p>
-  </div>
-</div> <br>
-
+<br>
 <div class="row" id="dates">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
   </div>
 </div>
 
+<br>
 <div class="row">
   <div class="col-xs-12">
     <table class="table table-striped">
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>September 9, 2019 - Midnight Pacific Time</td>
+          <td>September 15, 2019 - Midnight Pacific Time</td>
         </tr>
         <tr>
           <td>Final Decisions</td>
-          <td>September 16, 2019 </td>
+          <td>October 1, 2019 </td>
         </tr>
         <tr>
           <td>Workshop Date</td>
@@ -80,82 +76,68 @@ This workshop thus aims to gather people from various backgrounds - machine lear
       </tbody>
     </table>
   </div>
-</div><br>
+</div>
 
+<br>
 <div class="row" id="cfp">
   <div class="col-xs-12">
     <h2>Call for Papers</h2>
   </div>
 </div>
+
+<br>
 <div class="row">
-  <div class="col-xs-12">
-    <p>
-      We invite high-quality paper submissions on the following topics:
-    </p>
+    <div class="col-xs-12">
+        <p>
+          We invite high-quality paper submissions on the following topics:
+        </p>
+        <p>
+            <ul>
+                <li>language acquisition or learning through interactions</li>
+                <li>visual captioning, dialog, and question-answering</li>
+                <li>reasoning in language and vision</li>
+                <li>visual synthesis from language</li>
+                <li>transfer learning in language and vision tasks</li>
+                <li>navigation in virtual worlds with natural-language instructions</li>
+                <li>machine translation with visual cues</li>
+                <li>novel tasks that combine language, vision and actions</li>
+                <li>understanding and modeling the relationship between language and vision in humans</li>
+                <li>semantic systems and modeling of natural language and visual stimuli representations in the human brain</li>
+                <li>audio visual scene-aware dialog systems</li>
+                <li>image/video captioning</li>
+                <li>audio-visual scene understanding</li>
+            </ul>
+        </p>
+    </div>
+</div>
 
-  <p>
-  <ul>
-  <li>language acquisition or learning through interactions</li>
-  <li>visual captioning, dialog, and question-answering</li>
-  <li>reasoning in language and vision</li>
-  <li>visual synthesis from language</li>
-  <li>transfer learning in language and vision tasks</li>
-  <li>navigation in virtual worlds with natural-language instructions</li>
-  <li>machine translation with visual cues</li>
-  <li>novel tasks that combine language, vision and actions</li>
-  <li>understanding and modeling the relationship between language and vision in humans</li>
-  <li>semantic systems and modeling of natural language and visual stimuli representations in the human brain</li>
-  <li> audio visual scene-aware dialog systems - Visual Question Answering</li>
-  <li> image/video captioning</li>
-  <li> lip reading</li>
-  <li> audio-visual scene understanding - Sound localization </li>
-  <li> audio-visual speech processing </li>
-  <li> audio-visual fusion </li>
-</ul>
-    </p>
+<br>
+<div class="row">
+    <div class="col-xs-12">
+        <h3>Submission</h3>
+        <p>
+            <br/>
+            Accepted papers will be presented during joint poster sessions, with exceptional submissions selected for spotlight oral presentations. Accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
+        </p>
+        <p>
+            Submissions should be up to 4 pages excluding references, acknowledgements, and supplementary material, and should follow <a href="https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles" style="color:#2980b9;font-weight:400;">NeurIPS format</a>. The CMT-based review process will be double-blind to avoid potential conflicts of interests.
+        </p>
+        <p>
+            We also welcome published papers that are within the scope of the workshop (without re-formatting). These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.
+        </p>
+    </div>
+</div>
 
-
-  <p> <span style="font-weight:500;">Submission:</span>
-  <br/>
-    Accepted papers
-    will be presented during joint poster sessions, with exceptional submissions
-    selected for spotlight oral presentation. Accepted papers will be made publicly
-    available as non-archival reports,
-    allowing future submissions to archival conferences or journals.
-  </p>
-
-  <p>
-  Submissions should be up to 4 pages excluding references, acknowledgements, and supplementary material, and should be
-      <span style="color:#1a1aff;font-weight:400;"><a href="https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles">NeurIPS format</a></span> and anonymous. The review process is double-blind.
-  </p>
-  <p>
-  We also welcome published papers that are within the scope of the workshop (without re-formatting). This specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.
-  </p>
-
-  <!-- <p>
-  Please submit your paper to the following address: <a href="https://cmt3.research.microsoft.com/VIGIL2018">https://cmt3.research.microsoft.com/VIGIL2018</a>
-  If you have any question, send an email to: vigilworkshop2018@gmail.com
-  </p> -->
-
-  <!-- <p><b>Accepted workshop papers are eligible to the pool of reserved conference tickets (one ticket per accepted paper).</b>
-  </p> -->
-
-  </div>
-
-</div><br>
-
-
-
-
+<hr>
 <div class="row" id="schedule">
-  <div class="col-xs-12">
-    <h2>Schedule</h2>
-  </div>
+    <div class="col-xs-12">
+        <h2>Schedule</h2>
+    </div>
 </div>
 
 TBA
 
-<br>
+<hr>
 <div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Invited Speakers</h2>
@@ -164,13 +146,14 @@ TBA
 
 TBA
 
-<br>
+<hr>
 <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
   </div>
 </div>
 
+<br>
 <div class="row">
   <div class="col-xs-3">
     <a href="https://fstrub95.github.io/">
@@ -290,8 +273,8 @@ TBA
   </div>
 </div>
 {% endif %}
-<br>
 
+<hr>
 <div class="row">
   <div class="col-xs-12">
     <h2>Previous sessions</h2>
@@ -299,15 +282,17 @@ TBA
 </div>
 <a name="/prev_session"></a>
 <div class="row">
-  <div class="col-xs-12">
-    <p>
-      <a href="https://nips2017vigil.github.io/">2017</a>,
-      <a href="https://nips2018vigil.github.io/">2018</a>
-    </p>
-  </div>
+    <div class="col-xs-12">
+        <p>
+            <ul>
+                <li><a href="https://nips2017vigil.github.io/">ViGIL Workshop at NeurIPS 2017</a></li>
+                <li><a href="https://nips2018vigil.github.io/">ViGIL Workshop at NeurIPS 2018</a></li>
+            </ul>
+        </p>
+    </div>
 </div>
-<br>
 
+<hr>
 <div class="row">
   <div class="col-xs-12">
     <h2>References</h2>
