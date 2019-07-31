@@ -70,7 +70,7 @@ acknowledgements: ""
           <td>September 22, 2019 </td>
         </tr>
         <tr>
-          <td>Workshop Date</td>
+          <td>Workshop</td>
           <td>December 13 or 14, 2019</td>
         </tr>
       </tbody>
