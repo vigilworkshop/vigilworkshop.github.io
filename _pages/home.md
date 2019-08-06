@@ -242,6 +242,13 @@ TBA
     </div>
   </div>
 
+<hr>
+<div class="row" id="Scientific Committee">
+  <div class="col-xs-12">
+    <h2>Organizers</h2>
+  </div>
+</div>
+
   <div class="col-xs-3">
     <a href="http://www.mateuszmalinowski.com/">
       <img class="people-pic" src="{{ "/static/img/people/mateusz-malinowski-dp.jpeg" | prepend:site.baseurl }}">
@@ -274,23 +281,6 @@ TBA
 
 </div>
 <hr>
-
-{% if page.acknowledgements %}
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Acknowledgments</h2>
-  </div>
-</div>
-<a name="/acknowledgements"></a>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      Thanks to <span> <a href="https://visualdialog.org/">visualdialog.org</a></span> for the webpage format.
-    </p>
-  </div>
-</div>
-{% endif %}
-<br>
 
 <div class="row">
   <div class="col-xs-12">
