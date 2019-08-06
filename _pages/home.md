@@ -243,9 +243,9 @@ TBA
   </div>
 
 <hr>
-<div class="row" id="Scientific Committee">
+<div class="row" id="scommittee">
   <div class="col-xs-12">
-    <h2>Organizers</h2>
+    <h2>Scientific Committee</h2>
   </div>
 </div>
 
