@@ -129,7 +129,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
       <span style="color:#1a1aff;font-weight:400;"><a href="https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles">NeurIPS format</a></span> and anonymous. The review process is double-blind.
   </p>
   <p>
-  We also welcome published papers that are within the scope of the workshop (without re-formatting). This specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.
+  We welcome published papers from *non-ML* conferences that are within the scope of the workshop (without re-formatting). These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process. A limited pool of NeurIPS registration will be available for accepted papers.
   </p>
 
   <!-- <p>
