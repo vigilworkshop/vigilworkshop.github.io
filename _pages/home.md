@@ -131,6 +131,9 @@ This workshop thus aims to gather people from various backgrounds - machine lear
   <p>
   We welcome published papers from *non-ML* conferences that are within the scope of the workshop (without re-formatting). These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process. A limited pool of NeurIPS registration will be available for accepted papers.
   </p>
+   <p>
+  A limited pool of NeurIPS registration will be available for accepted papers.
+  </p>
 
   <!-- <p>
   Please submit your paper to the following address: <a href="https://cmt3.research.microsoft.com/VIGIL2018">https://cmt3.research.microsoft.com/VIGIL2018</a>
