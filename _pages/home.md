@@ -93,19 +93,17 @@ acknowledgements: ""
         </p>
         <p>
             <ul>
-                <li>language acquisition or learning through interactions</li>
-                <li>visual captioning, dialog, and question-answering</li>
-                <li>reasoning in language and vision</li>
-                <li>visual synthesis from language</li>
-                <li>transfer learning in language and vision tasks</li>
-                <li>navigation in virtual worlds with natural-language instructions</li>
-                <li>machine translation with visual cues</li>
-                <li>novel tasks that combine language, vision and actions</li>
-                <li>understanding and modeling the relationship between language and vision in humans</li>
-                <li>semantic systems and modeling of natural language and visual stimuli representations in the human brain</li>
-                <li>audio visual scene-aware dialog systems</li>
-                <li>image/video captioning</li>
-                <li>audio-visual scene understanding</li>
+              <li>language acquisition or learning through interactions</li>
+              <li>image/video captioning, visual dialogues, visual question-answering, and other visually grounded language challenges</li>
+              <li>reasoning in language and vision</li>
+              <li>transfer learning in language and vision tasks</li>
+              <li>audiovisual scene understanding and generation </li>
+              <li>navigation and question answering in virtual worlds with natural-language instructions</li>
+              <li>original multimodal works that can be extended to vision, language or interaction</li>
+              <li>human-machine interaction with vision and language</li>
+              <li>understanding and modeling the relationship between language and vision in humans semantic systems and modeling of natural language and visual stimuli representations in the human brain</li>
+              <li>epistemology and research reflexions about language grounding, human embodiment and other related topics</li>
+              <li>visual and linguistic cognition in infancy and/or adults</li>
             </ul>
         </p>
     </div>
@@ -122,9 +120,12 @@ acknowledgements: ""
         <p>
             Submissions should be up to 4 pages excluding references, acknowledgements, and supplementary material, and should follow <a href="https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles" style="color:#2980b9;font-weight:400;">NeurIPS format</a>. The CMT-based review process will be double-blind to avoid potential conflicts of interests.
         </p>
-        <p>
-            We also welcome published papers that are within the scope of the workshop (without re-formatting). These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.
-        </p>
+  <p>
+  We welcome published papers from *non-ML* conferences that are within the scope of the workshop (without re-formatting). These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process. 
+  </p>
+   <p>
+  A limited pool of NeurIPS registration will be available for accepted papers.
+  </p>
     </div>
 </div>
 
@@ -224,6 +225,13 @@ TBA
       <h6>Oregon State University</h6>
     </div>
   </div>
+  
+<hr>
+<div class="row" id="scientific_committee">
+  <div class="col-xs-12">
+    <h2>Scientic Committee</h2>
+  </div>
+</div>
 
   <div class="col-xs-3">
     <a href="http://www.mateuszmalinowski.com/">
@@ -257,22 +265,6 @@ TBA
 
 </div>
 <hr>
-
-{% if page.acknowledgements %}
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Acknowledgments</h2>
-  </div>
-</div>
-<a name="/acknowledgements"></a>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      Thanks to <span> <a href="https://visualdialog.org/">visualdialog.org</a></span> for the webpage format.
-    </p>
-  </div>
-</div>
-{% endif %}
 
 <hr>
 <div class="row">
