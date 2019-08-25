@@ -126,6 +126,10 @@ acknowledgements: ""
    <p>
   A limited pool of NeurIPS registration will be available for accepted papers.
   </p>
+  <p>
+  If you face any issue, feel free to the workshop organizers at the following address: vigilworkshop@gmail.com
+  </p> 
+      
     </div>
 </div>
 
