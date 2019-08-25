@@ -158,15 +158,6 @@ TBA
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="/static/img/people/jesse-thomason.jpg" />
-    <p><b>Jesse Thomason</b> is a postdoctoral researcher at the University of Washington. His research focuses on language grounding and natural language processing applications for robotics, including how dialog with humans can facilitate both robot task execution and learning.
-    <span style="color:#2980b9;">[<a href="https://jessethomason.com">Webpage</a>]</span></p>
-  </div>
-</div>
-<p><br /></p>
-
-<div class="row">
-  <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="/static/img/people/josh-tenenbaum.jpeg" />
     <p><b>Josh Tenenbaum</b> is a Professor in Computational Cognitive Science at MIT. His work studies learning and reasoning in humans and machines, with the twin goals of understanding human intelligence in computational terms and bringing artificial intelligence closer to human-level capacities.
     <span style="color:#2980b9;">[<a href="https://web.mit.edu/cocosci/josh.html">Webpage</a>]</span></p>
@@ -176,18 +167,27 @@ TBA
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="/static/img/people/lisa-anne-hendricks.jpg" />
-    <p><b>Lisa Anne Hendricks</b> is a research scientist at DeepMind (previously a PhD student in Computer Vision at UC Berkeley). Her work focuses on building systems which can express information about visual content using natural language and retrieve visual information given natural language.
-    <span style="color:#2980b9;">[<a href="https://people.eecs.berkeley.edu/~lisa_anne/">Webpage</a>]</span></p>
+    <img class="speaker-pic" style="float:left;margin-right:75px;" src="/static/img/people/jay-mcclelland.jpg" />
+    <p><b>Jay McClelland</b> is a Professor in the Psychology Department and Director of the Center for Mind, Brain and Computation at Stanford University. His research spans a broad range of topics in cognitive science and cognitive neuroscience, including perception and perceptual decision making; learning and memory; language and reading; semantic and mathematical cognition; and cognitive development.
+    <span style="color:#2980b9;">[<a href="https://stanford.edu/~jlmcc/">Webpage</a>]</span></p>
   </div>
 </div>
 <p><br /></p>
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:75px;" src="/static/img/people/jay-mcclelland.jpg" />
-    <p><b>Jay McClelland</b> is a Professor in the Psychology Department and Director of the Center for Mind, Brain and Computation at Stanford University. His research spans a broad range of topics in cognitive science and cognitive neuroscience, including perception and perceptual decision making; learning and memory; language and reading; semantic and mathematical cognition; and cognitive development.
-    <span style="color:#2980b9;">[<a href="https://stanford.edu/~jlmcc/">Webpage</a>]</span></p>
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="/static/img/people/jesse-thomason.jpg" />
+    <p><b>Jesse Thomason</b> is a postdoctoral researcher at the University of Washington. His research focuses on language grounding and natural language processing applications for robotics, including how dialog with humans can facilitate both robot task execution and learning.
+    <span style="color:#2980b9;">[<a href="https://jessethomason.com">Webpage</a>]</span></p>
+  </div>
+</div>
+<p><br /></p>
+
+<div class="row">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="/static/img/people/lisa-anne-hendricks.jpg" />
+    <p><b>Lisa Anne Hendricks</b> is a research scientist at DeepMind (previously a PhD student in Computer Vision at UC Berkeley). Her work focuses on building systems which can express information about visual content using natural language and retrieve visual information given natural language.
+    <span style="color:#2980b9;">[<a href="https://people.eecs.berkeley.edu/~lisa_anne/">Webpage</a>]</span></p>
   </div>
 </div>
 <p><br /></p>
