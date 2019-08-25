@@ -126,6 +126,9 @@ acknowledgements: ""
    <p>
   A limited pool of NeurIPS registration will be available for accepted papers.
   </p>
+      <p>
+        Please upload your submission at: https://cmt3.research.microsoft.com/VIGIL2019/
+        </p>
     </div>
 </div>
 
