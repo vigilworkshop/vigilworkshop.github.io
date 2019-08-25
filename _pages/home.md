@@ -114,18 +114,21 @@ acknowledgements: ""
     <div class="col-xs-12">
         <h3>Submission</h3>
         <p>
-            <br/>
+            <br>
+            Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2019/">cmt3.research.microsoft.com/VIGIL2019</a>
+        </p>
+        <p>
             Accepted papers will be presented during joint poster sessions, with exceptional submissions selected for spotlight oral presentations. Accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
         </p>
         <p>
             Submissions should be up to 4 pages excluding references, acknowledgements, and supplementary material, and should follow <a href="https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles" style="color:#2980b9;font-weight:400;">NeurIPS format</a>. The CMT-based review process will be double-blind to avoid potential conflicts of interests.
         </p>
-  <p>
-  We welcome published papers from *non-ML* conferences that are within the scope of the workshop (without re-formatting). These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process. 
-  </p>
-   <p>
-  A limited pool of NeurIPS registration will be available for accepted papers.
-  </p>
+        <p>
+            We welcome published papers from *non-ML* conferences that are within the scope of the workshop (without re-formatting). These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process. 
+        </p>
+         <p>
+            A limited pool of NeurIPS registration will be available for accepted papers.
+        </p>
     </div>
 </div>
 
