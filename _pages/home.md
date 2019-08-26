@@ -127,7 +127,7 @@ acknowledgements: ""
             We welcome published papers from *non-ML* conferences that are within the scope of the workshop (without re-formatting). These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process. 
         </p>
          <p>
-            A limited pool of NeurIPS registrations will be available for accepted papers.
+            A limited pool of NeurIPS registrations might be available for accepted papers.
         </p>
         <p>
             In case of any issues, feel free to email the workshop organizers at: <a href="mailto:vigilworkshop@gmail.com">vigilworkshop@gmail.com</a>.
