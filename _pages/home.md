@@ -216,7 +216,7 @@ TBA
 
 <br>
 <div class="row">
-  <div class="col-xs-3">
+  <div class="col-xs-6 col-lg-3">
     <a href="https://fstrub95.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}">
     </a>
@@ -225,7 +225,7 @@ TBA
       <h6>University of Lille, Inria | DeepMind</h6>
     </div>
   </div>
-  <div class="col-xs-3">
+  <div class="col-xs-6 col-lg-3">
     <a href="http://www-etud.iro.umontreal.ca/~devries/">
       <img class="people-pic" src="{{ "/static/img/people/harmdevries.jpg" | prepend:site.baseurl }}">
     </a>
@@ -234,7 +234,7 @@ TBA
       <h6>University of Montreal</h6>
     </div>
   </div>
-  <div class="col-xs-3">
+  <div class="col-xs-6 col-lg-3">
     <a href="http://wijmans.xyz/">
       <img class="people-pic" src="{{ "/static/img/people/erikwijmans.jpg" | prepend:site.baseurl }}">
     </a>
@@ -243,7 +243,7 @@ TBA
       <h6>Georgia Tech</h6>
     </div>
   </div>
-  <div class="col-xs-3">
+  <div class="col-xs-6 col-lg-3">
     <a href="https://www.linkedin.com/in/drew-a-hudson">
       <img class="people-pic" src="{{ "/static/img/people/drew.jpg" | prepend:site.baseurl }}">
     </a>
@@ -252,7 +252,7 @@ TBA
       <h6>Stanford University</h6>
     </div>
   </div>
-  <div class="col-xs-3">
+  <div class="col-xs-6 col-lg-3">
     <a href="http://alanesuhr.com/">
       <img class="people-pic" src="{{ "/static/img/people/alane.png" | prepend:site.baseurl }}">
     </a>
@@ -261,7 +261,7 @@ TBA
       <h6>Cornell University</h6>
     </div>
   </div>
-  <div class="col-xs-3">
+  <div class="col-xs-6 col-lg-3">
     <a href="https://abhishekdas.com">
       <img class="people-pic" src="{{ "/static/img/people/abhishek-das-dp.jpg" | prepend:site.baseurl }}">
     </a>
@@ -270,7 +270,7 @@ TBA
       <h6>Georgia Tech</h6>
     </div>
   </div>
-  <div class="col-xs-3">
+  <div class="col-xs-6 col-lg-3">
     <a href="https://www.cc.gatech.edu/~slee3191/">
       <img class="people-pic" src="{{ "/static/img/people/stefan.png" | prepend:site.baseurl }}">
     </a>
@@ -290,7 +290,7 @@ TBA
 
 <br>
 <div class="row">
-  <div class="col-xs-3">
+  <div class="col-xs-6 col-lg-3">
     <a href="http://www.mateuszmalinowski.com/">
       <img class="people-pic" src="{{ "/static/img/people/mateusz-malinowski-dp.jpeg" | prepend:site.baseurl }}">
     </a>
@@ -299,7 +299,7 @@ TBA
       <h6>DeepMind</h6>
     </div>
   </div>
-  <div class="col-xs-3">
+  <div class="col-xs-6 col-lg-3">
     <a href="https://mila.quebec/en/person/aaron-courville/">
       <img class="people-pic" src="{{ "/static/img/people/aaron-courville-dp.jpg" | prepend:site.baseurl }}">
     </a>
@@ -308,7 +308,7 @@ TBA
       <h6>University of Montreal</h6>
     </div>
   </div>
-  <div class="col-xs-3">
+  <div class="col-xs-6 col-lg-3">
     <a href="http://www.lifl.fr/~pietquin/">
       <img class="people-pic" src="{{ "/static/img/people/olivier-pietquin-dp.jpg" | prepend:site.baseurl }}">
     </a>
