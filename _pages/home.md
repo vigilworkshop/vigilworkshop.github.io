@@ -198,6 +198,15 @@ TBA
 </div>
 <p><br /></p>
 
+<div class="row">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:80px;" src="/static/img/people/tim-lillicrap.png" />
+    <p><b>Timothy Lillicrap</b> is a research scientist at DeepMind. His research focuses on machine learning and statistics for optimal control and decision making, as well as using these mathematical frameworks to understand how the brain learns. He has developed algorithms and approaches for exploiting deep neural networks in the context of reinforcement learning, and recurrent memory architectures for one-shot learning.
+    <span style="color:#2980b9;">[<a href="http://contrastiveconvergence.net/~timothylillicrap/index.php">Webpage</a>]</span></p>
+  </div>
+</div>
+<p><br /></p>
+
 <hr>
 <div class="row" id="organizers">
   <div class="col-xs-12">
