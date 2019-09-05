@@ -141,7 +141,11 @@ acknowledgements: ""
     <div class="col-xs-12">
         <h3>D-Day Workshop Information</h3>
         <p>
-Posters are taped to the wall.  Posters should be on light weight paper, not laminated.  We will provide the tape. Please make their posters no larger than 36W x 48H inches or 90 x 122 cm.  That is portrait mode.
+            <br>
+            Posters will be taped to the wall (we will provide tape).
+            Please make sure they are printed on lightweight paper without lamination
+            and no larger than 36 x 48 inches or 90 x 122 cm in portrait orientation.
+            
         </p> 
     </div>
 </div>
