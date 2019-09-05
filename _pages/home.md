@@ -291,6 +291,15 @@ TBA
 <br>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
+    <a href="https://nlp.stanford.edu/manning/">
+      <img class="people-pic" src="{{ "/static/img/people/chris-manning.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://nlp.stanford.edu/manning/">Chris Manning</a>
+      <h6>Stanford University</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
     <a href="http://www.mateuszmalinowski.com/">
       <img class="people-pic" src="{{ "/static/img/people/mateusz-malinowski-dp.jpeg" | prepend:site.baseurl }}">
     </a>
