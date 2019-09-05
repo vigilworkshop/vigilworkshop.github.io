@@ -14,18 +14,11 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Visually Grounded Interaction and Language (ViGIL)</h1></center>
     <center><h2>NeurIPS 2019 Workshop, Vancouver, Canada</h2></center>
-    <center><span style="color:#e74c3c;font-weight:400;"></span></center>
+    <center><span style="color:#e74c3c;font-weight:400;">
+      Friday, 13th December, 08:30 AM to 06:30 PM, Room: TBA
+    </span></center>
   </div>
 </div>
-
-<!-- <hr> -->
-
-<!-- <div class="row" id="intro"> -->
-  <!-- <div class="col-md-12"> -->
-    <!-- <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}"> -->
-    <!-- <p> Image credit: [2, 28, 12, 11, 15-21, 26]</p> -->
-  <!-- </div> -->
-<!-- </div> -->
 
 <div class="row" id="intro">
     <div class="col-xs-12">
@@ -71,7 +64,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Workshop</td>
-          <td>December 13 or 14, 2019</td>
+          <td>December 13, 2019</td>
         </tr>
       </tbody>
     </table>
