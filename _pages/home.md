@@ -56,11 +56,11 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>September 15, 2019 (11:59 PM Pacific time)</td>
+          <td>September 18, 2019 (11:59 PM Pacific time)</td>
         </tr>
         <tr>
           <td>Decision Notifications</td>
-          <td>September 22, 2019 </td>
+          <td>September 26, 2019 </td>
         </tr>
         <tr>
           <td>Workshop</td>
