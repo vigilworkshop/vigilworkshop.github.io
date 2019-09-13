@@ -28,12 +28,12 @@ acknowledgements: ""
         </p>
 
         <p>
-        On the other hand, humans acquire language by communicating about and interacting within a rich, perceptual environment. This behavior provides the necessary grounding for symbols, i.e. to concrete objects or concepts (i.e. physical or psychological). Thus, recent work has aimed to bridge vision, interactive learning, and natural language understanding through language learning tasks based on natural images (ReferIt [2], Visual Question Answering [3-6], Visual Dialog [7-10], Captioning [11], Visual-Audio Correspondence [30]) or through embodied agents performing interactive tasks [12-29] in physically simulated environments (DeepMind Lab [12], Baidu XWorld [13], OpenAI Universe [14], StreetLearn [18], AI2-THOR [21], House3D [22], Matterport3D [23], GIBSON [27], MINOS [28]), often drawing on the recent successes of deep learning and reinforcement learning. We believe this line of research poses a promising, long-term solution to the grounding problem faced by current, popular language understanding models.
+        On the other hand, humans acquire language by communicating about and interacting within a rich, perceptual environment. This behavior provides the necessary grounding for symbols, i.e. to concrete objects or concepts (i.e. physical or psychological). Thus, recent work has aimed to bridge vision, interactive learning, and natural language understanding through language learning tasks based on natural images (ReferIt [2], Visual Question Answering [3-6], Visual Dialog [7-10], Captioning [11, 32-35], Visual-Audio Correspondence [30]) or through embodied agents performing interactive tasks [12-29] in physically simulated environments (DeepMind Lab [12], Baidu XWorld [13], Habitat [14], StreetLearn [18], AI2-THOR [21], House3D [22], Matterport3D [23], GIBSON [27], MINOS [28]), often drawing on the recent successes of deep learning and reinforcement learning. We believe this line of research poses a promising, long-term solution to the grounding problem faced by current, popular language understanding models.
         </p>
 
 
         <p>
-        While machine learning research exploring visually-grounded language learning may be in its earlier stages, it may be possible to draw insights from the rich research literature on human language acquisition. In neuroscience, recent progress in fMRI technology has enabled to better understand the interleave between language, vision and other modalities [17,18] suggesting that the brains shares neural representation of concepts across vision and language. Differently, developmental cognitive scientists have also argued that children acquiring various words is closely linked to them learning the underlying concept in the real world [15].
+        While machine learning research exploring visually-grounded language learning may be in its earlier stages, it may be possible to draw insights from the rich research literature on human language acquisition. In neuroscience, recent progress in fMRI technology has enabled better understanding of the interaction between language, vision and other modalities [17,18] suggesting that the brains share neural representations of concepts across vision and language. In concurrent work, developmental cognitive scientists have argued that word acquisition in children is closely linked to them learning the underlying physical concepts in the real world [15, 31], and that they generalize surprisingly well at this from sparse evidence [36].
         </p>
 
         <p>
@@ -429,8 +429,8 @@ TBA
       </a>
     </li>
     <li>
-      <a href="https://universe.openai.com" target="_blank">
-        OpenAI Universe. https://universe.openai.com, 2016.
+      <a href="https://arxiv.org/abs/1904.01201" target="_blank">
+        Habitat: A Platform for Embodied AI Research. 2019.
       </a>
     </li>
     <li>
@@ -512,6 +512,27 @@ TBA
       <a href="https://arxiv.org/abs/1705.08168" target="_blank">
         Relja Arandjelovic et al. "Look, Listen and Learn." ICCV, 2017.
       </a>
+    </li>
+    <li>
+      <a href="Quantity and Diversity: Simulating Early Word Learning
+Environments" target="_blank">Jessica Montag et al. "Quantity and Diversity: Simulating Early Word Learning Environments." Cognitive Science, 2018.</a>
+    </li>
+    <li>
+      <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Vinyals_Show_and_Tell_2015_CVPR_paper.html" target="_blank">
+        Oriol Vinyals et al. "Show and Tell: A Neural Image Caption Generator." CVPR, 2015.
+      </a>
+    </li>
+    <li>
+      <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.html" target="_blank">Andrej Karpathy et al. "Deep Visual-Semantic Alignments for Generating Image Descriptions." CVPR, 2015.</a>
+    </li>
+    <li>
+      <a href="http://openaccess.thecvf.com/content_cvpr_2015/html/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.html" target="_blank">Jeff Donahue et al. "Long-Term Recurrent Convolutional Networks for Visual Recognition and Description." CVPR, 2015.</a>
+    </li>
+    <li>
+      <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hendricks_Deep_Compositional_Captioning_CVPR_2016_paper.html" target="_blank">Lisa Anne Hendricks et al. "Deep Compositional Captioning: Describing Novel Object Categories Without Paired Training Data." CVPR, 2016.</a>
+    </li>
+    <li>
+      <a href="https://science.sciencemag.org/content/350/6266/1332">Brendan Lake et al. "Human-level concept learning through probabilistic program induction." Science, 2015.</a>
     </li>
     </ol>
   </div>
