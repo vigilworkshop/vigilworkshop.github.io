@@ -60,7 +60,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Decision Notifications</td>
-          <td>September 26, 2019 </td>
+          <td><strike>September 26, 2019</strike> September 28, 2019</td>
         </tr>
         <tr>
           <td>Workshop</td>
