@@ -354,6 +354,25 @@ TBA
     </div>
 </div>
 
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Sponsors</h2>
+  </div>
+</div>
+<a name="/sponsors"></a>
+<div class="row">
+  <div class="col-xs-4">
+    <img src="{{ "/static/img/ico/ivado.jpg" | prepend:site.baseurl }}">
+  </div>
+  <div class="col-xs-4">
+    <img style="margin-top:10px;" src="{{ "/static/img/ico/deepmind_logo.png" | prepend:site.baseurl }}">
+  </div>
+  <div class="col-xs-4">
+    <img style="margin-top:10px;" src="{{ "/static/img/ico/GoogleAI.png" | prepend:site.baseurl }}">
+  </div>
+</div>
+<br>
+
 <hr>
 <div class="row">
   <div class="col-xs-12">
