@@ -339,6 +339,35 @@ TBA
 <hr>
 <div class="row">
   <div class="col-xs-12">
+    <h2>Program Committee</h2>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-xs-6">
+    <ul>
+      <li>Aishwarya Agrawal</li>
+      <li>Cătălina Cangea</li>
+      <li>Volkan Cirik</li>
+      <li>Meera Hahn</li>
+      <li>Ethan Perez</li>
+      <li>Rowan Zellers</li>
+    </ul>
+  </div>
+  <div class="col-xs-6">
+    <ul>
+      <li>Ryan Benmalek</li>
+      <li>Luca Celotti</li>
+      <li>Daniel Fried</li>
+      <li>Arjun Majumdar</li>
+      <li>Hao Tan</li>
+    </ul>
+  </div>
+</div>
+
+<hr>
+<div class="row">
+  <div class="col-xs-12">
     <h2>Previous sessions</h2>
   </div>
 </div>
