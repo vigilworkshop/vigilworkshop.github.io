@@ -215,6 +215,16 @@ TBA
 </div>
 <p><br /></p>
 
+<div class="row">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:80px;" src="/static/img/people/jason-baldridge.png" />
+    <p><b>Jason Baldridge</b> is a research scientist at Google. His research focuses on the theoretical and applied aspects of computational linguistics
+      -- from formal and computational models of syntax to machine learning for natural language processing and geotemporal grounding of natural language.
+    <span style="color:#2980b9;">[<a href="http://www.jasonbaldridge.com">Webpage</a>]</span></p>
+  </div>
+</div>
+<p><br /></p>
+
 <hr>
 <div class="row" id="organizers">
   <div class="col-xs-12">
