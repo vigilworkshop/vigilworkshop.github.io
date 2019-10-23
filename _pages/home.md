@@ -225,6 +225,15 @@ TBA
 </div>
 <p><br /></p>
 
+<div class="row">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:55px;" src="/static/img/people/louis-philippe-morency.jpg" />
+    <p><b>Louis-Philippe Morency</b> is an Associate Professor at the Language Technology Institute at Carnegie Mellon University. His research focuses on building the computational foundations to enable computers with the abilities to analyze, recognize and predict subtle human communicative behaviors during social interactions.
+    <span style="color:#2980b9;">[<a href="https://www.cs.cmu.edu/~morency/">Webpage</a>]</span></p>
+  </div>
+</div>
+<p><br /></p>
+
 <hr>
 <div class="row" id="organizers">
   <div class="col-xs-12">
