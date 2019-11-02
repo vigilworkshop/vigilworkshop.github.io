@@ -235,6 +235,172 @@ TBA
 <p><br /></p>
 
 <hr>
+<div class="row" id="speakers">
+  <div class="col-xs-12">
+    <h2>Accepted Papers</h2>
+  </div>
+</div>
+<p><br /></p>
+
+<ul class="paper-list">
+    <li>
+        <span class="paper-title">Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning</span><br>
+        <span class="paper-authors">Khanh Nguyen (University of Maryland)*; Hal Daume (University of Maryland, College Park)</span><br>
+        <span class="paper-meta">[<a href="static/papers/1.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">What is needed for simple spatial language capabilities in VQA?</span><br>
+        <span class="paper-authors">Alexander Kuhnle (University of Cambridge)*; Ann Copestake (University of Cambridge)</span><br>
+        <span class="paper-meta">[<a href="static/papers/2.pdf">PDF</a>] [<a href="static/papers/2_supp.pdf">Supplementary</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Learning from Observation-Only Demonstration for Task-Oriented Language Grounding via Self-Examination</span><br>
+        <span class="paper-authors">Tsu-Jui Fu (UC Santa Barbara); Yuta Tsuboi (Preferred Networks)*; Sosuke Kobayashi (Preferred Networks); Yuta Kikuchi (Preferred Networks)</span><br>
+        <span class="paper-meta">[<a href="static/papers/3.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Not All Actions Are Equal: Learning to Stop in Language-Grounded Urban Navigation</span><br>
+        <span class="paper-authors">Jiannan Xiang (University of Science and Technology of China); Xin Wang (University of California, Santa Barbara)*; William Yang Wang (UC Santa Barbara)</span><br>
+        <span class="paper-meta">[<a href="static/papers/5.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Hidden State Guidance: Improving Image Captioning Using an Image Conditioned Autoencoder</span><br>
+        <span class="paper-authors">Jialin Wu (UT Austin)*; Raymond Mooney (Univ. of Texas at Austin)</span><br>
+        <span class="paper-meta">[<a href="static/papers/6.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Situated Grounding Facilitates Multimodal Concept Learning for AI</span><br>
+        <span class="paper-authors">Nikhil Krishnaswamy (Brandeis University)*; James Pustejovsky (Brandeis University)</span><br>
+        <span class="paper-meta">[<a href="static/papers/7.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering</span><br>
+        <span class="paper-authors">Cătălina Cangea (University of Cambridge)*; Eugene Belilovsky (Mila); Pietro Liò (University of Cambridge); Aaron Courville (Universite de Montreal)</span><br>
+        <span class="paper-meta">[<a href="static/papers/9.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Induced Attention Invariance: Defending VQA Models against Adversarial Attacks</span><br>
+        <span class="paper-authors">Vasu Sharma (Carnegie Mellon University)*; Ankita Kalra (CMU); Louise-Phillipe Morency (Carnegie Mellon University)</span><br>
+        <span class="paper-meta">[<a href="static/papers/11.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Natural Language Grounded Multitask Navigation</span><br>
+        <span class="paper-authors">Xin Wang (University of California, Santa Barbara)*; Vihan Jain (Google Research); Eugene Ie (Google Research); William Yang Wang (UC Santa Barbara); Zornitsa Kozareva (Google Cloud); Sujith Ravi (Google Research)</span><br>
+        <span class="paper-meta">[<a href="static/papers/13.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Contextual Grounding of Natural Language Entities in Images</span><br>
+        <span class="paper-authors">Farley Lai (NEC Laboratories America, Inc.)*; Ning Xie (Wright State University); Derek Doran (Wright State University); Asim Kadav (NEC Labs)</span><br>
+        <span class="paper-meta">[<a href="static/papers/14.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Visual Dialog for Radiology: Data Curation and FirstSteps</span><br>
+        <span class="paper-authors">Olga Kovaleva (UMass Lowell)*; Chaitanya  Shivade (IBM Research); Satyananda Kashyap (IBM Research); Karina Kanjaria (IBM Research); Adam Coy (IBM Research); Deddeh Ballah (IBM Research); Yufan Guo (IBM Research); Joy Wu (IBM Research); Alexandros Karargyris (IBM Research); David Beymer (IBM); Anna Rumshisky (University of Massachusetts Lowell); Vandana Mukherjee (IBM Research)</span><br>
+        <span class="paper-meta">[<a href="static/papers/15.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Multimodal Generative Learning Utilizing Jensen-Shannon-Divergence</span><br>
+        <span class="paper-authors">Thomas Sutter ()*; Imant Daunhawer (ETH Zurich); Julia Vogt (ETH Zurich)</span><br>
+        <span class="paper-meta">[<a href="static/papers/16.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Learning Question-Guided Video Representation for Multi-Turn Video Question Answering</span><br>
+        <span class="paper-authors">Guan-Lin Chao (Carnegie Mellon University)*; Abhinav Rastogi (Google); Semih Yavuz (University of California, Santa Barbara); Dilek Hakkani-Tur (Amazon Alexa AI); Jindong Chen (Google); Ian Lane (Carnegie Mellon University)</span><br>
+        <span class="paper-meta">[<a href="static/papers/24.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Structural and functional learning for learning language use</span><br>
+        <span class="paper-authors">Angeliki Lazaridou (DeepMind)*; Anna Potapenko (DeepMind); Olivier Tieleman (DeepMind)</span><br>
+        <span class="paper-meta">[<a href="static/papers/25.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Community size effect in artificial learning systems</span><br>
+        <span class="paper-authors">Olivier Tieleman (DeepMind)*; Angeliki Lazaridou (DeepMind); Shibl Mourad (DeepMind); Charles  Blundell  (DeepMind); Doina Precup (DeepMind)</span><br>
+        <span class="paper-meta">[<a href="static/papers/26.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">A Comprehensive Analysis of Semantic Compositionality in Text-to-Image Generation</span><br>
+        <span class="paper-authors">Chihiro Fujiyama (Ochanomizu University)*; Ichiro  kobayashi (ochanomizu university tokyo)</span><br>
+        <span class="paper-meta">[<a href="static/papers/29.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Recurrent Instance Segmentation using Sequences of Referring Expressions</span><br>
+        <span class="paper-authors">Alba Maria Hererra-Palacio (Universitat Politecnica de Catalunya); Carles Ventura (Universitat Oberta de Catalunya); Carina Silberer (Universitat Pompeu Fabra); Ionut-Teodor Sorodoc (Universitat Pompeu Fabra); Gemma Boleda (Universitat Pompeu Fabra); Xavier Giro-i-Nieto (Universitat Politecnica de Catalunya)*</span><br>
+        <span class="paper-meta">[<a href="static/papers/30.pdf">PDF</a>] [<a href="static/papers/30_supp.pdf">Supplementary</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Modulated Self-attention Convolutional Network for VQA</span><br>
+        <span class="paper-authors">Jean-Benoit Delbrouck (UMONS)*</span><br>
+        <span class="paper-meta">[<a href="static/papers/32.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping</span><br>
+        <span class="paper-authors">Gabriel Ilharco (University of Washington)*; Vihan Jain (Google Research); Alexander Ku (Google Research); Eugene Ie (Google Research); Jason Baldridge (Google Inc.)</span><br>
+        <span class="paper-meta">[<a href="static/papers/33.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">A Simple Baseline for Visual Commonsense Reasoning</span><br>
+        <span class="paper-authors">Jingxiang Lin (UIUC)*; Unnat Jain (UIUC); Alexander Schwing (UIUC)</span><br>
+        <span class="paper-meta">[<a href="static/papers/34.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Language Grounding through Social Interactions and Curiosity-Driven Multi-Goal Learning</span><br>
+        <span class="paper-authors">Nicolas Lair (Inserm U1093 CAPS)*; Cédric Colas (Inria Bordeaux - Sud-Ouest); Rémy Portelas (Inria Bordeaux - Sud-Ouest); Jean-Michel Dussoux (Cloud Temple); Peter  Dominey (INSERM); Pierre-Yves Oudeyer (Inria)</span><br>
+        <span class="paper-meta">[<a href="static/papers/35.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Deep compositional robotic planners that follow natural language commands</span><br>
+        <span class="paper-authors">Yen-Ling Kuo (MIT)*; Boris Katz (MIT); Andrei Barbu (MIT)</span><br>
+        <span class="paper-meta">[<a href="static/papers/37.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Can adversarial training learn image captioning ?</span><br>
+        <span class="paper-authors">Jean-Benoit Delbrouck (UMONS)*</span><br>
+        <span class="paper-meta">[<a href="static/papers/38.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Leveraging Topics and Audio Features with Multimodal Attention for Audio Visual Scene-Aware Dialog</span><br>
+        <span class="paper-authors">Shachi H Kumar (Intel Labs); Eda Okur (Intel Labs)*; Saurav Sahay (Intel); Jonathan Huang (Intel); Lama Nachman (Intel Labs)</span><br>
+        <span class="paper-meta">[<a href="static/papers/39.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Shaping Visual Representations with Language for Few-shot Classification</span><br>
+        <span class="paper-authors">Jesse Mu (Stanford University)*; Percy Liang (Stanford University); Noah Goodman (Stanford University)</span><br>
+        <span class="paper-meta">[<a href="static/papers/41.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Self-Educated Language Agent with Hindsight Experience Replay for Instruction Following</span><br>
+        <span class="paper-authors">Geoffrey Cideron (University of Lille)*; Mathieu Seurin (University of Lille); Florian Strub (DeepMind); Olivier Pietquin (Google Research - Brain Team)</span><br>
+        <span class="paper-meta">[<a href="static/papers/42.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Analyzing Compositionality in Visual Question Answering</span><br>
+        <span class="paper-authors">Sanjay Subramanian (Allen Institute for Artificial Intelligence)*; Sameer  Singh (University of California, Irvine); Matt Gardner (AI2)</span><br>
+        <span class="paper-meta">[<a href="static/papers/43.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">A perspective on multi-agent communication for information fusion</span><br>
+        <span class="paper-authors">Homagni Saha (Iowa state university)*; Vijay Venkataraman (Honeywell); Alberto Speranzon (Honeywell); Soumik Sarkar (Iowa State University)</span><br>
+        <span class="paper-meta">[<a href="static/papers/46.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Cross-Modal Mapping for Generalized Zero-Shot Learning by Soft-Labeling</span><br>
+        <span class="paper-authors">Shabnam Daghaghi ()*; Anshumali Shrivastava (Rice University); Tharun Medini (Rice University)</span><br>
+        <span class="paper-meta">[<a href="static/papers/47.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Learning Language from Vision</span><br>
+        <span class="paper-authors">Candace Ross (Massachusetts Institute of Technology); Cheahuychou Mao (MIT); Boris Katz (MIT); Andrei Barbu (MIT)*</span><br>
+        <span class="paper-meta">[<a href="static/papers/48.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Commonsense and Semantic-Guided Navigation through Language in Embodied Environment</span><br>
+        <span class="paper-authors">Dian Yu (University of California, Davis)*; Chandra Khatri (Uber); Alexandros Papangelis (UberAI); Andrea Madotto (Hong Kong University of Science and Technology); Mahdi Namazifar (Uber Technologies, Inc.); Joost Huizinga (UberAI); Adrien Ecoffet (UberAI); Huaixiu Zheng (Uber Technologies); Piero Molino (Uber AI); Jeff Clune (Uber AI Labs); Zhou Yu (UC Davis); Kenji Sagae (University of California, Davis); Gokhan Tur (Uber)</span><br>
+        <span class="paper-meta">[<a href="static/papers/49.pdf">PDF</a>]</span>
+    </li>
+</ul>
+
+<hr>
 <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
