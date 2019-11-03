@@ -203,3 +203,20 @@ pre {
 .col-xs-12.sponsor a {
     border-bottom: 0px;
 }
+
+.paper-title {
+  font-size: 16px;
+  color: black;
+}
+
+.paper-list > li {
+  margin-bottom: 10px;
+}
+
+.paper-authors {
+  font-size: 15px;
+}
+
+.paper-meta {
+  font-size: 15px;
+}
