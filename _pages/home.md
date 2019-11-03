@@ -235,7 +235,7 @@ TBA
 <p><br /></p>
 
 <hr>
-<div class="row" id="speakers">
+<div class="row" id="accepted">
   <div class="col-xs-12">
     <h2>Accepted Papers</h2>
   </div>
