@@ -329,6 +329,11 @@ TBA
         <span class="paper-meta">[<a href="static/papers/30.pdf">PDF</a>] [<a href="static/papers/30_supp.pdf">Supplementary</a>]</span>
     </li>
     <li>
+        <span class="paper-title">Visually Grounded Video Reasoning in Selective Attention Memory</span><br>
+        <span class="paper-authors">T.S. Jayram (IBM Research)*; Vincent Albouy (IBM Research); Tomasz Kornuta (IBM Research, Almaden); Emre Sevgen (University of Chicago); Ahmet Ozcan (IBM Almaden Research)</span><br>
+        <span class="paper-meta">[<a href="static/papers/31.pdf">PDF</a>] [<a href="static/papers/31_supp.pdf">Supplementary</a>]</span>
+    </li>
+    <li>
         <span class="paper-title">Modulated Self-attention Convolutional Network for VQA</span><br>
         <span class="paper-authors">Jean-Benoit Delbrouck (UMONS)*</span><br>
         <span class="paper-meta">[<a href="static/papers/32.pdf">PDF</a>]</span>
@@ -351,7 +356,7 @@ TBA
     <li>
         <span class="paper-title">Deep compositional robotic planners that follow natural language commands</span><br>
         <span class="paper-authors">Yen-Ling Kuo (MIT)*; Boris Katz (MIT); Andrei Barbu (MIT)</span><br>
-        <span class="paper-meta">[<a href="static/papers/37.pdf">PDF</a>]</span>
+        <!-- <span class="paper-meta">[<a href="static/papers/37.pdf">PDF</a>]</span> -->
     </li>
     <li>
         <span class="paper-title">Can adversarial training learn image captioning ?</span><br>
