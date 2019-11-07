@@ -319,6 +319,11 @@ TBA
         <span class="paper-meta">[<a href="static/papers/26.pdf">PDF</a>]</span>
     </li>
     <li>
+        <span class="paper-title">CLOSURE: Assessing Systematic Generalization of CLEVR Models</span><br>
+        <span class="paper-authors">Harm De Vries (Montreal Institute for Learning Algorithms); Dzmitry Bahdanau (University of Montreal)*; Shikhar Murty  (MILA, UdeM); Aaron Courville (MILA, Université de Montréal); Philippe Beaudoin (Element AI)</span><br>
+        <span class="paper-meta">[<a href="static/papers/28.pdf">PDF</a>]</span>
+    </li>
+    <li>
         <span class="paper-title">A Comprehensive Analysis of Semantic Compositionality in Text-to-Image Generation</span><br>
         <span class="paper-authors">Chihiro Fujiyama (Ochanomizu University)*; Ichiro  kobayashi (ochanomizu university tokyo)</span><br>
         <span class="paper-meta">[<a href="static/papers/29.pdf">PDF</a>]</span>
@@ -369,6 +374,11 @@ TBA
         <span class="paper-meta">[<a href="static/papers/39.pdf">PDF</a>]</span>
     </li>
     <li>
+        <span class="paper-title">Supervised Multimodal Bitransformers for Classifying Images and Text</span><br>
+        <span class="paper-authors">Douwe Kiela (Facebook AI Research)*; Suvrat Bhooshan (Facebook); Hamed Firooz (Facebook); Davide Testuggine (Facebook)</span><br>
+        <!-- <span class="paper-meta">[<a href="static/papers/40.pdf">PDF</a>]</span> -->
+    </li>
+    <li>
         <span class="paper-title">Shaping Visual Representations with Language for Few-shot Classification</span><br>
         <span class="paper-authors">Jesse Mu (Stanford University)*; Percy Liang (Stanford University); Noah Goodman (Stanford University)</span><br>
         <span class="paper-meta">[<a href="static/papers/41.pdf">PDF</a>]</span>
@@ -382,6 +392,11 @@ TBA
         <span class="paper-title">Analyzing Compositionality in Visual Question Answering</span><br>
         <span class="paper-authors">Sanjay Subramanian (Allen Institute for Artificial Intelligence)*; Sameer  Singh (University of California, Irvine); Matt Gardner (AI2)</span><br>
         <span class="paper-meta">[<a href="static/papers/43.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">On Agreements in Visual Understanding</span><br>
+        <span class="paper-authors">Yassine Mrabet (NLM/NIH)*; Dina Demner-Fushman (NLM/NIH)</span><br>
+        <span class="paper-meta">[<a href="static/papers/45.pdf">PDF</a>]</span>
     </li>
     <li>
         <span class="paper-title">A perspective on multi-agent communication for information fusion</span><br>
