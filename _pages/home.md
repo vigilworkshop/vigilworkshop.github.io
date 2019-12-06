@@ -376,7 +376,7 @@ TBA
     <li>
         <span class="paper-title">Supervised Multimodal Bitransformers for Classifying Images and Text</span><br>
         <span class="paper-authors">Douwe Kiela (Facebook AI Research)*; Suvrat Bhooshan (Facebook); Hamed Firooz (Facebook); Davide Testuggine (Facebook)</span><br>
-        <!-- <span class="paper-meta">[<a href="static/papers/40.pdf">PDF</a>]</span> -->
+        <span class="paper-meta">[<a href="static/papers/40.pdf">PDF</a>]</span>
     </li>
     <li>
         <span class="paper-title">Shaping Visual Representations with Language for Few-shot Classification</span><br>
