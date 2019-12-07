@@ -150,7 +150,75 @@ acknowledgements: ""
     </div>
 </div>
 
-TBA
+<br>
+<div class="row">
+  <div class="col-xs-12">
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>08:20 AM - 08:30 AM</td>
+          <td>Opening remarks</td>
+        </tr>
+        <tr>
+          <td>08:30 AM - 09:10 AM</td>
+          <td>Invited talk: Jason Baldridge</td>
+        </tr>
+        <tr>
+          <td>09:10 AM - 09:50 AM</td>
+          <td>Invited talk: Jesse Thomason</td>
+        </tr>
+        <tr>
+          <td>09:50 AM - 10:30 AM</td>
+          <td>Coffee break</td>
+        </tr>
+        <tr>
+          <td>10:30 AM - 11:10 AM</td>
+          <td>Spotlights</td>
+        </tr>
+        <tr>
+          <td>11:10 AM - 11:50 AM</td>
+          <td>Invited talk: Jay McClelland</td>
+        </tr>
+        <tr>
+          <td>11:50 AM - 12:10 PM</td>
+          <td>Invited talk: Louis-Philippe Morency  </td>
+        </tr>
+        <tr>
+          <td>12:10 PM - 01:50 PM</td>
+          <td>Poster session + Lunch</td>
+        </tr>
+        <tr>
+          <td>01:50 PM - 02:30 PM</td>
+          <td>Invited talk: Lisa Anne Hendricks</td>
+        </tr>
+        <tr>
+          <td>02:30 PM - 03:10 PM</td>
+          <td>Invited talk: Linda Smith</td>
+        </tr>
+        <tr>
+          <td>03:10 PM - 04:00 PM</td>
+          <td>Poster session + coffee break</td>
+        </tr>
+        <tr>
+          <td>04:00 PM - 04:40 PM</td>
+          <td>Invited talk: Timothy Lillicrap</td>
+        </tr>
+        <tr>
+          <td>04:40 PM - 05:20 PM</td>
+          <td>Invited talk: Josh Tenenbaum</td>
+        </tr>
+        <tr>
+          <td>05:20 PM - 06:00 PM</td>
+          <td>Panel Discussion</td>
+        </tr>
+        <tr>
+          <td>06:00 PM - 06:10 PM</td>
+          <td>Closing remarks</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
 <hr>
 <div class="row" id="speakers">
