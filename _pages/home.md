@@ -172,15 +172,31 @@ acknowledgements: ""
           <td>Coffee break</td>
         </tr>
         <tr>
-          <td>10:30 AM - 11:10 AM</td>
-          <td>Spotlights</td>
+          <td>10:30 AM - 10:50 AM</td>
+          <td>
+            Spotlights
+            <ul>
+            <li>VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering<br>
+            (Cătălina Cangea, Eugene Belilovsky, Pietro Liò, Aaron Courville)</li>
+            <li>General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping<br>
+            (Gabriel Ilharco, Vihan Jain, Alexander Ku, Eugene Ie, Jason Baldridge)
+            </li>
+            <li>Structural and functional learning for learning language use<br>
+            (Angeliki Lazaridou, Anna Potapenko, Olivier Tieleman)
+            </li>
+            <li>Deep compositional robotic planners that follow natural language commands<br>
+            (Yen-Ling Kuo, Boris Katz, Andrei Barbu)</li>
+            <li>Analyzing Compositionality in Visual Question Answering<br>
+            (Sanjay Subramanian, Sameer  Singh, Matt Gardner)</li>
+            </ul>
+          </td>
         </tr>
         <tr>
-          <td>11:10 AM - 11:50 AM</td>
+          <td>11:50 AM - 11:30 AM</td>
           <td>Invited talk: Jay McClelland</td>
         </tr>
         <tr>
-          <td>11:50 AM - 12:10 PM</td>
+          <td>11:30 AM - 12:10 PM</td>
           <td>Invited talk: Louis-Philippe Morency  </td>
         </tr>
         <tr>
@@ -197,7 +213,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>03:10 PM - 04:00 PM</td>
-          <td>Poster session + coffee break</td>
+          <td>Poster session + Coffee break</td>
         </tr>
         <tr>
           <td>04:00 PM - 04:40 PM</td>
