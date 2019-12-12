@@ -375,7 +375,8 @@ acknowledgements: ""
     <li>
         <span class="paper-title">Contextual Grounding of Natural Language Entities in Images</span><br>
         <span class="paper-authors">Farley Lai (NEC Laboratories America, Inc.)*; Ning Xie (Wright State University); Derek Doran (Wright State University); Asim Kadav (NEC Labs)</span><br>
-        <span class="paper-meta">[<a href="static/papers/14.pdf">PDF</a>]</span>
+        <span class="paper-meta">[<a href="static/papers/14.pdf">PDF</a>]</span> 
+        <span class="paper-meta">[<a href="https://gitlab.com/necla-ml/Grounding">Code</a>]</span>
     </li>
     <li>
         <span class="paper-title">Visual Dialog for Radiology: Data Curation and FirstSteps</span><br>
