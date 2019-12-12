@@ -192,7 +192,7 @@ acknowledgements: ""
           </td>
         </tr>
         <tr>
-          <td>11:50 AM - 11:30 AM</td>
+          <td>10:50 AM - 11:30 AM</td>
           <td>Invited talk: Jay McClelland</td>
         </tr>
         <tr>
