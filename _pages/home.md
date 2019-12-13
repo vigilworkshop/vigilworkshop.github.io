@@ -501,7 +501,7 @@ acknowledgements: ""
     <li>
         <span class="paper-title">Commonsense and Semantic-Guided Navigation through Language in Embodied Environment</span><br>
         <span class="paper-authors">Dian Yu (University of California, Davis)*; Chandra Khatri (Uber); Alexandros Papangelis (UberAI); Andrea Madotto (Hong Kong University of Science and Technology); Mahdi Namazifar (Uber Technologies, Inc.); Joost Huizinga (UberAI); Adrien Ecoffet (UberAI); Huaixiu Zheng (Uber Technologies); Piero Molino (Uber AI); Jeff Clune (Uber AI Labs); Zhou Yu (UC Davis); Kenji Sagae (University of California, Davis); Gokhan Tur (Uber)</span><br>
-        <span class="paper-meta">[<a href="static/papers/49.pdf">PDF</a>]</span>
+        <!-- <span class="paper-meta">[<a href="static/papers/49.pdf">PDF</a>]</span> -->
     </li>
 </ul>
 
