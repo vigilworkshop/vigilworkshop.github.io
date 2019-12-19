@@ -157,15 +157,24 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>08:20 AM - 08:30 AM</td>
-          <td>Opening remarks</td>
+          <td>
+            Opening remarks
+            [<a href="https://slideslive.com/38921905/visually-grounded-interaction-and-language-1">Video</a>]
+          </td>
         </tr>
         <tr>
           <td>08:30 AM - 09:10 AM</td>
-          <td>Invited talk: Jason Baldridge</td>
+          <td>
+            Invited talk: Jason Baldridge
+            [<a href="https://slideslive.com/38921905/visually-grounded-interaction-and-language-1">Video</a>, 4:05+]
+          </td>
         </tr>
         <tr>
           <td>09:10 AM - 09:50 AM</td>
-          <td>Invited talk: Jesse Thomason</td>
+          <td>
+            Invited talk: Jesse Thomason
+            [<a href="https://slideslive.com/38921905/visually-grounded-interaction-and-language-1">Video</a>, 54:10+]
+          </td>
         </tr>
         <tr>
           <td>09:50 AM - 10:30 AM</td>
@@ -175,6 +184,7 @@ acknowledgements: ""
           <td>10:30 AM - 10:50 AM</td>
           <td>
             Spotlights
+            [<a href="https://slideslive.com/38921907/visually-grounded-interaction-and-language-2">Video</a>]
             <ul>
             <li>VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering<br>
             (Cătălina Cangea, Eugene Belilovsky, Pietro Liò, Aaron Courville)</li>
@@ -193,11 +203,17 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>10:50 AM - 11:30 AM</td>
-          <td>Invited talk: Jay McClelland</td>
+          <td>
+            Invited talk: Jay McClelland
+            [<a href="https://slideslive.com/38921907/visually-grounded-interaction-and-language-2">Video</a>, 24:45+]
+          </td>
         </tr>
         <tr>
           <td>11:30 AM - 12:10 PM</td>
-          <td>Invited talk: Louis-Philippe Morency  </td>
+          <td>
+            Invited talk: Louis-Philippe Morency
+            [<a href="https://slideslive.com/38921907/visually-grounded-interaction-and-language-2">Video</a>, 01:06:55+]
+          </td>
         </tr>
         <tr>
           <td>12:10 PM - 01:50 PM</td>
@@ -205,11 +221,17 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>01:50 PM - 02:30 PM</td>
-          <td>Invited talk: Lisa Anne Hendricks</td>
+          <td>
+            Invited talk: Lisa Anne Hendricks
+            [<a href="https://slideslive.com/38921908/visually-grounded-interaction-and-language-3">Video</a>]
+          </td>
         </tr>
         <tr>
           <td>02:30 PM - 03:10 PM</td>
-          <td>Invited talk: Linda Smith</td>
+          <td>
+            Invited talk: Linda Smith
+            [<a href="https://slideslive.com/38921908/visually-grounded-interaction-and-language-3">Video</a>, 36:07+]
+          </td>
         </tr>
         <tr>
           <td>03:10 PM - 04:00 PM</td>
@@ -217,19 +239,31 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>04:00 PM - 04:40 PM</td>
-          <td>Invited talk: Timothy Lillicrap</td>
+          <td>
+            Invited talk: Timothy Lillicrap
+            [<a href="https://slideslive.com/38921909/visually-grounded-interaction-and-language-4">Video</a>]
+          </td>
         </tr>
         <tr>
           <td>04:40 PM - 05:20 PM</td>
-          <td>Invited talk: Josh Tenenbaum</td>
+          <td>
+            Invited talk: Josh Tenenbaum (presented by Jiayuan Mao)
+            [<a href="https://slideslive.com/38921909/visually-grounded-interaction-and-language-4">Video</a>, 42:20+]
+          </td>
         </tr>
         <tr>
           <td>05:20 PM - 06:00 PM</td>
-          <td>Panel Discussion</td>
+          <td>
+            Panel Discussion
+            [<a href="https://slideslive.com/38921909/visually-grounded-interaction-and-language-4">Video</a>, 01:29:55+]
+          </td>
         </tr>
         <tr>
           <td>06:00 PM - 06:10 PM</td>
-          <td>Closing remarks</td>
+          <td>
+            Closing remarks
+            [<a href="https://slideslive.com/38921909/visually-grounded-interaction-and-language-4">Video</a>, 02:15:30+]
+          </td>
         </tr>
       </tbody>
     </table>
