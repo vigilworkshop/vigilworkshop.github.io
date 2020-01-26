@@ -205,14 +205,14 @@ acknowledgements: ""
           <td>10:50 AM - 11:30 AM</td>
           <td>
             Invited talk: Jay McClelland
-            [<a href="https://slideslive.com/38921907/visually-grounded-interaction-and-language-2">Video</a>, 24:45+]
+            [<a href="https://slideslive.com/38922471/invited-talk-why-language-understanding-is-not-a-solved-problem">Video</a>]
           </td>
         </tr>
         <tr>
           <td>11:30 AM - 12:10 PM</td>
           <td>
             Invited talk: Louis-Philippe Morency
-            [<a href="https://slideslive.com/38921907/visually-grounded-interaction-and-language-2">Video</a>, 01:06:55+]
+            [<a href="https://slideslive.com/38922472/invited-talk-multimodal-ai-healthcare">Video</a>]
           </td>
         </tr>
         <tr>
