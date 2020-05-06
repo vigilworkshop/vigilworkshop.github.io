@@ -166,14 +166,14 @@ acknowledgements: ""
           <td>08:30 AM - 09:10 AM</td>
           <td>
             Invited talk: Jason Baldridge
-            [<a href="https://slideslive.com/38921905/visually-grounded-interaction-and-language-1">Video</a>, 4:05+]
+            [<a href="https://slideslive.com/38922462/invited-talk-grasping-language">Video</a>]
           </td>
         </tr>
         <tr>
           <td>09:10 AM - 09:50 AM</td>
           <td>
             Invited talk: Jesse Thomason
-            [<a href="https://slideslive.com/38921905/visually-grounded-interaction-and-language-1">Video</a>, 54:10+]
+            [<a href="https://slideslive.com/38922467/invited-talk-from-human-language-to-agent-action">Video</a>]
           </td>
         </tr>
         <tr>
@@ -223,14 +223,14 @@ acknowledgements: ""
           <td>01:50 PM - 02:30 PM</td>
           <td>
             Invited talk: Lisa Anne Hendricks
-            [<a href="https://slideslive.com/38921908/visually-grounded-interaction-and-language-3">Video</a>]
+            [<a href="https://slideslive.com/38922464/invited-talk-when-is-grounding-helpful-for-language-and-vision-tasks">Video</a>]
           </td>
         </tr>
         <tr>
           <td>02:30 PM - 03:10 PM</td>
           <td>
             Invited talk: Linda Smith
-            [<a href="https://slideslive.com/38921908/visually-grounded-interaction-and-language-3">Video</a>, 36:07+]
+            [<a href="https://slideslive.com/38922469/invited-talk-learning-from-the-infants-point-of-view">Video</a>]
           </td>
         </tr>
         <tr>
@@ -241,28 +241,27 @@ acknowledgements: ""
           <td>04:00 PM - 04:40 PM</td>
           <td>
             Invited talk: Timothy Lillicrap
-            [<a href="https://slideslive.com/38921909/visually-grounded-interaction-and-language-4">Video</a>]
+            [<a href="https://slideslive.com/38922465/invited-talk-recent-advances-in-deep-rl-implications-for-grounded-language">Video</a>]
           </td>
         </tr>
         <tr>
           <td>04:40 PM - 05:20 PM</td>
           <td>
             Invited talk: Josh Tenenbaum (presented by Jiayuan Mao)
-            [<a href="https://slideslive.com/38921909/visually-grounded-interaction-and-language-4">Video</a>, 42:20+]
+            [<a href="https://slideslive.com/38922477/invited-talk-neurosymbolic-frameworks-for-visually-grounded-reasoning-and-language-acquisition">Video</a>]
           </td>
         </tr>
         <tr>
           <td>05:20 PM - 06:00 PM</td>
           <td>
             Panel Discussion
-            [<a href="https://slideslive.com/38921909/visually-grounded-interaction-and-language-4">Video</a>, 01:29:55+]
+            [<a href="https://slideslive.com/38922468/panel-discussion">Video</a>]
           </td>
         </tr>
         <tr>
           <td>06:00 PM - 06:10 PM</td>
           <td>
             Closing remarks
-            [<a href="https://slideslive.com/38921909/visually-grounded-interaction-and-language-4">Video</a>, 02:15:30+]
           </td>
         </tr>
       </tbody>
