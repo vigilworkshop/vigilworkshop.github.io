@@ -13,72 +13,59 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Visually Grounded Interaction and Language (ViGIL)</h1></center>
-    <center><h2>NeurIPS 2019 Workshop, Vancouver, Canada</h2></center>
-    <center><span style="color:#e74c3c;font-weight:400;">
-      Friday, 13th December, 08:30 AM to 06:30 PM, Room: West 202 - 204
-    </span></center>
   </div>
 </div>
+
+<br />
 
 <div class="row" id="intro">
     <div class="col-xs-12">
         <h2>Introduction</h2>
-        <p>
-        The dominant paradigm in modern natural language understanding is learning statistical language models from text-only corpora. This approach is founded on a distributional notion of semantics, i.e. that the "meaning" of a word is based only on its relationship to other words. While effective for many applications, methods in this family suffer from limited semantic understanding, as they miss learning from the multimodal and interactive environment in which communication often takes place - the symbols of language thus are not grounded in anything concrete. The symbol grounding problem first highlighted this limitation, that "meaningless symbols (i.e.) words cannot be grounded in anything but other meaningless symbols" [1].
-        </p>
-
-        <p>
-        On the other hand, humans acquire language by communicating about and interacting within a rich, perceptual environment. This behavior provides the necessary grounding for symbols, i.e. to concrete objects or concepts (i.e. physical or psychological). Thus, recent work has aimed to bridge vision, interactive learning, and natural language understanding through language learning tasks based on natural images (ReferIt [2], Visual Question Answering [3-6], Visual Dialog [7-10], Captioning [11, 32-35], Visual-Audio Correspondence [30]) or through embodied agents performing interactive tasks [12-29] in physically simulated environments (DeepMind Lab [12], Baidu XWorld [13], Habitat [14], StreetLearn [18], AI2-THOR [21], House3D [22], Matterport3D [23], GIBSON [27], MINOS [28]), often drawing on the recent successes of deep learning and reinforcement learning. We believe this line of research poses a promising, long-term solution to the grounding problem faced by current, popular language understanding models.
-        </p>
-
-
-        <p>
-        While machine learning research exploring visually-grounded language learning may be in its earlier stages, it may be possible to draw insights from the rich research literature on human language acquisition. In neuroscience, recent progress in fMRI technology has enabled better understanding of the interaction between language, vision and other modalities [17,18] suggesting that the brains share neural representations of concepts across vision and language. In concurrent work, developmental cognitive scientists have argued that word acquisition in children is closely linked to them learning the underlying physical concepts in the real world [15, 31], and that they generalize surprisingly well at this from sparse evidence [36].
-        </p>
-
-        <p>
-        This workshop thus aims to gather people from various backgrounds - machine learning, computer vision, natural language processing, neuroscience, cognitive science, psychology, and philosophy - to share and debate their perspectives on why grounding may (or may not) be important in building machines that truly understand natural language.
-        </p>
+        <p>Language understanding, perception, and motor control have historically been studied independently in the AI community. For example, although various algorithms have been developed to tackle the task of object recognition (ResNet [1], EfficientNet [2]) and language modeling (BERT [3], XLNet [4], GPT-3 [5]) individually, these methods are still restricted to the modalities they are trained on. While systems for object recognition can identify and sort objects in an image into one of many categories, they are not aware of language – more notably, they are not even trained to capture or identify the compositional relationships between objects that language would afford. Likewise, language modeling systems are ungrounded; while they can generate humanlike text, they cannot be used out-of-the-box to caption an image. We posit that, first, for systems to have a better understanding of language and be able to interact in the real world, they must be embodied in physical environments, and be able to reason about various types of context, including vision, physics, and sound. Second, it might not even be possible for artificial agents to grasp concepts of intuitive physics (e.g., how does a weighing scale work?) or common sense (e.g., how do mirrors work?) unimodally from static corpora. Learning these concepts requires agency and careful interplay of multiple modalities and interaction. Concretely, in this workshop, we hope to make progress towards building intelligent systems that can effectively leverage information from multiple modalities to perform tasks in interactive and immersive environments.</p>
+        <p>To this end, there has been recent interest in jointly combining language, perception, and other modalities and to cement them through interaction. These include vision-and-language navigation [6–10], embodied question answering [11–13], audio-visual navigation [14, 15], visual dialog [16–18], vision and touch in robotics [19–21], or language-based collaboration [22, 23]. However, the language grounding problem is still vastly challenging, an issue highlighted by many benchmarks where human-level performance is yet to be achieved [24, 25]. We believe that progress can be made by focusing future research on embodied learning (EmbodiedQA [12], StreetLearn [26], VideoNavQA [27], ALFRED [28], REVERIE [29]), curiosity-driven interaction (AI2-Thor [30]), reasoning beyond objects and their spatial relationships in a scene (VCR [31], CLEVRER [32]) and collaborating via language-based interactions (CVDN [33], Talk the Walk [34], CerealBar [35]).</p>
+        <p>The goal of this workshop is to bring together scientists from diverse backgrounds – machine learning, computer vision, natural language processing, robotics, neuroscience, cognitive science, psychology, and philosophy – to share their perspectives on grounding, embodiment, and interaction. While related workshops focus on machine learning methods and narrow grounding applications, ViGIL provides a unique opportunity for interdisciplinary discussion. We hope to use this diversity to foster new ideas about how to learn and leverage grounding. This one-day session would enable in-depth conversations on understanding the boundaries of current work and establishing promising avenues for future work. Our workshop ultimately aims to bridge the scientific fields of human cognition and machine learning.</p>
     </div>
 </div>
 
-<br>
+<div class="hide">
+
+<br />
+
 <div class="row" id="dates">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
   </div>
 </div>
 
-<br>
 <div class="row">
   <div class="col-xs-12">
     <table class="table table-striped">
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>September 18, 2019 (11:59 PM Pacific time)</td>
+          <td>TBD</td>
         </tr>
         <tr>
           <td>Decision Notifications</td>
-          <td><strike>September 26, 2019</strike> September 28, 2019</td>
+          <td>TBD</td>
         </tr>
         <tr>
           <td>Workshop</td>
-          <td>December 13, 2019</td>
+          <td>TBD</td>
         </tr>
       </tbody>
     </table>
   </div>
 </div>
 
-<br>
+<br />
+
 <div class="row" id="cfp">
   <div class="col-xs-12">
     <h2>Call for Papers</h2>
   </div>
 </div>
 
-<br>
 <div class="row">
     <div class="col-xs-12">
         <p>
@@ -86,510 +73,42 @@ acknowledgements: ""
         </p>
         <p>
             <ul>
-              <li>language acquisition or learning through interactions</li>
-              <li>image/video captioning, visual dialogues, visual question-answering, and other visually grounded language challenges</li>
-              <li>reasoning in language and vision</li>
-              <li>transfer learning in language and vision tasks</li>
-              <li>audiovisual scene understanding and generation </li>
-              <li>navigation and question answering in virtual worlds with natural-language instructions</li>
-              <li>original multimodal works that can be extended to vision, language or interaction</li>
-              <li>human-machine interaction with vision and language</li>
-              <li>understanding and modeling the relationship between language and vision in humans semantic systems and modeling of natural language and visual stimuli representations in the human brain</li>
-              <li>epistemology and research reflexions about language grounding, human embodiment and other related topics</li>
-              <li>visual and linguistic cognition in infancy and/or adults</li>
+    <li>grounded and interactive language acquisition;</li>
+    <li>reasoning and planning in language, vision, and interactive domains;</li>
+    <li>machine translation with visual cues;</li>
+    <li>transfer learning in language and vision tasks;</li>
+    <li>visual captioning, dialog, storytelling, and question-answering;</li>
+    <li>visual synthesis from language;</li>
+    <li>embodied agents: language instructions, agent co-ordination through language, interaction;</li>
+    <li>language-grounded robotic learning with multimodal inputs;</li>
+    <li>human-machine interaction with language through robots or within virtual world;</li>
+    <li>audio-visual dialog systems;</li>
+    <li>audio-visual scene understanding;</li>
+    <li>novel tasks that combine language, vision, interactions, and other modalities;</li>
+    <li>understanding and modeling the relationship between language and vision in humans;</li>
+    <li>semantic systems and modeling of natural language and visual stimuli representations in the human brain.</li>
             </ul>
         </p>
     </div>
 </div>
 
-<br>
-<div class="row">
-    <div class="col-xs-12">
-        <h3>Submission</h3>
-        <p>
-            <br>
-            Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2019/">cmt3.research.microsoft.com/VIGIL2019</a>
-        </p>
-        <p>
-            Accepted papers will be presented during joint poster sessions, with exceptional submissions selected for spotlight oral presentations. Accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
-        </p>
-        <p>
-            Submissions should be up to 4 pages excluding references, acknowledgements, and supplementary material, and should follow <a href="https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles" style="color:#2980b9;font-weight:400;">NeurIPS format</a>. The CMT-based review process will be double-blind to avoid potential conflicts of interests.
-        </p>
-        <p>
-            We welcome published papers from *non-ML* conferences that are within the scope of the workshop (without re-formatting). These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process. 
-        </p>
-         <p>
-            A limited pool of NeurIPS registrations might be available for accepted papers.
-        </p>
-        <p>
-            In case of any issues, feel free to email the workshop organizers at: <a href="mailto:vigilworkshop@gmail.com">vigilworkshop@gmail.com</a>.
-        </p> 
-    </div>
 </div>
 
+<hr />
 
-<br>
-<div class="row">
-    <div class="col-xs-12">
-        <h3>D-Day Workshop Information</h3>
-        <p>
-            <br>
-            Posters will be taped to the wall (we will provide tape).
-            Please make sure they are printed on lightweight paper without lamination
-            and no larger than 36 x 48 inches or 90 x 122 cm in portrait orientation.
-            
-        </p> 
-    </div>
-</div>
- 
-<hr>
-<div class="row" id="schedule">
-    <div class="col-xs-12">
-        <h2>Schedule</h2>
-    </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-xs-12">
-    <table class="table table-striped">
-      <tbody>
-        <tr>
-          <td>08:20 AM - 08:30 AM</td>
-          <td>
-            Opening remarks
-            [<a href="https://slideslive.com/38921905/visually-grounded-interaction-and-language-1">Video</a>]
-          </td>
-        </tr>
-        <tr>
-          <td>08:30 AM - 09:10 AM</td>
-          <td>
-            Invited talk: Jason Baldridge
-            [<a href="https://slideslive.com/38922462/invited-talk-grasping-language">Video</a>]
-          </td>
-        </tr>
-        <tr>
-          <td>09:10 AM - 09:50 AM</td>
-          <td>
-            Invited talk: Jesse Thomason
-            [<a href="https://slideslive.com/38922467/invited-talk-from-human-language-to-agent-action">Video</a>]
-          </td>
-        </tr>
-        <tr>
-          <td>09:50 AM - 10:30 AM</td>
-          <td>Coffee break</td>
-        </tr>
-        <tr>
-          <td>10:30 AM - 10:50 AM</td>
-          <td>
-            Spotlights
-            [<a href="https://slideslive.com/38921907/visually-grounded-interaction-and-language-2">Video</a>]
-            <ul>
-            <li>VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering<br>
-            (Cătălina Cangea, Eugene Belilovsky, Pietro Liò, Aaron Courville)</li>
-            <li>General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping<br>
-            (Gabriel Ilharco, Vihan Jain, Alexander Ku, Eugene Ie, Jason Baldridge)
-            </li>
-            <li>Structural and functional learning for learning language use<br>
-            (Angeliki Lazaridou, Anna Potapenko, Olivier Tieleman)
-            </li>
-            <li>Deep compositional robotic planners that follow natural language commands<br>
-            (Yen-Ling Kuo, Boris Katz, Andrei Barbu)</li>
-            <li>Analyzing Compositionality in Visual Question Answering<br>
-            (Sanjay Subramanian, Sameer  Singh, Matt Gardner)</li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td>10:50 AM - 11:30 AM</td>
-          <td>
-            Invited talk: Jay McClelland
-            [<a href="https://slideslive.com/38922471/invited-talk-why-language-understanding-is-not-a-solved-problem">Video</a>]
-          </td>
-        </tr>
-        <tr>
-          <td>11:30 AM - 12:10 PM</td>
-          <td>
-            Invited talk: Louis-Philippe Morency
-            [<a href="https://slideslive.com/38922472/invited-talk-multimodal-ai-healthcare">Video</a>]
-          </td>
-        </tr>
-        <tr>
-          <td>12:10 PM - 01:50 PM</td>
-          <td>Poster session + Lunch</td>
-        </tr>
-        <tr>
-          <td>01:50 PM - 02:30 PM</td>
-          <td>
-            Invited talk: Lisa Anne Hendricks
-            [<a href="https://slideslive.com/38922464/invited-talk-when-is-grounding-helpful-for-language-and-vision-tasks">Video</a>]
-          </td>
-        </tr>
-        <tr>
-          <td>02:30 PM - 03:10 PM</td>
-          <td>
-            Invited talk: Linda Smith
-            [<a href="https://slideslive.com/38922469/invited-talk-learning-from-the-infants-point-of-view">Video</a>]
-          </td>
-        </tr>
-        <tr>
-          <td>03:10 PM - 04:00 PM</td>
-          <td>Poster session + Coffee break</td>
-        </tr>
-        <tr>
-          <td>04:00 PM - 04:40 PM</td>
-          <td>
-            Invited talk: Timothy Lillicrap
-            [<a href="https://slideslive.com/38922465/invited-talk-recent-advances-in-deep-rl-implications-for-grounded-language">Video</a>]
-          </td>
-        </tr>
-        <tr>
-          <td>04:40 PM - 05:20 PM</td>
-          <td>
-            Invited talk: Josh Tenenbaum (presented by Jiayuan Mao)
-            [<a href="https://slideslive.com/38922477/invited-talk-neurosymbolic-frameworks-for-visually-grounded-reasoning-and-language-acquisition">Video</a>]
-          </td>
-        </tr>
-        <tr>
-          <td>05:20 PM - 06:00 PM</td>
-          <td>
-            Panel Discussion
-            [<a href="https://slideslive.com/38922468/panel-discussion">Video</a>]
-          </td>
-        </tr>
-        <tr>
-          <td>06:00 PM - 06:10 PM</td>
-          <td>
-            Closing remarks
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-
-<hr>
-<div class="row" id="speakers">
-  <div class="col-xs-12">
-    <h2>Invited Speakers</h2>
-  </div>
-</div>
-<p><br /></p>
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="/static/img/people/linda-smith.jpg" />
-    <p><b>Linda Smith</b>
-    is a Distinguished Professor, Psychological and Brain Sciences at Indiana University. Her recent work at the intersection of cognitive development and machine learning focuses specifically on the statistics of infants' visual experience and how it affects concept and word learning.
-    <span style="color:#2980b9;">[<a href="http://www.iub.edu/~cogdev/">Webpage</a>]</span></p>
-  </div>
-</div>
-<p><br /></p>
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="/static/img/people/josh-tenenbaum.jpeg" />
-    <p><b>Josh Tenenbaum</b> is a Professor in Computational Cognitive Science at MIT. His work studies learning and reasoning in humans and machines, with the twin goals of understanding human intelligence in computational terms and bringing artificial intelligence closer to human-level capacities.
-    <span style="color:#2980b9;">[<a href="https://web.mit.edu/cocosci/josh.html">Webpage</a>]</span></p>
-  </div>
-</div>
-<p><br /></p>
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:75px;" src="/static/img/people/jay-mcclelland.jpg" />
-    <p><b>Jay McClelland</b> is a Professor in the Psychology Department and Director of the Center for Mind, Brain and Computation at Stanford University. His research spans a broad range of topics in cognitive science and cognitive neuroscience, including perception and perceptual decision making; learning and memory; language and reading; semantic and mathematical cognition; and cognitive development.
-    <span style="color:#2980b9;">[<a href="https://stanford.edu/~jlmcc/">Webpage</a>]</span></p>
-  </div>
-</div>
-<p><br /></p>
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="/static/img/people/jesse-thomason.jpg" />
-    <p><b>Jesse Thomason</b> is a postdoctoral researcher at the University of Washington. His research focuses on language grounding and natural language processing applications for robotics, including how dialog with humans can facilitate both robot task execution and learning.
-    <span style="color:#2980b9;">[<a href="https://jessethomason.com">Webpage</a>]</span></p>
-  </div>
-</div>
-<p><br /></p>
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="/static/img/people/lisa-anne-hendricks.jpg" />
-    <p><b>Lisa Anne Hendricks</b> is a research scientist at DeepMind (previously a PhD student in Computer Vision at UC Berkeley). Her work focuses on building systems which can express information about visual content using natural language and retrieve visual information given natural language.
-    <span style="color:#2980b9;">[<a href="https://people.eecs.berkeley.edu/~lisa_anne/">Webpage</a>]</span></p>
-  </div>
-</div>
-<p><br /></p>
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:80px;" src="/static/img/people/tim-lillicrap.png" />
-    <p><b>Timothy Lillicrap</b> is a research scientist at DeepMind. His research focuses on machine learning and statistics for optimal control and decision making, as well as using these mathematical frameworks to understand how the brain learns. He has developed algorithms and approaches for exploiting deep neural networks in the context of reinforcement learning, and recurrent memory architectures for one-shot learning.
-    <span style="color:#2980b9;">[<a href="http://contrastiveconvergence.net/~timothylillicrap/index.php">Webpage</a>]</span></p>
-  </div>
-</div>
-<p><br /></p>
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:80px;" src="/static/img/people/jason-baldridge.png" />
-    <p><b>Jason Baldridge</b> is a research scientist at Google. His research focuses on the theoretical and applied aspects of computational linguistics
-      -- from formal and computational models of syntax to machine learning for natural language processing and geotemporal grounding of natural language.
-    <span style="color:#2980b9;">[<a href="http://www.jasonbaldridge.com">Webpage</a>]</span></p>
-  </div>
-</div>
-<p><br /></p>
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:55px;" src="/static/img/people/louis-philippe-morency.jpg" />
-    <p><b>Louis-Philippe Morency</b> is an Associate Professor at the Language Technology Institute at Carnegie Mellon University. His research focuses on building the computational foundations to enable computers with the abilities to analyze, recognize and predict subtle human communicative behaviors during social interactions.
-    <span style="color:#2980b9;">[<a href="https://www.cs.cmu.edu/~morency/">Webpage</a>]</span></p>
-  </div>
-</div>
-<p><br /></p>
-
-<hr>
-<div class="row" id="accepted">
-  <div class="col-xs-12">
-    <h2>Accepted Papers</h2>
-  </div>
-</div>
-<p><br /></p>
-
-<ul class="paper-list">
-    <li>
-        <span class="paper-title">Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning</span><br>
-        <span class="paper-authors">Khanh Nguyen (University of Maryland)*; Hal Daume (University of Maryland, College Park)</span><br>
-        <span class="paper-meta">[<a href="static/papers/1.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">What is needed for simple spatial language capabilities in VQA?</span><br>
-        <span class="paper-authors">Alexander Kuhnle (University of Cambridge)*; Ann Copestake (University of Cambridge)</span><br>
-        <span class="paper-meta">[<a href="static/papers/2.pdf">PDF</a>] [<a href="static/papers/2_supp.pdf">Supplementary</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Learning from Observation-Only Demonstration for Task-Oriented Language Grounding via Self-Examination</span><br>
-        <span class="paper-authors">Tsu-Jui Fu (UC Santa Barbara); Yuta Tsuboi (Preferred Networks)*; Sosuke Kobayashi (Preferred Networks); Yuta Kikuchi (Preferred Networks)</span><br>
-        <span class="paper-meta">[<a href="static/papers/3.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Not All Actions Are Equal: Learning to Stop in Language-Grounded Urban Navigation</span><br>
-        <span class="paper-authors">Jiannan Xiang (University of Science and Technology of China); Xin Wang (University of California, Santa Barbara)*; William Yang Wang (UC Santa Barbara)</span><br>
-        <span class="paper-meta">[<a href="static/papers/5.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Hidden State Guidance: Improving Image Captioning Using an Image Conditioned Autoencoder</span><br>
-        <span class="paper-authors">Jialin Wu (UT Austin)*; Raymond Mooney (Univ. of Texas at Austin)</span><br>
-        <span class="paper-meta">[<a href="static/papers/6.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Situated Grounding Facilitates Multimodal Concept Learning for AI</span><br>
-        <span class="paper-authors">Nikhil Krishnaswamy (Brandeis University)*; James Pustejovsky (Brandeis University)</span><br>
-        <span class="paper-meta">[<a href="static/papers/7.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering</span><br>
-        <span class="paper-authors">Cătălina Cangea (University of Cambridge)*; Eugene Belilovsky (Mila); Pietro Liò (University of Cambridge); Aaron Courville (Universite de Montreal)</span><br>
-        <span class="paper-meta">[<a href="static/papers/9.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Induced Attention Invariance: Defending VQA Models against Adversarial Attacks</span><br>
-        <span class="paper-authors">Vasu Sharma (Carnegie Mellon University)*; Ankita Kalra (CMU); Louise-Phillipe Morency (Carnegie Mellon University)</span><br>
-        <span class="paper-meta">[<a href="static/papers/11.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Natural Language Grounded Multitask Navigation</span><br>
-        <span class="paper-authors">Xin Wang (University of California, Santa Barbara)*; Vihan Jain (Google Research); Eugene Ie (Google Research); William Yang Wang (UC Santa Barbara); Zornitsa Kozareva (Google Cloud); Sujith Ravi (Google Research)</span><br>
-        <span class="paper-meta">[<a href="static/papers/13.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Contextual Grounding of Natural Language Entities in Images</span><br>
-        <span class="paper-authors">Farley Lai (NEC Laboratories America, Inc.)*; Ning Xie (Wright State University); Derek Doran (Wright State University); Asim Kadav (NEC Labs)</span><br>
-        <span class="paper-meta">[<a href="static/papers/14.pdf">PDF</a>]</span> 
-        <span class="paper-meta">[<a href="https://gitlab.com/necla-ml/Grounding">Code</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Visual Dialog for Radiology: Data Curation and FirstSteps</span><br>
-        <span class="paper-authors">Olga Kovaleva (UMass Lowell)*; Chaitanya  Shivade (IBM Research); Satyananda Kashyap (IBM Research); Karina Kanjaria (IBM Research); Adam Coy (IBM Research); Deddeh Ballah (IBM Research); Yufan Guo (IBM Research); Joy Wu (IBM Research); Alexandros Karargyris (IBM Research); David Beymer (IBM); Anna Rumshisky (University of Massachusetts Lowell); Vandana Mukherjee (IBM Research)</span><br>
-        <span class="paper-meta">[<a href="static/papers/15.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Multimodal Generative Learning Utilizing Jensen-Shannon-Divergence</span><br>
-        <span class="paper-authors">Thomas Sutter ()*; Imant Daunhawer (ETH Zurich); Julia Vogt (ETH Zurich)</span><br>
-        <span class="paper-meta">[<a href="static/papers/16.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Learning Question-Guided Video Representation for Multi-Turn Video Question Answering</span><br>
-        <span class="paper-authors">Guan-Lin Chao (Carnegie Mellon University)*; Abhinav Rastogi (Google); Semih Yavuz (University of California, Santa Barbara); Dilek Hakkani-Tur (Amazon Alexa AI); Jindong Chen (Google); Ian Lane (Carnegie Mellon University)</span><br>
-        <span class="paper-meta">[<a href="static/papers/24.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Structural and functional learning for learning language use</span><br>
-        <span class="paper-authors">Angeliki Lazaridou (DeepMind)*; Anna Potapenko (DeepMind); Olivier Tieleman (DeepMind)</span><br>
-        <span class="paper-meta">[<a href="static/papers/25.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Community size effect in artificial learning systems</span><br>
-        <span class="paper-authors">Olivier Tieleman (DeepMind)*; Angeliki Lazaridou (DeepMind); Shibl Mourad (DeepMind); Charles  Blundell  (DeepMind); Doina Precup (DeepMind)</span><br>
-        <span class="paper-meta">[<a href="static/papers/26.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">CLOSURE: Assessing Systematic Generalization of CLEVR Models</span><br>
-        <span class="paper-authors">Harm De Vries (Montreal Institute for Learning Algorithms); Dzmitry Bahdanau (University of Montreal)*; Shikhar Murty  (MILA, UdeM); Aaron Courville (MILA, Université de Montréal); Philippe Beaudoin (Element AI)</span><br>
-        <span class="paper-meta">[<a href="static/papers/28.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">A Comprehensive Analysis of Semantic Compositionality in Text-to-Image Generation</span><br>
-        <span class="paper-authors">Chihiro Fujiyama (Ochanomizu University)*; Ichiro  kobayashi (ochanomizu university tokyo)</span><br>
-        <span class="paper-meta">[<a href="static/papers/29.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Recurrent Instance Segmentation using Sequences of Referring Expressions</span><br>
-        <span class="paper-authors">Alba Maria Hererra-Palacio (Universitat Politecnica de Catalunya); Carles Ventura (Universitat Oberta de Catalunya); Carina Silberer (Universitat Pompeu Fabra); Ionut-Teodor Sorodoc (Universitat Pompeu Fabra); Gemma Boleda (Universitat Pompeu Fabra); Xavier Giro-i-Nieto (Universitat Politecnica de Catalunya)*</span><br>
-        <span class="paper-meta">[<a href="static/papers/30.pdf">PDF</a>] [<a href="static/papers/30_supp.pdf">Supplementary</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Visually Grounded Video Reasoning in Selective Attention Memory</span><br>
-        <span class="paper-authors">T.S. Jayram (IBM Research)*; Vincent Albouy (IBM Research); Tomasz Kornuta (IBM Research, Almaden); Emre Sevgen (University of Chicago); Ahmet Ozcan (IBM Almaden Research)</span><br>
-        <span class="paper-meta">[<a href="static/papers/31.pdf">PDF</a>] [<a href="static/papers/31_supp.pdf">Supplementary</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Modulated Self-attention Convolutional Network for VQA</span><br>
-        <span class="paper-authors">Jean-Benoit Delbrouck (UMONS)*</span><br>
-        <span class="paper-meta">[<a href="static/papers/32.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping</span><br>
-        <span class="paper-authors">Gabriel Ilharco (University of Washington)*; Vihan Jain (Google Research); Alexander Ku (Google Research); Eugene Ie (Google Research); Jason Baldridge (Google Inc.)</span><br>
-        <span class="paper-meta">[<a href="static/papers/33.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">A Simple Baseline for Visual Commonsense Reasoning</span><br>
-        <span class="paper-authors">Jingxiang Lin (UIUC)*; Unnat Jain (UIUC); Alexander Schwing (UIUC)</span><br>
-        <span class="paper-meta">[<a href="static/papers/34.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Language Grounding through Social Interactions and Curiosity-Driven Multi-Goal Learning</span><br>
-        <span class="paper-authors">Nicolas Lair (Inserm U1093 CAPS)*; Cédric Colas (Inria Bordeaux - Sud-Ouest); Rémy Portelas (Inria Bordeaux - Sud-Ouest); Jean-Michel Dussoux (Cloud Temple); Peter  Dominey (INSERM); Pierre-Yves Oudeyer (Inria)</span><br>
-        <span class="paper-meta">[<a href="static/papers/35.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Deep compositional robotic planners that follow natural language commands</span><br>
-        <span class="paper-authors">Yen-Ling Kuo (MIT)*; Boris Katz (MIT); Andrei Barbu (MIT)</span><br>
-        <!-- <span class="paper-meta">[<a href="static/papers/37.pdf">PDF</a>]</span> -->
-    </li>
-    <li>
-        <span class="paper-title">Can adversarial training learn image captioning ?</span><br>
-        <span class="paper-authors">Jean-Benoit Delbrouck (UMONS)*</span><br>
-        <span class="paper-meta">[<a href="static/papers/38.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Leveraging Topics and Audio Features with Multimodal Attention for Audio Visual Scene-Aware Dialog</span><br>
-        <span class="paper-authors">Shachi H Kumar (Intel Labs); Eda Okur (Intel Labs)*; Saurav Sahay (Intel); Jonathan Huang (Intel); Lama Nachman (Intel Labs)</span><br>
-        <span class="paper-meta">[<a href="static/papers/39.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Supervised Multimodal Bitransformers for Classifying Images and Text</span><br>
-        <span class="paper-authors">Douwe Kiela (Facebook AI Research)*; Suvrat Bhooshan (Facebook); Hamed Firooz (Facebook); Davide Testuggine (Facebook)</span><br>
-        <span class="paper-meta">[<a href="static/papers/40.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Shaping Visual Representations with Language for Few-shot Classification</span><br>
-        <span class="paper-authors">Jesse Mu (Stanford University)*; Percy Liang (Stanford University); Noah Goodman (Stanford University)</span><br>
-        <span class="paper-meta">[<a href="static/papers/41.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Self-Educated Language Agent with Hindsight Experience Replay for Instruction Following</span><br>
-        <span class="paper-authors">Geoffrey Cideron (University of Lille)*; Mathieu Seurin (University of Lille); Florian Strub (DeepMind); Olivier Pietquin (Google Research - Brain Team)</span><br>
-        <span class="paper-meta">[<a href="static/papers/42.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Analyzing Compositionality in Visual Question Answering</span><br>
-        <span class="paper-authors">Sanjay Subramanian (Allen Institute for Artificial Intelligence)*; Sameer  Singh (University of California, Irvine); Matt Gardner (AI2)</span><br>
-        <span class="paper-meta">[<a href="static/papers/43.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">On Agreements in Visual Understanding</span><br>
-        <span class="paper-authors">Yassine Mrabet (NLM/NIH)*; Dina Demner-Fushman (NLM/NIH)</span><br>
-        <span class="paper-meta">[<a href="static/papers/45.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">A perspective on multi-agent communication for information fusion</span><br>
-        <span class="paper-authors">Homagni Saha (Iowa state university)*; Vijay Venkataraman (Honeywell); Alberto Speranzon (Honeywell); Soumik Sarkar (Iowa State University)</span><br>
-        <span class="paper-meta">[<a href="static/papers/46.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Cross-Modal Mapping for Generalized Zero-Shot Learning by Soft-Labeling</span><br>
-        <span class="paper-authors">Shabnam Daghaghi ()*; Anshumali Shrivastava (Rice University); Tharun Medini (Rice University)</span><br>
-        <span class="paper-meta">[<a href="static/papers/47.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Learning Language from Vision</span><br>
-        <span class="paper-authors">Candace Ross (Massachusetts Institute of Technology); Cheahuychou Mao (MIT); Boris Katz (MIT); Andrei Barbu (MIT)*</span><br>
-        <span class="paper-meta">[<a href="static/papers/48.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Commonsense and Semantic-Guided Navigation through Language in Embodied Environment</span><br>
-        <span class="paper-authors">Dian Yu (University of California, Davis)*; Chandra Khatri (Uber); Alexandros Papangelis (UberAI); Andrea Madotto (Hong Kong University of Science and Technology); Mahdi Namazifar (Uber Technologies, Inc.); Joost Huizinga (UberAI); Adrien Ecoffet (UberAI); Huaixiu Zheng (Uber Technologies); Piero Molino (Uber AI); Jeff Clune (Uber AI Labs); Zhou Yu (UC Davis); Kenji Sagae (University of California, Davis); Gokhan Tur (Uber)</span><br>
-        <!-- <span class="paper-meta">[<a href="static/papers/49.pdf">PDF</a>]</span> -->
-    </li>
-</ul>
-
-<hr>
 <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
   </div>
 </div>
-
-<br>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://fstrub95.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}">
+    <a href="https://catalinacangea.netlify.app/">
+      <img class="people-pic" src="{{ "/static/img/people/catalinacangea.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://fstrub95.github.io/">Florian Strub</a>
-      <h6>University of Lille, Inria | DeepMind</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://www-etud.iro.umontreal.ca/~devries/">
-      <img class="people-pic" src="{{ "/static/img/people/harmdevries.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www-etud.iro.umontreal.ca/~devries/">Harm de Vries</a>
-      <h6>University of Montreal</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://wijmans.xyz/">
-      <img class="people-pic" src="{{ "/static/img/people/erikwijmans.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://wijmans.xyz/">Erik Wijmans</a>
-      <h6>Georgia Tech</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://www.linkedin.com/in/drew-a-hudson">
-      <img class="people-pic" src="{{ "/static/img/people/drew.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.linkedin.com/in/drew-a-hudson">Drew Hudson</a>
-      <h6>Stanford University</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://alanesuhr.com/">
-      <img class="people-pic" src="{{ "/static/img/people/alane.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://alanesuhr.com/">Alane Suhr</a>
-      <h6>Cornell University</h6>
+      <a href="https://catalinacangea.netlify.app/">Cătălina Cangea</a>
+      <h6>University of Cambridge</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -598,7 +117,25 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://abhishekdas.com">Abhishek Das</a>
-      <h6>Georgia Tech</h6>
+      <h6>Facebook AI Research</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.linkedin.com/in/drew-a-hudson">
+      <img class="people-pic" src="{{ "/static/img/people/drew.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.linkedin.com/in/drew-a-hudson">Drew Hudson</a>
+      <h6>Stanford</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://jacobkrantz.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/jacobkrantz.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://jacobkrantz.github.io/">Jacob Krantz</a>
+      <h6>Oregon State University</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -610,6 +147,42 @@ acknowledgements: ""
       <h6>Oregon State University</h6>
     </div>
   </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://jiayuanm.com/">
+      <img class="people-pic" src="{{ "/static/img/people/jiayuanmao.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://jiayuanm.com/">Jiayuan Mao</a>
+      <h6>MIT</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://fstrub95.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://fstrub95.github.io/">Florian Strub</a>
+      <h6>DeepMind</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="http://alanesuhr.com/">
+      <img class="people-pic" src="{{ "/static/img/people/alane.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://alanesuhr.com/">Alane Suhr</a>
+      <h6>Cornell</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="http://wijmans.xyz/">
+      <img class="people-pic" src="{{ "/static/img/people/erikwijmans.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://wijmans.xyz/">Erik Wijmans</a>
+      <h6>Georgia Tech</h6>
+    </div>
+  </div>
 </div>
 
 <hr>
@@ -618,27 +191,7 @@ acknowledgements: ""
     <h2>Scientific Committee</h2>
   </div>
 </div>
-
-<br>
 <div class="row">
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://www.mateuszmalinowski.com/">
-      <img class="people-pic" src="{{ "/static/img/people/mateusz-malinowski-dp.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www.mateuszmalinowski.com/">Mateusz Malinowski</a>
-      <h6>DeepMind</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://nlp.stanford.edu/manning/">
-      <img class="people-pic" src="{{ "/static/img/people/chris-manning.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://nlp.stanford.edu/manning/">Chris Manning</a>
-      <h6>Stanford University</h6>
-    </div>
-  </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://mila.quebec/en/person/aaron-courville/">
       <img class="people-pic" src="{{ "/static/img/people/aaron-courville-dp.jpg" | prepend:site.baseurl }}">
@@ -646,6 +199,15 @@ acknowledgements: ""
     <div class="people-name">
       <a href="https://mila.quebec/en/person/aaron-courville/">Aaron Courville</a>
       <h6>University of Montreal</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="http://www.mateuszmalinowski.com/">
+      <img class="people-pic" src="{{ "/static/img/people/mateusz-malinowski-dp.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://www.mateuszmalinowski.com/">Mateusz Malinowski</a>
+      <h6>DeepMind</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -657,75 +219,37 @@ acknowledgements: ""
       <h6>Google Brain</h6>
     </div>
   </div>
-</div>
-
-<hr>
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Program Committee</h2>
-  </div>
-</div>
-<br>
-<div class="row">
-  <div class="col-xs-6">
-    <ul>
-      <li>Aishwarya Agrawal</li>
-      <li>Cătălina Cangea</li>
-      <li>Volkan Cirik</li>
-      <li>Meera Hahn</li>
-      <li>Ethan Perez</li>
-      <li>Rowan Zellers</li>
-    </ul>
-  </div>
-  <div class="col-xs-6">
-    <ul>
-      <li>Ryan Benmalek</li>
-      <li>Luca Celotti</li>
-      <li>Daniel Fried</li>
-      <li>Arjun Majumdar</li>
-      <li>Hao Tan</li>
-    </ul>
+  <div class="col-xs-6 col-lg-3">
+    <a href="http://www-etud.iro.umontreal.ca/~devries/">
+      <img class="people-pic" src="/static/img/people/harmdevries.jpg" />
+    </a>
+    <div class="people-name">
+      <a href="http://www-etud.iro.umontreal.ca/~devries/">Harm de Vries</a>
+      <h6>University of Montreal | Element AI</h6>
+    </div>
   </div>
 </div>
 
 <hr>
 <div class="row">
   <div class="col-xs-12">
-    <h2>Previous sessions</h2>
+    <h2>Previous sessions</h2><a name="/prev_session"></a>
   </div>
 </div>
-<a name="/prev_session"></a>
 <div class="row">
     <div class="col-xs-12">
         <p>
             <ul>
                 <li><a href="https://nips2017vigil.github.io/">ViGIL Workshop at NeurIPS 2017</a></li>
                 <li><a href="https://nips2018vigil.github.io/">ViGIL Workshop at NeurIPS 2018</a></li>
+                <li><a href="https://vigilworkshop.github.io/2019">ViGIL Workshop at NeurIPS 2019</a></li>
             </ul>
         </p>
     </div>
 </div>
 
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Sponsors</h2>
-  </div>
-</div>
-<a name="/sponsors"></a>
-<div class="row">
-  <div class="col-xs-4">
-    <img src="{{ "/static/img/ico/ivado.jpg" | prepend:site.baseurl }}">
-  </div>
-  <div class="col-xs-4">
-    <img style="margin-top:10px;" src="{{ "/static/img/ico/deepmind_logo.png" | prepend:site.baseurl }}">
-  </div>
-  <div class="col-xs-4">
-    <img style="margin-top:10px;" src="{{ "/static/img/ico/GoogleAI.png" | prepend:site.baseurl }}">
-  </div>
-</div>
-<br>
+<hr />
 
-<hr>
 <div class="row">
   <div class="col-xs-12">
     <h2>References</h2>
@@ -734,177 +258,42 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <ol>
-    <li>
-      <a href="https://www.sciencedirect.com/science/article/pii/0167278990900876" target="_blank">
-        Stevan Harnad. "The symbol grounding problem." CNLS, 1989.
-      </a>
-    </li>
-    <li>
-      <a target="_blank" href="http://tamaraberg.com/papers/referit.pdf">
-        Sahar Kazemzadeh et al. "ReferItGame: Referring to Objects in Photographs of Natural Scenes." EMNLP, 2014.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1505.00468" target="_blank">
-        Stanislaw Antol et al. "VQA: Visual question answering." ICCV, 2015.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1505.01121" target="_blank">
-        Mateusz Malinowski et al. "Ask Your Neurons: A Neural-based Approach to Answering Questions about Images." ICCV, 2015.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1410.0210" target="_blank">
-        Mateusz Malinowski et al. "A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input." NIPS, 2014.
-      </a>
-    </li>
-    <li>
-      <a href="https://www.pnas.org/content/112/12/3618" target="_blank">
-        Geman Donald, et al. "Visual Turing test for computer vision systems." PNAS, 2015.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1611.08669" target="_blank">
-        Abhishek Das et al. "Visual dialog." CVPR, 2017.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1611.08481" target="_blank">
-        Harm de Vries et al. "GuessWhat?! Visual object discovery through multi-modal dialogue." CVPR, 2017.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1703.06585" target="_blank">
-        Abhishek Das et al. "Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning." ICCV, 2017.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1901.09107" target="_blank">
-        Huda Alamri et al. "Audio-Visual Scene-Aware Dialog" CVPR, 2019.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1704.01518" target="_blank">
-        Anna Rohrbach et al. "Generating Descriptions with Grounded and Co-Referenced People." CVPR, 2017.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1612.03801" target="_blank">
-        Charles Beattie et al. Deepmind Lab. arXiv, 2016.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1805.08329" target="_blank">
-        Haonan Yu et al. "Guided Feature Transformation (GFT): A Neural Language Grounding Module for Embodied Agents." arXiv, 2018.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1904.01201" target="_blank">
-        Habitat: A Platform for Embodied AI Research. 2019.
-      </a>
-    </li>
-    <li>
-      <a href="https://psycnet.apa.org/record/1985-09186-001" target="_blank">
-        Alison Gopnik et al. "Semantic and cognitive development in 15- to 21-month-old children." Journal of Child Language, 1984.
-      </a>
-    </li>    
-    <li>
-      <a href="https://arxiv.org/abs/1706.06551" target="_blank">
-        Karl Moritz Hermann et al. "Grounded Language Learning in a Simulated 3D World." arXiv, 2017.
-      </a>
-    </li>
-    <li>
-      <a href="https://www.nature.com/articles/nature17637" target="_blank">
-        Alexander G. Huth et al. "Natural speech reveals the semantic maps that tile human cerebral cortex." Nature, 2016.
-      </a>
-    </li>
-    <li>
-      <a href="https://www.ncbi.nlm.nih.gov/pubmed/27781035" target="_blank">
-        Alexander G. Huth et al. "Decoding the semantic content of natural movies from human brain activity." Frontiers in systems neuroscience, 2016.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1804.00168" target="_blank">
-        Piotr Mirowski et al. "Learning to Navigate in Cities Without a Map." NeurIPS, 2018.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1903.00401" target="_blank">
-        Karl Moritz Hermann et al. "Learning to Follow Directions in StreetView." arXiv, 2019. 
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1712.05474" target="_blank">
-        E Kolve et al. "AI2-THOR: An Interactive 3D Environment for Visual AI." arXiv, 2017.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1801.02209" target="_blank">
-        Yi Wu et al. "House3D: A Rich and Realistic 3D Environment." arXiv, 2017.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1709.06158" target="_blank">
-        Angel Chang et al. "Matterport3D: Learning from RGB-D Data in Indoor Environments." arXiv, 2017.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1711.11543" target="_blank">
-        Abhishek Das et al. "Embodied Question Answering." CVPR, 2018.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1711.07280" target="_blank">
-        Peter Anderson et al. "Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments." CVPR, 2018.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1811.10092" target="_blank">
-        Xin Wang et al. "Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation." CVPR, 2019.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1808.10654" target="_blank">
-        Fei Xia et al. "Gibson Env: Real-World Perception for Embodied Agents." CVPR, 2018.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1712.03931" target="_blank">
-        Manolis Savva et al. "MINOS: Multimodal indoor simulator for navigation in complex environments." arXiv, 2017.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1712.03316" target="_blank">
-        Daniel Gordon et al. "IQA: Visual Question Answering in Interactive Environments." CVPR, 2018.
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1705.08168" target="_blank">
-        Relja Arandjelovic et al. "Look, Listen and Learn." ICCV, 2017.
-      </a>
-    </li>
-    <li>
-      <a href="Quantity and Diversity: Simulating Early Word Learning
-Environments" target="_blank">Jessica Montag et al. "Quantity and Diversity: Simulating Early Word Learning Environments." Cognitive Science, 2018.</a>
-    </li>
-    <li>
-      <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Vinyals_Show_and_Tell_2015_CVPR_paper.html" target="_blank">
-        Oriol Vinyals et al. "Show and Tell: A Neural Image Caption Generator." CVPR, 2015.
-      </a>
-    </li>
-    <li>
-      <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.html" target="_blank">Andrej Karpathy et al. "Deep Visual-Semantic Alignments for Generating Image Descriptions." CVPR, 2015.</a>
-    </li>
-    <li>
-      <a href="http://openaccess.thecvf.com/content_cvpr_2015/html/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.html" target="_blank">Jeff Donahue et al. "Long-Term Recurrent Convolutional Networks for Visual Recognition and Description." CVPR, 2015.</a>
-    </li>
-    <li>
-      <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hendricks_Deep_Compositional_Captioning_CVPR_2016_paper.html" target="_blank">Lisa Anne Hendricks et al. "Deep Compositional Captioning: Describing Novel Object Categories Without Paired Training Data." CVPR, 2016.</a>
-    </li>
-    <li>
-      <a href="https://science.sciencemag.org/content/350/6266/1332">Brendan Lake et al. "Human-level concept learning through probabilistic program induction." Science, 2015.</a>
-    </li>
+<li>Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Deep Residual Learning for Image Recognition. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2016. </li>
+<li>Mingxing Tan and Quoc V Le. Efficientnet: Rethinking Model Scaling for Convolutional Neural Networks. In International Conference on Machine Learning, 2019. </li>
+<li>Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), 2019. </li>
+<li>Zhilin Yang, Zihang Dai, Yiming Yang, Jaime Carbonell, Russ R Salakhutdinov, and Quoc V Le. XLNet: Generalized Autoregressive Pretraining for Language Understanding. In Advances in Neural information Processing Systems, 2019. </li>
+<li>Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, and Dario Amodei. Language Models are Few-Shot Learners. arXiv:2005.14165, 2020. </li>
+<li>Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, andAnton van den Hengel. Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2018. </li>
+<li>Weituo Hao, Chunyuan Li, Xiujun Li, Lawrence Carin, and Jianfeng Gao. Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020.</li>
+<li>Jacob Krantz, Erik Wijmans, Arjun Majumdar, Dhruv Batra, and Stefan Lee. Beyond the Nav-Graph: Vision-andLanguage Navigation in Continuous Environments. arXiv:2004.02857, 2020.</li>
+<li>Qiaolin Xia, Xiujun Li, Chunyuan Li, Yonatan Bisk, Zhifang Sui, Jianfeng Gao, Yejin Choi, and Noah A Smith. MultiView Learning for Vision-and-Language Navigation. arXiv:2003.00857, 2020.</li>
+<li>Yi Zhu, Fengda Zhu, Zhaohuan Zhan, Bingqian Lin, Jianbin Jiao, Xiaojun Chang, and Xiaodan Liang. Vision-Dialog Navigation by Exploring Cross-modal Memory. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020. </li>
+<li>Daniel Gordon, Aniruddha Kembhavi, Mohammad Rastegari, Joseph Redmon, Dieter Fox, and Ali Farhadi. IQA: Visual Question Answering in Interactive Environments. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2018. </li>
+<li>Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, and Dhruv Batra. Embodied Question Answering. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2018. </li>
+<li>Abhishek Das, Federico Carnevale, Hamza Merzic, Laura Rimell, Rosalia Schneider, Josh Abramson, Alden Hung, Arun Ahuja, Stephen Clark, Gregory Wayne, et al. Probing Emergent Semantics in Predictive Agents via Question Answering. In Proceedings of the International Conference on Machine Learning, 2020. </li>
+<li>Chuang Gan, Yiwei Zhang, Jiajun Wu, Boqing Gong, and Joshua B Tenenbaum. Look, Listen, and Act: Towards Audio-Visual Embodied Navigation. In Proceedings of the IEEE International Conference on Robotics and Automation, 2020. </li>
+<li>Changan Chen, Unnat Jain, Carl Schissler, Sebastia Vicenc Amengual Gari, Ziad Al-Halah, Vamsi Krishna Ithapu, Philip Robinson, and Kristen Grauman. Audio-Visual Embodied Navigation. arXiv:1912.11474, 2019. </li>
+<li>Harm De Vries, Florian Strub, Sarath Chandar, Olivier Pietquin, Hugo Larochelle, and Aaron Courville. GuessWhat?! Visual Object Discovery through Multi-modal Dialogue. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2017. </li>
+<li>Abhishek Das, Satwik Kottur, Khushi Gupta, Avi Singh, Deshraj Yadav, José MF Moura, Devi Parikh, and Dhruv Batra. Visual Dialog. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2017.</li>
+<li>Abhishek Das, Satwik Kottur, José MF Moura, Stefan Lee, and Dhruv Batra. Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning. In Proceedings of the IEEE/CVF International Conference on Computer Vision, 2017. </li>
+<li>Oliver Kroemer, Christoph H Lampert, and Jan Peters. Learning Dynamic Tactile Sensing with Robust Vision-based Training. IEEE transactions on robotics, 27(3):545–557, 2011. </li>
+<li>Martina Zambelli and Yiannis Demiris. Multimodal Imitation using Self-learned Sensorimotor Representations. In 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems, 2016.</li>
+<li>Roberto Calandra, Andrew Owens, Dinesh Jayaraman, Justin Lin, Wenzhen Yuan, Jitendra Malik, Edward H Adelson, and Sergey Levine. More Than a Feeling: Learning to Grasp and Regrasp Using Vision and Touch. IEEE Robotics and Automation Letters, 3(4):3300–3307, 2018. </li>
+<li>Angeliki Lazaridou, Karl Moritz Hermann, Karl Tuyls, and Stephen Clark. Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input. In International Conference on Learning Representations, 2018. </li>
+<li>Angeliki Lazaridou, Anna Potapenko, and Olivier Tieleman. Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 2020. </li>
+<li>Emily M. Bender and Alexander Koller. Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 2020. </li>
+<li>Yonatan Bisk, Ari Holtzman, Jesse Thomason, Jacob Andreas, Yoshua Bengio, Joyce Chai, Mirella Lapata, Angeliki Lazaridou, Jonathan May, Aleksandr Nisnevich, Nicolas Pinto, and Joseph Turian. Experience Grounds Language. arXiv:2004.10151, 2020. </li>
+<li>Piotr Mirowski, Matt Grimes, Mateusz Malinowski, Karl Moritz Hermann, Keith Anderson, Denis Teplyashin, Karen Simonyan, Andrew Zisserman, Raia Hadsell, et al. Learning to Navigate in Cities Without Map. In Advances in Neural information Processing Systems, 2018. </li>
+<li>C ˘at ˘alina Cangea, Eugene Belilovsky, Pietro Liò, and Aaron Courville. VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering. In Proceedings of the British Machine Vision Conference, 2019. </li>
+<li>Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, and Dieter Fox. ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020. </li>
+<li>Yuankai Qi, Qi Wu, Peter Anderson, Xin Wang, William Yang Wang, Chunhua Shen, and Anton van den Hengel. REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020. </li>
+<li>Eric Kolve, Roozbeh Mottaghi, Daniel Gordon, Yuke Zhu, Abhinav Gupta, and Ali Farhadi. AI2-Thor: An Interactive 3D Environment for Visual AI. arXiv:1712.05474, 2017. </li>
+<li>Rowan Zellers, Yonatan Bisk, Ali Farhadi, and Yejin Choi. From Recognition to Cognition: Visual Commonsense Reasoning. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2019. </li>
+<li>Kexin Yi, Chuang Gan, Yunzhu Li, Pushmeet Kohli, Jiajun Wu, Antonio Torralba, and Joshua B. Tenenbaum. CLEVRER: Collision Events for Video Representation and Reasoning. In International Conference on Learning Representations, 2020. </li>
+<li>Jesse Thomason, Michael Murray, Maya Cakmak, and Luke Zettlemoyer. Vision-and-Dialog Navigation. In Proceedings of the Conference on Robot Learning, 2020. </li>
+<li>Harm de Vries, Kurt Shuster, Dhruv Batra, Devi Parikh, Jason Weston, and Douwe Kiela. Talk the Walk: Navigating New York City through grounded dialogue. arXiv:1807.03367, 2018. </li>
+<li>Alane Suhr, Claudia Yan, Jack Schluger, Stanley Yu, Hadi Khader, Marwa Mouallem, Iris Zhang, and Yoav Artzi. Executing instructions in situated collaborative interactions. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pages 2119–2130, 2019. </li>
+<li>Christopher D. Manning Drew A. Hudson. GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2019. </li>
     </ol>
   </div>
 </div>
