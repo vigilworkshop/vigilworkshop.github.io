@@ -13,6 +13,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Visually Grounded Interaction and Language (ViGIL)</h1></center>
+    <center>The fourth ViGIL workshop will not be held at NeurIPS 2020. The schedule is coming soon.</center>
   </div>
 </div>
 
