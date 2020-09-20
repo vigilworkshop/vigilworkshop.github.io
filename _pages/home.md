@@ -2,7 +2,7 @@
 layout: project
 urltitle:  "Visually Grounded Interaction and Language (ViGIL)"
 title: "Visually Grounded Interaction and Language (ViGIL)"
-categories: nips, neurips, vancouver, canada, workshop, computer vision, natural language, grounding, interaction, machine learning, vigil, 2019, neurips19
+categories: workshop, computer vision, natural language, grounding, interaction, machine learning, vigil, 2021
 permalink: /
 bibtex: true
 paper: true
