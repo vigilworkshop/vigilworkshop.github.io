@@ -2,7 +2,7 @@
 layout: project
 urltitle:  "Visually Grounded Interaction and Language (ViGIL)"
 title: "Visually Grounded Interaction and Language (ViGIL)"
-categories: nips, neurips, vancouver, canada, workshop, computer vision, natural language, grounding, interaction, machine learning, vigil, 2019, neurips19
+categories: workshop, computer vision, natural language, grounding, interaction, machine learning, vigil, 2021
 permalink: /
 bibtex: true
 paper: true
@@ -13,7 +13,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Visually Grounded Interaction and Language (ViGIL)</h1></center>
-    <center>The fourth ViGIL workshop will not be held at NeurIPS 2020. The schedule is coming soon.</center>
+    <center>The fourth ViGIL workshop will not be held at NeurIPS 2020. Stay posted for updates!</center>
   </div>
 </div>
 
@@ -285,7 +285,7 @@ acknowledgements: ""
 <li>Emily M. Bender and Alexander Koller. Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 2020. </li>
 <li>Yonatan Bisk, Ari Holtzman, Jesse Thomason, Jacob Andreas, Yoshua Bengio, Joyce Chai, Mirella Lapata, Angeliki Lazaridou, Jonathan May, Aleksandr Nisnevich, Nicolas Pinto, and Joseph Turian. Experience Grounds Language. arXiv:2004.10151, 2020. </li>
 <li>Piotr Mirowski, Matt Grimes, Mateusz Malinowski, Karl Moritz Hermann, Keith Anderson, Denis Teplyashin, Karen Simonyan, Andrew Zisserman, Raia Hadsell, et al. Learning to Navigate in Cities Without Map. In Advances in Neural information Processing Systems, 2018. </li>
-<li>C ˘at ˘alina Cangea, Eugene Belilovsky, Pietro Liò, and Aaron Courville. VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering. In Proceedings of the British Machine Vision Conference, 2019. </li>
+<li>Cătălina Cangea, Eugene Belilovsky, Pietro Liò, and Aaron Courville. VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering. In Proceedings of the British Machine Vision Conference, 2019. </li>
 <li>Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, and Dieter Fox. ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020. </li>
 <li>Yuankai Qi, Qi Wu, Peter Anderson, Xin Wang, William Yang Wang, Chunhua Shen, and Anton van den Hengel. REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020. </li>
 <li>Eric Kolve, Roozbeh Mottaghi, Daniel Gordon, Yuke Zhu, Abhinav Gupta, and Ali Farhadi. AI2-Thor: An Interactive 3D Environment for Visual AI. arXiv:1712.05474, 2017. </li>
