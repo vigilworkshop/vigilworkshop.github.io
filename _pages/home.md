@@ -65,7 +65,7 @@ acknowledgements: ""
 
 <hr />
 
-<div class="row" id="organizers">
+<div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Tentative Speakers</h2>
   </div>
