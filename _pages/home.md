@@ -19,6 +19,13 @@ acknowledgements: ""
 
 <br />
 
+<div class="row alert alert-success">
+  <div class="col-xs-12">
+    We're hoping to meet everyone at the NLP conferences (ACL/EMNLP/NAACL/EACL) this year. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLScYZ7vPmIo72mGP1-reuvuRGM835DdMeX9zSg6qx7iuwyGWPQ/viewform" target="_blank">vote for us in the survey</a>!
+  </div>
+</div>
+
+
 <div class="row">
     <div class="col-xs-12">
         <p>
