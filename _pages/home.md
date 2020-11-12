@@ -13,24 +13,18 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Visually Grounded Interaction and Language (ViGIL)</h1></center>
-    <center>The fourth ViGIL workshop will not be held at NeurIPS 2020. Stay posted for updates!</center>
+    <center><h2>NAACL 2021 Workshop, Mexico City, Mexico</h2></center>
+    <center>Stay posted for detailed schedule!</center>
   </div>
 </div>
 
 <br />
 
-<div class="row alert alert-success">
-  <div class="col-xs-12">
-    We're hoping to meet everyone at the NLP conferences (ACL/EMNLP/NAACL/EACL) this year. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLScYZ7vPmIo72mGP1-reuvuRGM835DdMeX9zSg6qx7iuwyGWPQ/viewform" target="_blank">vote for us in the survey</a>!
-  </div>
-</div>
-
-
 <div class="row">
     <div class="col-xs-12">
         <p>
           VIGIL is a one-day interdisciplinary workshop that will push the boundaries of language grounding systems. We aim to bridge the fields of human cognition and machine learning through discussions on combining language, perception and other modalities via interaction. This year, ViGIL will also be hosting the <a href="https://cs.stanford.edu/people/dorarad/gqa/challenge.html">2nd GQA challenge</a>, which focuses on compositional reasoning for visual question answering.
-        </p> 
+        </p>
     </div>
 </div>
 
