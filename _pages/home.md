@@ -110,6 +110,15 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
+    <a href="https://web.eecs.umich.edu/~justincj/">
+      <img class="people-pic" src="{{ "/static/img/people/justin-johnson.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://web.eecs.umich.edu/~justincj/">Justin Johnson</a>
+      <h6>University of Michigan</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
     <a href="http://www.mit.edu/~rplevy/">
       <img class="people-pic" src="{{ "/static/img/people/roger-levy.jpg" | prepend:site.baseurl }}">
     </a>
