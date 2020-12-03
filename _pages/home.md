@@ -87,7 +87,7 @@ acknowledgements: ""
       <img class="people-pic" src="{{ "/static/img/people/darrell.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrel</a>
+      <a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>
       <h6>Berkeley</h6>
     </div>
   </div>
