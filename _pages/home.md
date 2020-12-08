@@ -13,8 +13,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Visually Grounded Interaction and Language (ViGIL)</h1></center>
-    <center><h2>NAACL 2021 Workshop, Mexico City, Mexico</h2></center>
-    <center>Stay posted for detailed schedule!</center>
+    <center><h2>June 10, 2021. NAACL Workshop, Mexico City, Mexico.</h2></center>
   </div>
 </div>
 
@@ -31,6 +30,36 @@ acknowledgements: ""
 
 <br />
 
+<div class="row" id="dates">
+  <div class="col-xs-12">
+    <h2>Important Dates</h2>
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-xs-12">
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>Paper Submission Deadline</td>
+          <td>March 12, 2021(11:59 PM Pacific time)</td>
+        </tr>
+        <tr>
+          <td>Decision Notifications</td>
+          <td>April 15, 2021</td>
+        </tr>
+        <tr>
+          <td>Workshop</td>
+          <td>June 10, 2021</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<br />
+
 <div class="row" id="cfp">
   <div class="col-xs-12">
     <h2>Call for Papers</h2>
@@ -39,6 +68,7 @@ acknowledgements: ""
 
 <div class="row">
     <div class="col-xs-12">
+    <p><strong>Stay posted for detailed submission guidelines!</strong></p>
         <p>
           We invite high-quality paper submissions on the following topics:
         </p>
