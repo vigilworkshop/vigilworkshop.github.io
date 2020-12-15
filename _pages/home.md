@@ -217,39 +217,6 @@ acknowledgements: ""
     </div>
 </div>
 
-<div class="hide">
-
-<br />
-
-<div class="row" id="dates">
-  <div class="col-xs-12">
-    <h2>Important Dates</h2>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
-    <table class="table table-striped">
-      <tbody>
-        <tr>
-          <td>Paper Submission Deadline</td>
-          <td>TBD</td>
-        </tr>
-        <tr>
-          <td>Decision Notifications</td>
-          <td>TBD</td>
-        </tr>
-        <tr>
-          <td>Workshop</td>
-          <td>TBD</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-
-</div>
-
 <hr />
 
 <div class="row" id="organizers">
