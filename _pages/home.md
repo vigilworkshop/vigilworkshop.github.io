@@ -127,7 +127,7 @@ acknowledgements: ""
 
 <div class="row" id="speakers">
   <div class="col-xs-12">
-    <h2>Tentative Speakers</h2>
+    <h2>Speakers</h2>
   </div>
 </div>
 
