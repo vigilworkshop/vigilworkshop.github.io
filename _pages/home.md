@@ -114,7 +114,7 @@ acknowledgements: ""
         </p>
     <ul>
       <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including NAACL 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li>
-      <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. The maximum file size for submissions is 50MB. Submissions are limited to four content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li>
+      <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li>
     </ul>
     <p>
             In case of any issues, feel free to email the workshop organizers at: <a href="mailto:vigilworkshop@gmail.com">vigilworkshop@gmail.com</a>.
@@ -215,39 +215,6 @@ acknowledgements: ""
         <p>This fractured lens makes it difficult to address key language understanding problems that future agents will face in the wild. For example, describing "a bird perched on the lowest branch singing in a high pitch trill" requires grounding to perception. Likewise, providing the instruction to "move the jack to the left so it pushes on the frame of the car" requires not only perceptual grounding, but also physical understanding. For these reasons, language, perception, and interaction should be learned and bootstrapped together. In the last several years, efforts to merge subsets of these areas have gained popularity through tasks like instruction-guided navigation in 3D environments [3–5], audio-visual navigation [6], video descriptions [7], question-answering [8–11], and language-conditioned robotic control [12, 13], though these primarily study disembodied problems via static datasets. As such, there remains considerable scientific uncertainty around how to bridge the gap from current monolithic systems to holistic agents. What are the tasks? The environments? How to design and train such models? To transfer knowledge between modalities? To perform multimodal reasoning? To deploy language agents in the wild?</p>
         <p>As in past incarnations, the goal of this 4th ViGIL workshop is to support and promote this research direction by bringing together scientists from diverse backgrounds—natural language processing, machine learning, computer vision, robotics, neuroscience, cognitive science, psychology, and philosophy—to share their perspectives on language grounding, embodiment, and interaction. ViGIL provides a unique opportunity for interdisciplinary discussion. We intend to utilize this variety of perspectives to foster new ideas about how to define, evaluate, learn, and leverage language grounding. This one-day session would enable in-depth conversations on understanding the boundaries of current work and establishing promising avenues for future work, with the overall aim to bridge the scientific fields of human cognition and machine learning.</p>
     </div>
-</div>
-
-<div class="hide">
-
-<br />
-
-<div class="row" id="dates">
-  <div class="col-xs-12">
-    <h2>Important Dates</h2>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
-    <table class="table table-striped">
-      <tbody>
-        <tr>
-          <td>Paper Submission Deadline</td>
-          <td>TBD</td>
-        </tr>
-        <tr>
-          <td>Decision Notifications</td>
-          <td>TBD</td>
-        </tr>
-        <tr>
-          <td>Workshop</td>
-          <td>TBD</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-
 </div>
 
 <hr />
