@@ -14,6 +14,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Visually Grounded Interaction and Language (ViGIL)</h1></center>
     <center><h2>June 10, 2021. NAACL Workshop, Mexico City, Mexico.</h2></center>
+    <center><h3 style="color:#BB3333"><b>Important: We have extended the paper submission deadline to March 19, 2021.</b></h3></center>
   </div>
 </div>
 
@@ -43,7 +44,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>March 12, 2021(11:59 PM Pacific time)</td>
+          <td><del>March 12, 2021</del> <b>March 19, 2021</b>(11:59 PM Pacific time)</td>
         </tr>
         <tr>
           <td>Decision Notifications</td>
