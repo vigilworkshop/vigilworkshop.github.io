@@ -44,15 +44,15 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td><del>March 12, 2021</del> <b>March 19, 2021</b>(11:59 PM Pacific time)</td>
+          <td><del>March 19, 2021</del></td>
         </tr>
         <tr>
           <td>Decision Notifications</td>
-          <td>April 15, 2021</td>
+          <td><del>April 15, 2021</del></td>
         </tr>
         <tr>
           <td>Camera Ready Paper Deadline</td>
-          <td>May 15, 2021</td>
+          <td><b>May 15, 2021 (11:59 PM Pacific time)</b></td>
         </tr>
         <tr>
           <td>Workshop</td>
