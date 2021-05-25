@@ -94,7 +94,7 @@ acknowledgements: ""
   <li>visual and linguistic cognition in infancy and/or adults</li>
           </ul>
       </p>
-      <p>We welcome review and positional papers that may foster discussions. We also encourage published papers from <i>*non-ML*</i> conferences, e.g. epistemology, cognitive science, psychology, neuroscience, that are within the scope of the workshop. </p>
+      <p>We welcome review and positional papers that may foster discussions. We also encourage published papers from <i>*non-ML*</i> conferences, e.g. epistemology, cognitive science, psychology, neuroscience, that are within the scope of the workshop. Accepted papers will be presented during joint poster sessions, with exceptional submissions selected for spotlight oral presentations. Accepted papers will be made publicly available as <i>*non-archival*</i> reports, allowing future submissions to archival conferences or journals. </p>
   </div>
 </div>
 
