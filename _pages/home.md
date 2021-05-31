@@ -197,6 +197,11 @@ acknowledgements: ""
         <span class="paper-meta">[<a href="static/papers-2021/20.pdf">PDF</a>]</span>
     </li>
     <li>
+        <span class="paper-title">Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments</span><br>
+        <span class="paper-authors">Andrea Burns (Boston University); Deniz Arsan (University of Illinois at Urbana Champaign); Sanjna Agrawal (Boston University); Ranjitha Kumar (UIUC: CS); Kate Saenko (Boston University); Bryan Plummer (Boston University)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/26.pdf">PDF</a>]</span>
+    </li>
+    <li>
         <span class="paper-title">Curriculum Learning for Vision-Grounded Instruction Following</span><br>
         <span class="paper-authors">Guan-Lin Chao (Carnegie Mellon University); Ian Lane (Carnegie Mellon University)</span><br>
         <span class="paper-meta">[<a href="static/papers-2021/3.pdf">PDF</a>]</span>
@@ -285,11 +290,6 @@ acknowledgements: ""
         <span class="paper-title">Leveraging Language for Abstraction and Program Search</span><br>
         <span class="paper-authors">Catherine Wong (Massachusetts Institute of Technology); Kevin M Ellis (MIT); Jacob Andreas (MIT); Joshua Tenenbaum (MIT)</span><br>
         <span class="paper-meta">[<a href="static/papers-2021/25.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments</span><br>
-        <span class="paper-authors">Andrea Burns (Boston University); Deniz Arsan (University of Illinois at Urbana Champaign); Sanjna Agrawal (Boston University); Ranjitha Kumar (UIUC: CS); Kate Saenko (Boston University); Bryan Plummer (Boston University)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/26.pdf">PDF</a>]</span>
     </li>
     <li>
         <span class="paper-title">SynthRef: Generation of Synthetic Referring Expressions for Object Segmentation</span><br>
