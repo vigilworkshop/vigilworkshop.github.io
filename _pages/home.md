@@ -42,21 +42,21 @@ acknowledgements: ""
     <table class="table table-striped" id="schedule-table">
     <tbody>
     <tr> <th scope="row" data-time="08:50">08:50 AM</th> <td>Opening Remarks</td></tr>
-    <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td>Talk 1: <b>Roger Levy</b></td></tr>
-    <tr> <th scope="row" data-time="09:45">09:45 AM</th> <td>Talk 2: <b>Stefanie Tellex</b></td></tr>
+    <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td>Talk 1: Roger Levy</td></tr>
+    <tr> <th scope="row" data-time="09:45">09:45 AM</th> <td>Talk 2: Stefanie Tellex</td></tr>
     <tr> <th scope="row" data-time="10:30">10:30 AM</th> <td>Break 1</td></tr>
-    <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td>Talk 3: <b>Katerina Fragkiadaki</b></td> </tr>
-    <tr> <th scope="row" data-time="11:45">11:45 AM</th> <td>Talk 4: <b>Max Garagnani</b></td></tr>
+    <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td>Talk 3: Katerina Fragkiadaki</td> </tr>
+    <tr> <th scope="row" data-time="11:45">11:45 AM</th> <td>Talk 4: Max Garagnani</td></tr>
     <tr> <th scope="row" data-time="12:30">12:30 PM</th> <td>Break 2</td></tr>
     <tr> <th scope="row" data-time="13:00">13:00 PM</th> <td>Panel Discussion</td> </tr>
     <tr> <th scope="row" data-time="14:00">14:00 PM</th> <td>Break 3</td> </tr>
-    <tr> <th scope="row" data-time="14:30">14:30 PM</th> <td>Talk 5: <b>Yejin Choi</b></td> </tr>
-    <tr> <th scope="row" data-time="15:15">15:15 PM</th> <td>Talk 6: <b>Justin Johnson</b></td> </tr>
+    <tr> <th scope="row" data-time="14:30">14:30 PM</th> <td>Talk 5: Yejin Choi</td> </tr>
+    <tr> <th scope="row" data-time="15:15">15:15 PM</th> <td>Talk 6: Justin Johnson</td> </tr>
     <tr> <th scope="row" data-time="16:00">16:00 PM</th> <td>GQA Challenge</td> </tr>
     <tr> <th scope="row" data-time="16:20">16:20 PM</th> <td>Spotlight Presentations</td> </tr>
     <tr> <th scope="row" data-time="16:30">16:30 PM</th> <td>Poster</td> </tr>
-    <tr> <th scope="row" data-time="18:00">18:00 PM</th> <td>Talk 7: <b>Trevor Darrell</b></td> </tr>
-    <tr> <th scope="row" data-time="18:45">18:45 PM</th> <td>Talk 8: <b>Sandra Waxman</b></td> </tr>
+    <tr> <th scope="row" data-time="18:00">18:00 PM</th> <td>Talk 7: Trevor Darrell</td> </tr>
+    <tr> <th scope="row" data-time="18:45">18:45 PM</th> <td>Talk 8: Sandra Waxman</td> </tr>
     <tr> <th scope="row" data-time="19:30">19:30 PM</th> <td>Closing Remark</td> </tr>
     </tbody>
     </table>
