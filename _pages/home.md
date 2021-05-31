@@ -197,7 +197,7 @@ acknowledgements: ""
         <span class="paper-meta">[<a href="static/papers-2021/20.pdf">PDF</a>]</span>
     </li>
     <li>
-        <span class="paper-title">Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments</span><br>
+        <span class="paper-title"><span style="color:#DD3333;font-weight:700">[Spotlight]</span> Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments</span><br>
         <span class="paper-authors">Andrea Burns (Boston University); Deniz Arsan (University of Illinois at Urbana Champaign); Sanjna Agrawal (Boston University); Ranjitha Kumar (UIUC: CS); Kate Saenko (Boston University); Bryan Plummer (Boston University)</span><br>
         <span class="paper-meta">[<a href="static/papers-2021/26.pdf">PDF</a>] [<a href="static/papers-2021/26_video.mp4" target="_blank">Spotlight Video</a>]</span>
     </li>
