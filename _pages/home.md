@@ -29,7 +29,7 @@ acknowledgements: ""
 
 <br />
 
-<div class="row" id="dates">
+<div class="row" id="schedule">
   <div class="col-md-4 col-xs-12">
     <h2>Schedule</h2>
   </div>
@@ -180,7 +180,132 @@ acknowledgements: ""
 
 <hr />
 
-<!-- Scientific Organizers -->
+<div class="row" id="accepted">
+  <div class="col-xs-12">
+    <h2>Accepted Papers</h2>
+  </div>
+</div>
+<ul class="paper-list">
+    <li>
+        <span class="paper-title"><span style="color:#DD3333;font-weight:700">[Spotlight]</span> Emergent Communication of Generalizations</span><br>
+        <span class="paper-authors">Jesse Mu (Stanford University); Noah   Goodman (Stanford University)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/7.pdf">PDF</a>] [<a href="static/papers-2021/7_supp.pdf">Supp</a>] [<a href="https://www.youtube.com/watch?v=I1UXGmz3rUk" target="_blank">Spotlight Video</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title"><span style="color:#DD3333;font-weight:700">[Spotlight]</span> SocialAI 0.1: Towards a Benchmark to Stimulate Research on Socio-Cognitive Abilities in Deep Reinforcement Learning Agents</span><br>
+        <span class="paper-authors">Rémy Portelas (Inria Bordeaux); Grgur Kovač (INRIA, Flowers team); Katja Hofmann (Microsoft Research); Pierre-Yves Oudeyer (Inria)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/20.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Curriculum Learning for Vision-Grounded Instruction Following</span><br>
+        <span class="paper-authors">Guan-Lin Chao (Carnegie Mellon University); Ian Lane (Carnegie Mellon University)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/3.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">RefineCap: Concept-Aware Refinement for Image Captioning</span><br>
+        <span class="paper-authors">Yekun Chai (Institute of Automation, Chinese Academy of Sciences); Shuo Jin (University of Pittsburgh); Junliang Xing (Institute of Automation, Chinese Academy of Sciences)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/4.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Image Translation Model</span><br>
+        <span class="paper-authors">Puneet Jain (Google); Orhan Firat (Google ); Qi Ge (Google); Sihang Liang (Princeton University)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/5.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">“Yes” and “No”: Visually Grounded Polar Answers</span><br>
+        <span class="paper-authors">Claudio  Greco (University of Trento); Alberto Testoni (University of Trento); Raffaella Bernardi (University of Trento)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/8.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">VISITRON: Visual Semantics-Aligned Interactively Trained Object-Navigator</span><br>
+        <span class="paper-authors">Ayush Shrivastava (Georgia Institute of Technology); Karthik Gopalakrishnan (Amazon Alexa AI); Yang Liu (Amazon, Alexa AI); Robinson Piramuthu (eBay Inc.); Gokhan Tur (); Devi Parikh (Georgia Tech & Facebook AI Research); Dilek Hakkani-Tur (Amazon Alexa AI)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/9.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Interactive Learning from Activity Description</span><br>
+        <span class="paper-authors">Khanh X Nguyen (University of Maryland); Dipendra Misra (Microsoft); Robert Schapire (Microsoft); Miroslav Dudik (Microsoft); Patrick Shafto (Rutgers University-Newark)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/10.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Language-Conditional Imitation Learning</span><br>
+        <span class="paper-authors">Julian Skirzynski (University of California, San Diego)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/11.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Learning a natural-language to LTL executable semantic parser for grounded robotics</span><br>
+        <span class="paper-authors">Christopher Wang (MIT); Candace Ross (Massachusetts Institute of Technology); Yen-Ling Kuo (MIT); Boris Katz (MIT); Andrei Barbu (MIT)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/12.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Zero-Shot Generalization using Intrinsically Motivated Compositional Emergent Protocols</span><br>
+        <span class="paper-authors">Rishi Hazra (IISc Bangalore); Sonu Dixit (Indian Institue of Science); Sayambhu Sen (IISc, Bangalore)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/13.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Pose-Guided Sign Language Video GAN with Dynamic Lambda</span><br>
+        <span class="paper-authors">Christopher Kissel (Beuth University of Applied Sciences Berlin); Christopher Kümmel (Beuth University of Applied Sciences Berlin); Dennis Ritter (Beuth University of Applied Sciences Berlin); Kristian Hildebrand (Beuth University of Applied Sciences Berlin)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/14.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Extracting Phone Numbers from Adversarial & Visually Corrupted Text</span><br>
+        <span class="paper-authors">Timothy Forman (United States Naval Academy); Nathanael Chambers (United States Naval Academy)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/15.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">gComm: An environment for investigating generalization in grounded language acquisition</span><br>
+        <span class="paper-authors">Rishi Hazra (IISc Bangalore); Sonu Dixit (Indian Institue of Science)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/16.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Locate then Segment: A Strong Pipeline for Referring Image Segmentation</span><br>
+        <span class="paper-authors">Ya Jing (Institute of Automation, Chinese Academy of Sciences); Tao Kong (Bytedance); Wei Wang (Institute of Automation Chinese Academy of Sciences); Liang Wang (NLPR, China); Lei Li (ByteDance AI Lab); Tieniu Tan (NLPR, China)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/18.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Towards Multi-Modal Text-Image Retrieval to improve Human Reading</span><br>
+        <span class="paper-authors">Florian Schneider (University of Hamburg); Ozge Alacam (University of Hamburg); Xintong Wang (University of Hamburg); Chris Biemann (University of Hamburg)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/19.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Attend, tell and ground: Weakly-supervised Object Grounding with Attention-based Conditional Variational Autoencoders</span><br>
+        <span class="paper-authors">Effrosyni Mavroudi (Johns Hopkins University); Rene Vidal (Johns Hopkins University, USA)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/21.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Referring to the recently seen: reference and perceptual memory in situated dialog</span><br>
+        <span class="paper-authors">John Kelleher (Technological University Dublin); Simon Dobnik (University of Gothenburg); John D Kelleher (Technological University Dublin)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/22.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">How Important are Visual Features for Visual Grounding? It Depends.</span><br>
+        <span class="paper-authors">Fan Yang (Amazon); Prashan Wanigasekara (Amazon); Mingda Li (Amazon); Chengwei  Su (Amazon); Emre Barut (Amazon)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/24.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Leveraging Language for Abstraction and Program Search</span><br>
+        <span class="paper-authors">Catherine Wong (Massachusetts Institute of Technology); Kevin M Ellis (MIT); Jacob Andreas (MIT); Joshua Tenenbaum (MIT)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/25.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments</span><br>
+        <span class="paper-authors">Andrea Burns (Boston University); Deniz Arsan (University of Illinois at Urbana Champaign); Sanjna Agrawal (Boston University); Ranjitha Kumar (UIUC: CS); Kate Saenko (Boston University); Bryan Plummer (Boston University)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/26.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">SynthRef: Generation of Synthetic Referring Expressions for Object Segmentation</span><br>
+        <span class="paper-authors">Ioannis Kazakos (National Technical University of Athens); Carles Ventura (Universitat Oberta de Catalunya); Miriam Bellver (Barcelona Supercomputing Center); Carina Silberer (Institute for Natural Language Processing, University of Stuttgart); Xavier Giro-i-Nieto (Universitat Politecnica de Catalunya)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/27.pdf">PDF</a>] [<a href="static/papers-2021/27_supp.pdf">Supp</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">Do Videos Guide Translations?  Evaluation of a Video-Guided Machine Translation dataset</span><br>
+        <span class="paper-authors">Zhishen Yang (Tokyo Institute of Technology); Tosho  Hirasawa (Tokyo Metropolitan University); Naoaki Okazaki (Tokyo Institute of Technology); Mamoru Komachi (Tokyo Metropolitan University)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/29.pdf">PDF</a>]</span>
+    </li>
+</ul>
+
+<hr />
+
+<!-- Organizers -->
 <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
@@ -314,6 +439,67 @@ acknowledgements: ""
       <a href="http://www-etud.iro.umontreal.ca/~devries/">Harm de Vries</a>
       <h6>University of Montreal | Element AI</h6>
     </div>
+  </div>
+</div>
+
+<hr />
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Program Committee</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-6">
+    <ul>
+      <li>Abhishek Das (Facebook AI Research)</li>
+      <li>Adria Recasens (DeepMind)</li>
+      <li>Alane Suhr (Cornell)</li>
+      <li>Anna Potapenko (DeepMind)</li>
+      <li>Arjun Majumdar (Georgia Tech)</li>
+      <li>Cătălina Cangea (University of Cambridge)</li>
+      <li>Catherine Wong (Massachusetts Institute of Technology)</li>
+      <li>Christopher Davis (University of Cambridge)</li>
+      <li>Daniel Fried (UC Berkeley)</li>
+      <li>Drew Hudson (Stanford University)</li>
+      <li>Erik Wijmans (Georgia Tech)</li>
+      <li>Florian Strub (DeepMind)</li>
+      <li>Gabriel Ilharco (University of Washington)</li>
+      <li>Geoffrey Cideron (InstaDeep)</li>
+      <li>Hammad Ayyubi (Columbia University)</li>
+      <li>Hao Tan (University of North Carolina Chapel Hill)</li>
+      <li>Hao Wu (Fudan University)</li>
+      <li>Haoyue Shi (Toyota Technological Institute at Chicago)</li>
+      <li>Hedi Ben-younes (Sorbonne université)</li>
+      <li>Jack Hessel (Allen Institute for AI)</li>
+      <li>Jacob Krantz (Oregon State University)</li>
+      <li>Jean-Baptiste Alayrac (DeepMind)</li>
+    </ul>
+  </div>
+  <div class="col-xs-6">
+    <ul>
+      <li>Jiayuan Mao (MIT)</li>
+      <li>Joel Ye (Georgia Tech)</li>
+      <li>Johan Ferret (Google Research, Brain Team)</li>
+      <li>Karan Desai (University of Michigan)</li>
+      <li>Lisa Anne Hendricks (DeepMind)</li>
+      <li>Luca Celotti (Université de Sherbrooke)</li>
+      <li>Mateusz Malinowski (DeepMind)</li>
+      <li>Mathieu Rita (École polytechnique)</li>
+      <li>Mathieu Seurin (University of Lille)</li>
+      <li>Meera Hahn (Georgia Institute of Technology)</li>
+      <li>Nicholas Tomlin (UC Berkeley)</li>
+      <li>Olivier Pietquin (2)</li>
+      <li>Peter Anderson (Google)</li>
+      <li>Rodolfo Corona (UC Berkeley)</li>
+      <li>Rowan Zellers (University of Washington)</li>
+      <li>Ryan Benmalek (Cornell University)</li>
+      <li>Sanjay Subramanian (Allen Institute for Artificial Intelligence)</li>
+      <li>Sidd Karamcheti (Stanford University)</li>
+      <li>Stefan Lee (Oregon State University)</li>
+      <li>Valts Blukis (Cornell University)</li>
+      <li>Volkan Cirik (Carnegie Mellon University)</li>
+    </ul>
   </div>
 </div>
 
