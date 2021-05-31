@@ -220,3 +220,7 @@ pre {
 .paper-meta {
   font-size: 15px;
 }
+
+#timezone-select {
+  margin-bottom:  10px;
+}

@@ -2,14 +2,14 @@
 layout: project
 urltitle:  "Visually Grounded Interaction and Language (ViGIL)"
 title: "Visually Grounded Interaction and Language (ViGIL)"
-categories: workshop, computer vision, natural language, grounding, interaction, machine learning, vigil, 2021
+categories: workshop, computer vision, natural language, grounding, interaction, machine learning, vigil, naacl, 2021
 permalink: /
 bibtex: true
 paper: true
 acknowledgements: ""
 ---
 
-<br>
+<br />
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Visually Grounded Interaction and Language (ViGIL)</h1></center>
@@ -27,10 +27,45 @@ acknowledgements: ""
     </div>
 </div>
 
-
 <br />
 
 <div class="row" id="dates">
+  <div class="col-md-4 col-xs-12">
+    <h2>Schedule</h2>
+  </div>
+  <div class="col-md-8 col-xs-12">
+      <select id="timezone-select" class="form-control"></select>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <table class="table table-striped" id="schedule-table">
+    <tbody>
+    <tr> <th scope="row" data-time="08:50">08:50 AM</th> <td>Opening Remarks</td></tr>
+    <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td>Talk 1: <b>Roger Levy</b></td></tr>
+    <tr> <th scope="row" data-time="09:45">09:45 AM</th> <td>Talk 2: <b>Stefanie Tellex</b></td></tr>
+    <tr> <th scope="row" data-time="10:30">10:30 AM</th> <td>Break 1</td></tr>
+    <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td>Talk 3: <b>Katerina Fragkiadaki</b></td> </tr>
+    <tr> <th scope="row" data-time="11:45">11:45 AM</th> <td>Talk 4: <b>Max Garagnani</b></td></tr>
+    <tr> <th scope="row" data-time="12:30">12:30 PM</th> <td>Break 2</td></tr>
+    <tr> <th scope="row" data-time="13:00">13:00 PM</th> <td>Panel Discussion</td> </tr>
+    <tr> <th scope="row" data-time="14:00">14:00 PM</th> <td>Break 3</td> </tr>
+    <tr> <th scope="row" data-time="14:30">14:30 PM</th> <td>Talk 5: <b>Yejin Choi</b></td> </tr>
+    <tr> <th scope="row" data-time="15:15">15:15 PM</th> <td>Talk 6: <b>Justin Johnson</b></td> </tr>
+    <tr> <th scope="row" data-time="16:00">16:00 PM</th> <td>GQA Challenge</td> </tr>
+    <tr> <th scope="row" data-time="16:20">16:20 PM</th> <td>Spotlight Presentations</td> </tr>
+    <tr> <th scope="row" data-time="16:30">16:30 PM</th> <td>Poster</td> </tr>
+    <tr> <th scope="row" data-time="18:00">18:00 PM</th> <td>Talk 7: <b>Trevor Darrell</b></td> </tr>
+    <tr> <th scope="row" data-time="18:45">18:45 PM</th> <td>Talk 8: <b>Sandra Waxman</b></td> </tr>
+    <tr> <th scope="row" data-time="19:30">19:30 PM</th> <td>Closing Remark</td> </tr>
+    </tbody>
+    </table>
+  </div>
+</div>
+
+<hr />
+
+<!--div class="row" id="dates">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
   </div>
@@ -60,77 +95,14 @@ acknowledgements: ""
       </tbody>
     </table>
   </div>
-</div>
+</div-->
 
-<br />
-
-<div class="row" id="cfp">
-  <div class="col-xs-12">
-    <h2>Call for Papers</h2>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      The authors are welcome to submit a 4-page paper based on in-progress work, or relevant paper being presented at the main conference, on any of the following topics:
-    </p>
-    <p>
-          <ul>
-  <li>grounded and interactive language acquisition;</li>
-  <li>reasoning and planning in language, vision, and interactive domains;</li>
-  <li>machine translation with visual cues;</li>
-  <li>transfer learning in language and vision tasks;</li>
-  <li>visual captioning, dialog, storytelling, and question-answering;</li>
-  <li>visual synthesis from language;</li>
-  <li>embodied agents: language instructions, agent co-ordination through language, interaction;</li>
-  <li>language-grounded robotic learning with multimodal inputs;</li>
-  <li>human-machine interaction with language through robots or within virtual world;</li>
-  <li>audio-visual scene understanding and dialog systems;</li>
-  <li>novel tasks that combine language, vision, interactions, and other modalities;</li>
-  <li>understanding and modeling the relationship between language and vision in humans;</li>
-  <li>semantic systems and modeling of natural language and visual stimuli representations in the human brain;</li>
-  <li>epistemology and research reflexions about language grounding, human embodiment and other related topics</li>
-  <li>visual and linguistic cognition in infancy and/or adults</li>
-          </ul>
-      </p>
-      <p>We welcome review and positional papers that may foster discussions. We also encourage published papers from <i>*non-ML*</i> conferences, e.g. epistemology, cognitive science, psychology, neuroscience, that are within the scope of the workshop. Accepted papers will be presented during joint poster sessions, with exceptional submissions selected for spotlight oral presentations. Accepted papers will be made publicly available as <i>*non-archival*</i> reports, allowing future submissions to archival conferences or journals. </p>
-  </div>
-</div>
-
-
-<br />
-
-<div class="row" id="guidelines">
-  <div class="col-xs-12">
-    <h2>Submission Guidelines</h2>
-  </div>
-</div>
-
-<div class="row">
-    <div class="col-xs-12">
-      <p>
-            Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>.
-        </p>
-    <ul>
-      <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including NAACL 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li>
-      <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li>
-    </ul>
-    <p>
-            In case of any issues, feel free to email the workshop organizers at: <a href="mailto:vigilworkshop@gmail.com">vigilworkshop@gmail.com</a>.
-    </p>
-    </div>
-</div>
-
-
-<hr />
-
+<!-- Speakers -->
 <div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Speakers</h2>
   </div>
 </div>
-
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://homes.cs.washington.edu/~yejin/">
@@ -208,17 +180,7 @@ acknowledgements: ""
 
 <hr />
 
-<div class="row" id="intro">
-    <div class="col-xs-12">
-        <h2>Introduction</h2>
-        <p>Language is neither learned nor used in a vacuum, but rather grounded within a rich, embodied experience rife with physical groundings (vision, audition, touch) and social influences (pragmatic reasoning about interlocutors, commonsense reasoning, learning from interaction) [1]. For example, studies of language acquisition in children show a strong interdependence between perception, motor control, and language understanding [2]. Yet, AI research has traditionally carved out individual components of this multimodal puzzle—perception (computer vision, audio processing, haptics), interaction with the world or other agents (robotics, reinforcement learning), and natural language processing—rather than adopting an interdisciplinary approach.</p>
-        <p>This fractured lens makes it difficult to address key language understanding problems that future agents will face in the wild. For example, describing "a bird perched on the lowest branch singing in a high pitch trill" requires grounding to perception. Likewise, providing the instruction to "move the jack to the left so it pushes on the frame of the car" requires not only perceptual grounding, but also physical understanding. For these reasons, language, perception, and interaction should be learned and bootstrapped together. In the last several years, efforts to merge subsets of these areas have gained popularity through tasks like instruction-guided navigation in 3D environments [3–5], audio-visual navigation [6], video descriptions [7], question-answering [8–11], and language-conditioned robotic control [12, 13], though these primarily study disembodied problems via static datasets. As such, there remains considerable scientific uncertainty around how to bridge the gap from current monolithic systems to holistic agents. What are the tasks? The environments? How to design and train such models? To transfer knowledge between modalities? To perform multimodal reasoning? To deploy language agents in the wild?</p>
-        <p>As in past incarnations, the goal of this 4th ViGIL workshop is to support and promote this research direction by bringing together scientists from diverse backgrounds—natural language processing, machine learning, computer vision, robotics, neuroscience, cognitive science, psychology, and philosophy—to share their perspectives on language grounding, embodiment, and interaction. ViGIL provides a unique opportunity for interdisciplinary discussion. We intend to utilize this variety of perspectives to foster new ideas about how to define, evaluate, learn, and leverage language grounding. This one-day session would enable in-depth conversations on understanding the boundaries of current work and establishing promising avenues for future work, with the overall aim to bridge the scientific fields of human cognition and machine learning.</p>
-    </div>
-</div>
-
-<hr />
-
+<!-- Scientific Organizers -->
 <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
@@ -310,6 +272,7 @@ acknowledgements: ""
 
 <hr />
 
+<!-- Scientific Committee -->
 <div class="row" id="scientific_committee">
   <div class="col-xs-12">
     <h2>Scientific Committee</h2>
@@ -354,7 +317,79 @@ acknowledgements: ""
   </div>
 </div>
 
-<hr>
+<hr />
+
+<!-- CfP -->
+<div class="row" id="cfp">
+  <div class="col-xs-12">
+    <h2>Call for Papers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      The authors are welcome to submit a 4-page paper based on in-progress work, or relevant paper being presented at the main conference, on any of the following topics:
+    </p>
+    <p>
+          <ul>
+  <li>grounded and interactive language acquisition;</li>
+  <li>reasoning and planning in language, vision, and interactive domains;</li>
+  <li>machine translation with visual cues;</li>
+  <li>transfer learning in language and vision tasks;</li>
+  <li>visual captioning, dialog, storytelling, and question-answering;</li>
+  <li>visual synthesis from language;</li>
+  <li>embodied agents: language instructions, agent co-ordination through language, interaction;</li>
+  <li>language-grounded robotic learning with multimodal inputs;</li>
+  <li>human-machine interaction with language through robots or within virtual world;</li>
+  <li>audio-visual scene understanding and dialog systems;</li>
+  <li>novel tasks that combine language, vision, interactions, and other modalities;</li>
+  <li>understanding and modeling the relationship between language and vision in humans;</li>
+  <li>semantic systems and modeling of natural language and visual stimuli representations in the human brain;</li>
+  <li>epistemology and research reflexions about language grounding, human embodiment and other related topics</li>
+  <li>visual and linguistic cognition in infancy and/or adults</li>
+          </ul>
+      </p>
+      <p>We welcome review and positional papers that may foster discussions. We also encourage published papers from <i>*non-ML*</i> conferences, e.g. epistemology, cognitive science, psychology, neuroscience, that are within the scope of the workshop. Accepted papers will be presented during joint poster sessions, with exceptional submissions selected for spotlight oral presentations. Accepted papers will be made publicly available as <i>*non-archival*</i> reports, allowing future submissions to archival conferences or journals. </p>
+  </div>
+</div>
+
+<hr />
+
+<!-- Submission -->
+<div class="row" id="guidelines">
+  <div class="col-xs-12">
+    <h2>Submission Guidelines</h2>
+  </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+      <p>
+            Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>.
+        </p>
+    <ul>
+      <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including NAACL 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li>
+      <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li>
+    </ul>
+    <p>
+        In case of any issues, feel free to email the workshop organizers at: <a href="mailto:vigilworkshop@gmail.com">vigilworkshop@gmail.com</a>.
+    </p>
+    </div>
+</div>
+
+<hr />
+<!-- Intro -->
+<div class="row" id="intro">
+    <div class="col-xs-12">
+        <h2>Introduction</h2>
+        <p>Language is neither learned nor used in a vacuum, but rather grounded within a rich, embodied experience rife with physical groundings (vision, audition, touch) and social influences (pragmatic reasoning about interlocutors, commonsense reasoning, learning from interaction) [1]. For example, studies of language acquisition in children show a strong interdependence between perception, motor control, and language understanding [2]. Yet, AI research has traditionally carved out individual components of this multimodal puzzle—perception (computer vision, audio processing, haptics), interaction with the world or other agents (robotics, reinforcement learning), and natural language processing—rather than adopting an interdisciplinary approach.</p>
+        <p>This fractured lens makes it difficult to address key language understanding problems that future agents will face in the wild. For example, describing "a bird perched on the lowest branch singing in a high pitch trill" requires grounding to perception. Likewise, providing the instruction to "move the jack to the left so it pushes on the frame of the car" requires not only perceptual grounding, but also physical understanding. For these reasons, language, perception, and interaction should be learned and bootstrapped together. In the last several years, efforts to merge subsets of these areas have gained popularity through tasks like instruction-guided navigation in 3D environments [3–5], audio-visual navigation [6], video descriptions [7], question-answering [8–11], and language-conditioned robotic control [12, 13], though these primarily study disembodied problems via static datasets. As such, there remains considerable scientific uncertainty around how to bridge the gap from current monolithic systems to holistic agents. What are the tasks? The environments? How to design and train such models? To transfer knowledge between modalities? To perform multimodal reasoning? To deploy language agents in the wild?</p>
+        <p>As in past incarnations, the goal of this 4th ViGIL workshop is to support and promote this research direction by bringing together scientists from diverse backgrounds—natural language processing, machine learning, computer vision, robotics, neuroscience, cognitive science, psychology, and philosophy—to share their perspectives on language grounding, embodiment, and interaction. ViGIL provides a unique opportunity for interdisciplinary discussion. We intend to utilize this variety of perspectives to foster new ideas about how to define, evaluate, learn, and leverage language grounding. This one-day session would enable in-depth conversations on understanding the boundaries of current work and establishing promising avenues for future work, with the overall aim to bridge the scientific fields of human cognition and machine learning.</p>
+    </div>
+</div>
+
+<hr />
+
+<!-- Previous Sessions -->
 <div class="row">
   <div class="col-xs-12">
     <h2>Previous Sessions</h2><a name="/prev_session"></a>
@@ -374,6 +409,7 @@ acknowledgements: ""
 
 <hr />
 
+<!-- References -->
 <div class="row">
   <div class="col-xs-12">
     <h2>References</h2>
