@@ -52,7 +52,6 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="14:00">14:00 PM</th> <td>Break 3</td> </tr>
     <tr> <th scope="row" data-time="14:30">14:30 PM</th> <td>Talk 5: Yejin Choi</td> </tr>
     <tr> <th scope="row" data-time="15:15">15:15 PM</th> <td>Talk 6: Justin Johnson</td> </tr>
-    <tr> <th scope="row" data-time="16:00">16:00 PM</th> <td>GQA Challenge</td> </tr>
     <tr> <th scope="row" data-time="16:20">16:20 PM</th> <td>Spotlight Presentations</td> </tr>
     <tr> <th scope="row" data-time="16:30">16:30 PM</th> <td>Poster</td> </tr>
     <tr> <th scope="row" data-time="18:00">18:00 PM</th> <td>Talk 7: Trevor Darrell</td> </tr>
@@ -194,7 +193,7 @@ acknowledgements: ""
     <li>
         <span class="paper-title"><span style="color:#DD3333;font-weight:700">[Spotlight]</span> SocialAI 0.1: Towards a Benchmark to Stimulate Research on Socio-Cognitive Abilities in Deep Reinforcement Learning Agents</span><br>
         <span class="paper-authors">Rémy Portelas (Inria Bordeaux); Grgur Kovač (INRIA, Flowers team); Katja Hofmann (Microsoft Research); Pierre-Yves Oudeyer (Inria)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/20.pdf">PDF</a>]</span>
+        <span class="paper-meta">[<a href="static/papers-2021/20.pdf">PDF</a>] [<a href="static/papers-2021/20.mp4" target="_blank">Spotlight Video</a>]</span>
     </li>
     <li>
         <span class="paper-title"><span style="color:#DD3333;font-weight:700">[Spotlight]</span> Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments</span><br>
