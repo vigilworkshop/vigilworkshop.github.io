@@ -52,8 +52,8 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="14:00">14:00 PM</th> <td>Break 3</td> </tr>
     <tr> <th scope="row" data-time="14:30">14:30 PM</th> <td>Talk 5: Yejin Choi</td> </tr>
     <tr> <th scope="row" data-time="15:15">15:15 PM</th> <td>Talk 6: Justin Johnson</td> </tr>
-    <tr> <th scope="row" data-time="16:20">16:20 PM</th> <td>Spotlight Presentations</td> </tr>
-    <tr> <th scope="row" data-time="16:30">16:30 PM</th> <td>Poster</td> </tr>
+    <tr> <th scope="row" data-time="16:00">16:00 PM</th> <td>Spotlight Presentations</td> </tr>
+    <tr> <th scope="row" data-time="16:10">16:10 PM</th> <td>Poster</td> </tr>
     <tr> <th scope="row" data-time="18:00">18:00 PM</th> <td>Talk 7: Trevor Darrell</td> </tr>
     <tr> <th scope="row" data-time="18:45">18:45 PM</th> <td>Talk 8: Sandra Waxman</td> </tr>
     <tr> <th scope="row" data-time="19:30">19:30 PM</th> <td>Closing Remark</td> </tr>
