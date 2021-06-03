@@ -22,7 +22,7 @@ acknowledgements: ""
 <div class="row">
     <div class="col-xs-12">
         <p>
-          VIGIL is a one-day interdisciplinary workshop that will push the boundaries of language grounding systems. We aim to bridge the fields of human cognition and machine learning through discussions on combining language, perception and other modalities via interaction. This year, ViGIL will also be hosting the <a href="https://cs.stanford.edu/people/dorarad/gqa/challenge.html">2nd GQA challenge</a>, which focuses on compositional reasoning for visual question answering.
+          VIGIL is a one-day interdisciplinary workshop that will push the boundaries of language grounding systems. We aim to bridge the fields of human cognition and machine learning through discussions on combining language, perception and other modalities via interaction.
         </p>
     </div>
 </div>
