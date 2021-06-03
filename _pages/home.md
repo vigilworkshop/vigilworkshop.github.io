@@ -182,6 +182,7 @@ acknowledgements: ""
 <div class="row" id="accepted">
   <div class="col-xs-12">
     <h2>Accepted Papers</h2>
+    <p>Note: 3 additional papers were accepted but are not listed here because of an anonymity period.</p>
   </div>
 </div>
 <ul class="paper-list">
@@ -214,6 +215,11 @@ acknowledgements: ""
         <span class="paper-title">Image Translation Model</span><br>
         <span class="paper-authors">Puneet Jain (Google); Orhan Firat (Google ); Qi Ge (Google); Sihang Liang (Princeton University)</span><br>
         <span class="paper-meta">[<a href="static/papers-2021/5.pdf">PDF</a>]</span>
+    </li>
+    <li>
+        <span class="paper-title">EVOQUER: Enhancing Temporal Grounding with Video-Pivoted Back Query Generation</span><br>
+        <span class="paper-authors">Yanjun Gao (Penn State University NLP Lab); Lulu Liu (Penn State University); Jason Wang (Penn State University); Xin Chen (Kuaishou Technology); Huayan Wang (Kuaishou Technology); Rui Zhang (Penn State University)</span><br>
+        <span class="paper-meta">[<a href="static/papers-2021/6.pdf">PDF</a>]</span>
     </li>
     <li>
         <span class="paper-title">“Yes” and “No”: Visually Grounded Polar Answers</span><br>
