@@ -232,7 +232,7 @@ acknowledgements: ""
     </li>
     <li>
         <span class="paper-title">Language-Conditional Imitation Learning</span><br>
-        <span class="paper-authors">Julian Skirzynski (University of California, San Diego), Bobak Baghi (McGill Uniersity), David Meger (McGill University)</span><br>
+        <span class="paper-authors">Julian Skirzynski (University of California, San Diego), Bobak Baghi (McGill University), David Meger (McGill University)</span><br>
         <span class="paper-meta">[<a href="static/papers-2021/11.pdf">PDF</a>]</span>
     </li>
     <li>
