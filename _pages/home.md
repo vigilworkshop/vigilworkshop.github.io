@@ -228,7 +228,7 @@ acknowledgements: ""
     </li>
     <li>
         <span class="paper-title">VISITRON: Visual Semantics-Aligned Interactively Trained Object-Navigator</span><br>
-        <span class="paper-authors">Ayush Shrivastava (Georgia Institute of Technology); Karthik Gopalakrishnan (Amazon Alexa AI); Yang Liu (Amazon, Alexa AI); Robinson Piramuthu (eBay Inc.); Gokhan Tur (); Devi Parikh (Georgia Tech & Facebook AI Research); Dilek Hakkani-Tur (Amazon Alexa AI)</span><br>
+        <span class="paper-authors">Ayush Shrivastava (Georgia Institute of Technology); Karthik Gopalakrishnan (Amazon Alexa AI); Yang Liu (Amazon, Alexa AI); Robinson Piramuthu (Amazon); Gokhan Tur; Devi Parikh (Georgia Tech & Facebook AI Research); Dilek Hakkani-Tur (Amazon Alexa AI)</span><br>
         <span class="paper-meta">[<a href="static/papers-2021/9.pdf">PDF</a>]</span>
     </li>
     <li>
