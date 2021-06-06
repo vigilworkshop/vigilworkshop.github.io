@@ -14,6 +14,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Visually Grounded Interaction and Language (ViGIL)</h1></center>
     <center><h2>June 10, 2021. NAACL Workshop, Mexico City, Mexico.</h2></center>
+    <center><a href="https://underline.io/events/122/sessions?eventSessionId=4293" target="_blank">Underline Link</a> (NAACL Registration Required)</center>
   </div>
 </div>
 
