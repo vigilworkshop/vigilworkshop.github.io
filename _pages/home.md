@@ -48,7 +48,7 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="09:45">09:45 AM</th> <td>Talk 2: Stefanie Tellex: Towards Complex Language in Partially Observed Environments</td></tr>
     <tr> <th scope="row" data-time="10:30">10:30 AM</th> <td>Break 1</td></tr>
     <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td>Talk 3: Katerina Fragkiadaki</td> </tr>
-    <tr> <th scope="row" data-time="11:45">11:45 AM</th> <td>Talk 4: Max Garagnani</td></tr>
+    <tr> <th scope="row" data-time="11:45">11:45 AM</th> <td>Talk 4: Max Garagnani: Action-Perception Circuits for Word Learning and Semantic Grounding</td></tr>
     <tr> <th scope="row" data-time="12:30">12:30 PM</th> <td>Break 2</td></tr>
     <tr> <th scope="row" data-time="13:00">13:00 PM</th> <td>Panel Discussion</td> </tr>
     <tr> <th scope="row" data-time="14:00">14:00 PM</th> <td>Break 3</td> </tr>
