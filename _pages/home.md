@@ -81,7 +81,13 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="15:15">15:15 PM</th> <td>Talk 6: Justin Johnson</td> </tr>
     <tr> <th scope="row" data-time="16:00">16:00 PM</th> <td>Spotlight Presentations</td> </tr>
     <tr> <th scope="row" data-time="16:10">16:10 PM</th> <td>Poster</td> </tr>
-    <tr> <th scope="row" data-time="18:00">18:00 PM</th> <td>Talk 7: Trevor Darrell: Modularity in Grounded Interaction</td> </tr>
+    <tr> <th scope="row" data-time="18:00">18:00 PM</th> <td>
+      Talk 7: Trevor Darrell: Modularity in Grounded Interaction
+      <a data-toggle="collapse" href="#schedule-talk7" aria-cexpanded="false" aria-controls="schedule-talk7">[Abstract]</a>
+      <div class="collapse" id="schedule-talk7">
+        Abstract: Neural networks have made great strides in language grounding, but still leave room for improvement in robustness, ease of design, and interpretability. Modularity, a staple of complex system design, has the potential to help on all of these. We find that modular neural nets outperform their non-modular counterparts on a grounded collaborative dialogue task and in compositional generalization settings for embodied instruction following.
+      </div>
+    </td> </tr>
     <tr> <th scope="row" data-time="18:45">18:45 PM</th> <td>
       Talk 8: Sandra Waxman: How (and how early) do infants link language and cognition?
       <a data-toggle="collapse" href="#schedule-talk8" aria-cexpanded="false" aria-controls="schedule-talk8">[Abstract]</a>
