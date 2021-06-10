@@ -87,6 +87,7 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="15:15">15:15 PM</th> <td>Talk 6: Justin Johnson</td> </tr>
     <tr> <th scope="row" data-time="16:00">16:00 PM</th> <td>Spotlight Presentations</td> </tr>
     <tr> <th scope="row" data-time="16:10">16:10 PM</th> <td>Poster</td> </tr>
+    <tr> <th scope="row" data-time="17:30">17:30 PM</th> <td>Break</td> </tr>
     <tr> <th scope="row" data-time="18:00">18:00 PM</th> <td>
       Talk 7: Trevor Darrell<br />Modularity in Grounded Interaction
       <a data-toggle="collapse" href="#schedule-talk7" aria-cexpanded="false" aria-controls="schedule-talk7">[Abstract]</a>
