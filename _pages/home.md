@@ -84,12 +84,18 @@ acknowledgements: ""
         Abstract: In this talk, we will consider Harnad’s symbol grounding problem from three different angles: learning the functional meaning of objects and actions through interactions in a 3D environment, learning the grounded meaning of more complex language by watching YouTube videos at extreme scale, and learning causal commonsense inferences of the visual scenes through a large-scale symbolic knowledge graph.
       </div>
     </td> </tr>
-    <tr> <th scope="row" data-time="15:15">15:15 PM</th> <td>Talk 6: Justin Johnson</td> </tr>
+    <tr> <th scope="row" data-time="15:15">15:15 PM</th> <td>
+      Talk 6: Justin Johnson<br />Learning Visual Representations from Language
+      <a data-toggle="collapse" href="#schedule-6" aria-cexpanded="false" aria-controls="schedule-6">[Abstract]</a>
+      <div class="collapse" id="schedule-6">
+        Abstract: Standard practice in vision+language is to treat multimodal vision+language tasks as downstream from vision: generic unimodal representations are combined for multimodal end tasks. In this talk I'll argue that this should be flipped: multimodal vision+language tasks should be used to learn powerful representations that can be transferred to downstream visual representation tasks. Our approach, termed VirTex, uses image captioning as a pretext task for learning visual features. When trained on COCO captions, VirTex learns representations that match or exceed supervised ImageNet pretraining on many downstream visual recognition tasks. I will also discuss our efforts to scale up this algorithm, for which we've created a new dataset of 11.7M high-quality images and natural-language captions.
+      </div>
+    </td> </tr>
     <tr> <th scope="row" data-time="16:00">16:00 PM</th> <td>Spotlight Presentations</td> </tr>
     <tr> <th scope="row" data-time="16:10">16:10 PM</th> <td>Poster</td> </tr>
     <tr> <th scope="row" data-time="17:30">17:30 PM</th> <td>Break</td> </tr>
     <tr> <th scope="row" data-time="18:00">18:00 PM</th> <td>
-      Talk 7: Trevor Darrell<br />Modularity in Grounded Interaction
+      Talk 7: Trevor Darrell (presented by Daniel Fried and Rudy Corona)<br />Modularity in Grounded Interaction
       <a data-toggle="collapse" href="#schedule-talk7" aria-cexpanded="false" aria-controls="schedule-talk7">[Abstract]</a>
       <div class="collapse" id="schedule-talk7">
         Abstract: Neural networks have made great strides in language grounding, but still leave room for improvement in robustness, ease of design, and interpretability. Modularity, a staple of complex system design, has the potential to help on all of these. We find that modular neural nets outperform their non-modular counterparts on a grounded collaborative dialogue task and in compositional generalization settings for embodied instruction following.
