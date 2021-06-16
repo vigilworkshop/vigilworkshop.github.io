@@ -15,7 +15,7 @@ acknowledgements: ""
     <center><h1>Visually Grounded Interaction and Language (ViGIL)</h1></center>
     <center><h2>June 10, 2021. NAACL Workshop, Mexico City, Mexico.</h2></center>
     <center><a href="https://underline.io/events/122/sessions?eventSessionId=4293" target="_blank">Underline Link</a> (NAACL Registration Required)</center>
-    <center>Ask the panelists! Submit your questions at <a href="https://app.sli.do/event/zf5ggt9a/live/questions" target="_blank">sli.do</a>.</center>
+    <!--center>Ask the panelists! Submit your questions at <a href="https://app.sli.do/event/zf5ggt9a/live/questions" target="_blank">sli.do</a>.</center-->
   </div>
 </div>
 
@@ -47,6 +47,7 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td>
       Talk 1: Roger Levy<br />Semantics, Pragmatics, and Context in Human Grounded Language Understanding
       <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a>
+      <a target="_blank" href="/static/slides-2021/roger_levy.pdf">[Slides]</a>
       <div class="collapse" id="schedule-talk1">
         Abstract: Computational systems for grounded language understanding have seen impressive advances over the last decade, due largely to advances in multimodal datasets, neural and symbolic modeling techniques, and computational power. But human meaning interpretation in grounded contexts remains far deeper and more sophisticated. In this talk I describe several recent studies in our research group that illustrate the subtlety and richness of human meaning interpretation using very simple, experimentally controlled utterances and visual grounding contexts. These studies shed light on the compositional structure of the semantic representations underlying human language comprehension, their relationship with the pragmatic inference mechanisms that support contextually conditioned interpretation, and the likely requirements for truly human-like language understanding in artificial systems.
       </div>
@@ -80,6 +81,7 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="14:30">14:30 PM</th> <td>
       Talk 5: Yejin Choi<br />Grounded Causal Commonsense Reasoning
       <a data-toggle="collapse" href="#schedule-talk5" aria-cexpanded="false" aria-controls="schedule-talk5">[Abstract]</a>
+      <a target="_blank" href="/static/slides-2021/yejin_choi.pdf">[Slides]</a>
       <div class="collapse" id="schedule-talk5">
         Abstract: In this talk, we will consider Harnad’s symbol grounding problem from three different angles: learning the functional meaning of objects and actions through interactions in a 3D environment, learning the grounded meaning of more complex language by watching YouTube videos at extreme scale, and learning causal commonsense inferences of the visual scenes through a large-scale symbolic knowledge graph.
       </div>
