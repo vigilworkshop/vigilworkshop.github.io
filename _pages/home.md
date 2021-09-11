@@ -99,6 +99,7 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="18:00">18:00 PM</th> <td>
       Talk 7: Trevor Darrell (presented by Daniel Fried and Rudy Corona)<br />Modularity in Grounded Interaction
       <a data-toggle="collapse" href="#schedule-talk7" aria-cexpanded="false" aria-controls="schedule-talk7">[Abstract]</a>
+      <a target="_blank" href="/static/slides-2021/fried_corona.pdf">[Slides]</a>
       <div class="collapse" id="schedule-talk7">
         Abstract: Neural networks have made great strides in language grounding, but still leave room for improvement in robustness, ease of design, and interpretability. Modularity, a staple of complex system design, has the potential to help on all of these. We find that modular neural nets outperform their non-modular counterparts on a grounded collaborative dialogue task and in compositional generalization settings for embodied instruction following.
       </div>
